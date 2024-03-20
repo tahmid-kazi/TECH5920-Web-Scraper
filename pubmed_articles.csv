@@ -1,11 +1,2305 @@
-Keyword,Title,URL,Abstract
-cancer,Global Cancer Incidence and Mortality Rates and Trends--An Update.,https://pubmed.ncbi.nlm.nih.gov/26667886,"There are limited published data on recent cancer incidence and mortality trends worldwide. We used the International Agency for Research on Cancer's CANCERMondial clearinghouse to present age-standardized cancer incidence and death rates for 2003-2007. We also present trends in incidence through 2007 and mortality through 2012 for select countries from five continents. High-income countries (HIC) continue to have the highest incidence rates for all sites, as well as for lung, colorectal, breast, and prostate cancer, although some low- and middle-income countries (LMIC) now count among those with the highest rates. Mortality rates from these cancers are declining in many HICs while they are increasing in LMICs. LMICs have the highest rates of stomach, liver, esophageal, and cervical cancer. Although rates remain high in HICs, they are plateauing or decreasing for the most common cancers due to decreases in known risk factors, screening and early detection, and improved treatment (mortality only). In contrast, rates in several LMICs are increasing for these cancers due to increases in smoking, excess body weight, and physical inactivity. LMICs also have a disproportionate burden of infection-related cancers. Applied cancer control measures are needed to reduce rates in HICs and arrest the growing burden in LMICs."
-cancer,Cancer and cure: A critical analysis.,https://pubmed.ncbi.nlm.nih.gov/28244479,"Cancer is one of the most dreaded diseases of the 20th century and spreading further with continuance and increasing incidence in the 21st century. The situation is so alarming that every fourth person is having a lifetime risk of cancer. India registers more than 11 lakh new cases of cancer every year, whereas, this figure is above 14 million worldwide. Is cancer curable? The short answer to this question is ""Yes."" In fact, all cancers are curable if they are caught early enough. Cancer cells continue to grow unless one of four things occur: (1) The cancerous mass is removed surgically; (2) using chemotherapy or another type of cancer-specific medication, such as hormonal therapy; (3) using radiation therapy; or (4) the cancer cells shrink and disappear on their own."
-cancer,Measuring cancer evolution from the genome.,https://pubmed.ncbi.nlm.nih.gov/27741350,"The temporal dynamics of cancer evolution remain elusive, because it is impractical to longitudinally observe cancers unperturbed by treatment. Consequently, our knowledge of how cancers grow largely derives from inferences made from a single point in time - the endpoint in the cancer's evolution, when it is removed from the body and studied in the laboratory. Fortuitously however, the cancer genome, by virtue of ongoing mutations that uniquely mark clonal lineages within the tumour, provides a rich, yet surreptitious, record of cancer development. In this review, we describe how a cancer's genome can be analysed to reveal the temporal history of mutation and selection, and discuss why both selective and neutral evolution feature prominently in carcinogenesis. We argue that selection in cancer can only be properly studied once we have some understanding of what the absence of selection looks like. We review the data describing punctuated evolution in cancer, and reason that punctuated phenotype evolution is consistent with both gradual and punctuated genome evolution. We conclude that, to map and predict evolutionary trajectories during carcinogenesis, it is critical to better understand the relationship between genotype change and phenotype change. Copyright © 2016 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd."
-cancer,The Role of Telomerase in Breast Cancer's Response to Therapy.,https://pubmed.ncbi.nlm.nih.gov/36361634,"Currently, breast cancer appears to be the most widespread cancer in the world and the most common cause of cancer deaths. This specific type of cancer affects women in both developed and developing countries. Prevention and early diagnosis are very important factors for good prognosis. A characteristic feature of cancer cells is the ability of unlimited cell division, which makes them immortal. Telomeres, which are shortened with each cell division in normal cells, are rebuilt in cancer cells by the enzyme telomerase, which is expressed in more than 85% of cancers (up to 100% of adenocarcinomas, including breast cancer). Telomerase may have different functions that are related to telomeres or unrelated. It has been shown that high activity of the enzyme in cancer cells is associated with poor cell sensitivity to therapies. Therefore, telomerase has become a potential target for cancer therapies. The low efficacy of therapies has resulted in the search for new combined and more effective therapeutic methods, including the involvement of telomerase inhibitors and telomerase-targeted immunotherapy."
-cancer,Recent Updates on the Relationship between Cancer and Autoimmune Pancreatitis.,https://pubmed.ncbi.nlm.nih.gov/30713326,"Autoimmune pancreatitis (AIP) is now considered a pancreatic manifestation of a newly proposed disease condition, IgG4-related disease (IgG4-RD). IgG4-RD is characterized by enhanced IgG4 antibody responses and multiple organ involvements. Recent epidemiological studies have addressed the incidence of cancer in patients with AIP and/or IgG4-RD. Surprisingly, a significant number of AIP patients were detected with cancer at or within one year of the diagnosis of AIP. Furthermore, around 50% of all cancers detected in AIP patients comprised mainly 3 types (gastric, lung, and prostate cancer). Thus, AIP appears to be associated with cancer of other organs rather than the pancreas itself, which suggests that AIP is not a pre-cancerous condition of the pancreas. Moreover, the simultaneous occurrence of cancer and AIP in many patients has led to the establishment of an attractive concept that AIP might sometimes arise from co-existing cancers as a paraneoplastic syndrome."
-cancer,Field cancerization in breast cancer.,https://pubmed.ncbi.nlm.nih.gov/35362092,"Breast cancer affects one in seven women worldwide during their lifetime. Widespread mammographic screening programs and education campaigns allow for early detection of the disease, often during its asymptomatic phase. Current practice in treatment and recurrence monitoring is based primarily on pathological evaluations but can also encompass genomic evaluations, both of which focus on the primary tumor. Although breast cancer is one of the most studied cancers, patients still recur at a rate of up to 15% within the first 10 years post-surgery. Local recurrence was originally attributed to tumor cells contaminating histologically normal (HN) tissues beyond the surgical margin, but advances in technology have allowed for the identification of distinct aberrations that exist in the peri-tumoral tissues themselves. One leading theory to explain this phenomenon is the field cancerization theory. Under this hypothesis, tumors arise from a field of molecularly altered cells that create a permissive environment for malignant evolution, which can occur with or without morphological changes. The traditional histopathology paradigm dictates that molecular alterations are reflected in the tissue phenotype. However, the spectrum of inter-patient variability of normal breast tissue may obfuscate recognition of a cancerized field during routine diagnostics. In this review, we explore the concept of field cancerization focusing on HN peri-tumoral tissues: we present the pathological and molecular features of field cancerization within these tissues and discuss how the use of peri-tumoral tissues can affect research. Our observations suggest that pathological and molecular evaluations could be used synergistically to assess risk and guide the therapeutic management of patients. © 2022 The Authors. The Journal of Pathology published by John Wiley & Sons Ltd on behalf of The Pathological Society of Great Britain and Ireland."
-cancer,Tumor microenvironment: recent advances in various cancer treatments.,https://pubmed.ncbi.nlm.nih.gov/29949179,"This is a review regarding different types of cancer treatments. We aimed at analyzing the tumor microenvironment and the recent trends for the therapeutic applications and effectiveness for several kinds of cancers. Traditionally the cancer treatment was based on the neoplastic cells. Methods such as surgery, radiation, chemotherapy, and immunotherapy, which were targeted on the highly proliferating mutated tumor cells, have been investigated. The tumor microenvironment describes the non-cancerous cells in the tumor and has enabled to investigate the behavior and response of the cancer cells to a treatment process; it consists in a tissue that may have a predictive significance for tumor behavior and response to therapy. These include fibroblasts, immune cells and cells that comprise the blood vessels. It also includes the proteins produced by all of the cells present in the tumor that support the growth of the cancer cells. By monitoring changes in the tumor microenvironment using its molecular and cellular profiles as the tumor progresses will be vital for identifying cell or protein targets for the cancer prevention and its therapeutic purposes."
-cancer,What Is Cancer?,https://pubmed.ncbi.nlm.nih.gov/31761807,"This essay focuses on themes in Explaining Cancer: Finding Order in Disorder (2018) by Anya Plutynski, a monograph that has important things to say about both the peculiarities of cancers and our theories about them. Cancer's agents of destruction are human cells that have been recruited and to some extent transformed into pathological organisms or the building blocks of tumors. Cancers both undermine and exploit mechanisms of multicellular organization, and understanding them gives rise to difficult philosophical problems. In addition to sketching Plutynski's discussion of these problems, this essay defends Christopher Boorse's account of disease from Plutynski's criticisms, and it expresses some qualms about her treatment of scientific explanation."
-cancer,New methods in the diagnosis of cancer and gene therapy of cancer based on nanoparticles.,https://pubmed.ncbi.nlm.nih.gov/28574057,"Cancer is one of the leading cause of death in the world with the prevalence of >10 million mortalities annually. Current cancer treatments include surgical intervention, radiation, and taking chemotherapeutic drugs, which often kill the healthy cells and result in toxicity in patients. Therefore, researchers are looking for ways to be able to eliminate just cancerous cells. Intra-tumor heterogeneity of cancerous cells is the main obstacle on the way of an effective cancer treatment. However, better comprehension of molecular basis of tumor and the advent of new diagnostic technologies can help to improve the treatment of various cancers. Therefore, study of epigenetic changes, gene expression of cancerous cells and employing methods that enable us to correct or minimize these changes is critically important. In this paper, we will review the recent advanced strategies being used in the field of cancer research."
-cancer,Cancer's new normal.,https://pubmed.ncbi.nlm.nih.gov/35121920,No abstract available
+Keyword,Title,URL,Abstract,Authors,Affiliations,Keywords,Publication Date
+cancer,Knowledge-Based Therapeutics for Tricarboxylic Acid (TCA) Cycle-Deficient Cancers.,https://pubmed.ncbi.nlm.nih.gov/38503501,"With the foundation pre-laid, research in the new millennium has readily excavated and expanded upon the architectural framework laid out by Otto Warburg's seminal work in a new wave of ""westward expansion,"" ever widening our understanding of cancer metabolism beyond the telescopic vision seen over a century ago. On this path, the unique circuitry of the cancer metabolic program has been elucidated, illuminating mutations of conserved cellular pathways implicated in tumorigenesis. Paramount among these are mutations in tricarboxylic acid cycle enzymes, succinate dehydrogenase, and fumarate hydratase, leading to deleterious accumulations in metabolic intermediates, ""oncometabolites,"" the pilots of the disease process. In this work, we seek to reflect on the advancements in the field in recent years, updating knowledge on the exact biochemical mechanisms at the helm of the tumor, providing rationale for clinical trials currently underway, and anticipating directions for the future on this expansive frontier.","Daniel Peled 
+                1
+              , Ruth Casey 
+                2
+              , Eyal Gottlieb 
+                3; Daniel Peled 
+                1
+              , Ruth Casey 
+                2
+              , Eyal Gottlieb 
+                3","Affiliations
+          
+
+1 Department of Cell Biology and Cancer Science, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 3525433, Israel.
+2 Department of Medical Genetics, NIHR Cambridge Biomedical Research Centre, Cancer Research UK Cambridge Centre, Cambridge Biomedical Campus, University of Cambridge, Cambridge CB2 0QQ, United Kingdom.
+3 Department of Cancer Biology, University of Texas MD Anderson Cancer Center, Houston, Texas 77030, USA EGottlieb@mdanderson.org.; Affiliations
+          
+
+1 Department of Cell Biology and Cancer Science, Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa 3525433, Israel.
+2 Department of Medical Genetics, NIHR Cambridge Biomedical Research Centre, Cancer Research UK Cambridge Centre, Cambridge Biomedical Campus, University of Cambridge, Cambridge CB2 0QQ, United Kingdom.
+3 Department of Cancer Biology, University of Texas MD Anderson Cancer Center, Houston, Texas 77030, USA EGottlieb@mdanderson.org.",,2024 Mar 19:a041536.
+cancer,Addressing Biological Questions with Preclinical Cancer Imaging.,https://pubmed.ncbi.nlm.nih.gov/38503500,"The broad application of noninvasive imaging has transformed preclinical cancer research, providing a powerful means to measure dynamic processes in living animals. While imaging technologies are routinely used to monitor tumor growth in model systems, their greatest potential lies in their ability to answer fundamental biological questions. Here we present the broad range of potential imaging applications according to the needs of a cancer biologist with a focus on some of the common biological processes that can be used to visualize and measure. Topics include imaging metastasis; biophysical properties such as perfusion, diffusion, oxygenation, and stiffness; imaging the immune system and tumor microenvironment; and imaging tumor metabolism. We also discuss the general ability of each approach and the level of training needed to both acquire and analyze images. The overall goal is to provide a practical guide for cancer biologists interested in answering biological questions with preclinical imaging technologies.","Chris B Damoci 
+                1
+              , Joseph R Merrill 
+                2
+              , Yanping Sun 
+                1
+              , Scott K Lyons 
+                2
+              , Kenneth P Olive 
+                3
+               
+                4; Chris B Damoci 
+                1
+              , Joseph R Merrill 
+                2
+              , Yanping Sun 
+                1
+              , Scott K Lyons 
+                2
+              , Kenneth P Olive 
+                3
+               
+                4","Affiliations
+          
+
+1 Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, New York 10032, USA.
+2 Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA.
+3 Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, New York 10032, USA kpo2104@cumc.columbia.edu.
+4 Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA.; Affiliations
+          
+
+1 Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, New York 10032, USA.
+2 Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA.
+3 Herbert Irving Comprehensive Cancer Center, Columbia University Irving Medical Center, New York, New York 10032, USA kpo2104@cumc.columbia.edu.
+4 Department of Medicine, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, New York 10032, USA.",,2024 Mar 19:a041378.
+cancer,Tracing the Diverse Paths of One-Carbon Metabolism in Cancer and Beyond.,https://pubmed.ncbi.nlm.nih.gov/38503499,"One-carbon (1C) metabolism is a network of biochemical reactions distributed across organelles that delivers folate-activated 1C units to support macromolecule synthesis, methylation, and reductive homeostasis. Fluxes through these pathways are up-regulated in highly proliferative cancer cells, and anti-folates, which target enzymes within the 1C pathway, have long been used in the treatment of cancer. In this work, we review fundamental aspects of 1C metabolism and place it in context with other biosynthetic and redox pathways, such that 1C metabolism acts to bridge pathways across compartments. We further discuss the importance of stable-isotope-tracing techniques combined with mass spectrometry analysis to study 1C metabolism and conclude by highlighting therapeutic approaches that could exploit cancer cells' dependency on 1C metabolism.","Esther W Lim 
+                1
+               
+                2
+              , Christian M Metallo 
+                3
+               
+                2; Esther W Lim 
+                1
+               
+                2
+              , Christian M Metallo 
+                3
+               
+                2","Affiliations
+          
+
+1 Department of Molecular and Cell Biology, Salk Institute for Biological Studies, La Jolla, California 92037, USA.
+2 Department of Bioengineering, University of California, San Diego, La Jolla, California 92093, USA.
+3 Department of Molecular and Cell Biology, Salk Institute for Biological Studies, La Jolla, California 92037, USA metallo@salk.edu.; Affiliations
+          
+
+1 Department of Molecular and Cell Biology, Salk Institute for Biological Studies, La Jolla, California 92037, USA.
+2 Department of Bioengineering, University of California, San Diego, La Jolla, California 92093, USA.
+3 Department of Molecular and Cell Biology, Salk Institute for Biological Studies, La Jolla, California 92037, USA metallo@salk.edu.",,2024 Mar 19:a041533.
+cancer,Presence and utility of electrocardiographic abnormalities in long-term childhood cancer survivors.,https://pubmed.ncbi.nlm.nih.gov/38503487,"Background:
+        
+      
+      We assessed the prevalence and diagnostic value of ECG abnormalities for cardiomyopathy surveillance in childhood cancer survivors.
+    
+
+
+          Methods:
+        
+      
+      In this cross-sectional study, 1381 survivors (≥5 years) from the Dutch Childhood Cancer Survivor Study part 2 and 272 siblings underwent a long-term follow-up ECG and echocardiography. We compared ECG abnormality prevalences using the Minnesota Code between survivors and siblings, and within biplane left ventricular ejection fraction (LVEF) categories. Among 880 survivors who received anthracycline, mitoxantrone or heart radiotherapy, logistic regression models using least absolute shrinkage and selection operator identified ECG abnormalities associated with three abnormal LVEF categories (<52% in male/<54% in female, <50% and <45%). We assessed the overall contribution of these ECG abnormalities to clinical regression models predicting abnormal LVEF, assuming an absence of systolic dysfunction with a <1% threshold probability.
+    
+
+
+          Results:
+        
+      
+      16% of survivors (52% female, mean age 34.7 years) and 14% of siblings had major ECG abnormalities. ECG abnormalities increased with decreasing LVEF. Integrating selected ECG data into the baseline model significantly improved prediction of sex-specific abnormal LVEF (c-statistic 0.66 vs 0.71), LVEF <50% (0.66 vs 0.76) and LVEF <45% (0.80 vs 0.86). While no survivor met the preset probability threshold in the first two models, the third model used five ECG variables to predict LVEF <45% and was applicable for ruling out (sensitivity 93%, specificity 56%, negative predictive value 99.6%). Calibration and internal validation tests performed well.
+    
+
+
+          Conclusion:
+        
+      
+      A clinical prediction model with ECG data (left bundle branch block, left atrial enlargement, left heart axis, Cornell's criteria for left ventricular hypertrophy and heart rate) may aid in ruling out LVEF <45%.","Esmée C de Baat 
+                1
+              , Remy Merkx 
+                2
+              , Jan M Leerink 
+                3
+              , Coen Boerhout 
+                3
+              , Heleen J H van der Pal 
+                4
+              , Elvira C van Dalen 
+                4
+              , Jacqueline Loonen 
+                5
+              , Dorine Bresters 
+                4
+               
+                6
+              , Eline van Dulmen-den Broeder 
+                7
+              , Margriet van der Heiden-van der Loo 
+                4
+              , Marry M van den Heuvel 
+                4
+               
+                8
+              , Judith L Kok 
+                4
+              , Marloes Louwerens 
+                9
+              , Sebastian J C M M Neggers 
+                4
+               
+                10
+              , Cecline M Ronckers 
+                11
+              , Jop C Teepen 
+                4
+              , Wim J E Tissing 
+                4
+               
+                12
+              , Andrica C de Vries 
+                4
+               
+                10
+              , Livia Kapusta 
+                13
+               
+                14
+              , Leontien C M Kremer 
+                4
+               
+                15
+              , Annelies M C Mavinkurve-Groothuis 
+                4
+              , Wouter E M Kok # 
+                3
+              , Elizabeth A M Feijen # 
+                4; Esmée C de Baat 
+                1
+              , Remy Merkx 
+                2
+              , Jan M Leerink 
+                3
+              , Coen Boerhout 
+                3
+              , Heleen J H van der Pal 
+                4
+              , Elvira C van Dalen 
+                4
+              , Jacqueline Loonen 
+                5
+              , Dorine Bresters 
+                4
+               
+                6
+              , Eline van Dulmen-den Broeder 
+                7
+              , Margriet van der Heiden-van der Loo 
+                4
+              , Marry M van den Heuvel 
+                4
+               
+                8
+              , Judith L Kok 
+                4
+              , Marloes Louwerens 
+                9
+              , Sebastian J C M M Neggers 
+                4
+               
+                10
+              , Cecline M Ronckers 
+                11
+              , Jop C Teepen 
+                4
+              , Wim J E Tissing 
+                4
+               
+                12
+              , Andrica C de Vries 
+                4
+               
+                10
+              , Livia Kapusta 
+                13
+               
+                14
+              , Leontien C M Kremer 
+                4
+               
+                15
+              , Annelies M C Mavinkurve-Groothuis 
+                4
+              , Wouter E M Kok # 
+                3
+              , Elizabeth A M Feijen # 
+                4","Affiliations
+          
+
+1 Princess Maxima Center for Pediatric Oncology, Utrecht, The Netherlands e.c.debaat-2@prinsesmaximacentrum.nl.
+2 Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands.
+3 Department of Cardiology, Amsterdam UMC, Amsterdam, The Netherlands.
+4 Princess Maxima Center for Pediatric Oncology, Utrecht, The Netherlands.
+5 Pediatric Hematology and Oncology, Radboud University Medical Center, Nijmegen, The Netherlands.
+6 Leiden University Medical Center, Willem Alexander Children's Hospital, Leiden, The Netherlands.
+7 Amsterdam University Medical Centres, Amsterdam, The Netherlands.
+8 Department of Pediatric Oncology, Erasmus Medical Center, Rotterdam, The Netherlands.
+9 Medical Oncologist, Department of Internal Medicine, Leiden University Medical Center, Leiden, The Netherlands.
+10 Erasmus Medical Center, Rotterdam, The Netherlands.
+11 University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany.
+12 University Medical Centre Groningen, Beatrix Children's Hospital, Groningen, The Netherlands.
+13 Department of Paediatrics, Tel Aviv University, Tel Aviv, Israel.
+14 Department of Paediatrics, Radboud University Medical Center, Nijmegen, The Netherlands.
+15 Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.; Affiliations
+          
+
+1 Princess Maxima Center for Pediatric Oncology, Utrecht, The Netherlands e.c.debaat-2@prinsesmaximacentrum.nl.
+2 Medical Imaging, Radboud University Medical Center, Nijmegen, The Netherlands.
+3 Department of Cardiology, Amsterdam UMC, Amsterdam, The Netherlands.
+4 Princess Maxima Center for Pediatric Oncology, Utrecht, The Netherlands.
+5 Pediatric Hematology and Oncology, Radboud University Medical Center, Nijmegen, The Netherlands.
+6 Leiden University Medical Center, Willem Alexander Children's Hospital, Leiden, The Netherlands.
+7 Amsterdam University Medical Centres, Amsterdam, The Netherlands.
+8 Department of Pediatric Oncology, Erasmus Medical Center, Rotterdam, The Netherlands.
+9 Medical Oncologist, Department of Internal Medicine, Leiden University Medical Center, Leiden, The Netherlands.
+10 Erasmus Medical Center, Rotterdam, The Netherlands.
+11 University Medical Center of the Johannes Gutenberg University Mainz, Mainz, Germany.
+12 University Medical Centre Groningen, Beatrix Children's Hospital, Groningen, The Netherlands.
+13 Department of Paediatrics, Tel Aviv University, Tel Aviv, Israel.
+14 Department of Paediatrics, Radboud University Medical Center, Nijmegen, The Netherlands.
+15 Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.",,2024 Mar 19:heartjnl-2023-323474.
+cancer,"Knowledge, perceptions, attitudes, and barriers pertaining to genetic literacy among surgeons: a scoping review.",https://pubmed.ncbi.nlm.nih.gov/38503461,"Background:
+        
+      
+      The rapid evolution of genetic technologies and utilization of genetic information for clinical decision-making has necessitated increased surgeon participation in genetic counselling, testing, and appropriate referral of patients for genetic services, without formal training in genetics. We performed a scoping review to describe surgeons' knowledge, perceptions, attitudes, and barriers pertaining to genetic literacy in the management of patients who had confirmed cancer or who were potentially genetically at risk.
+    
+
+
+          Methods:
+        
+      
+      We conducted a scoping review in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-analyses Extension for Scoping Reviews checklist. We performed a comprehensive literature search, and 2 reviewers independently screened studies for inclusion. These studies included surgeons involved in the care of patients with confirmed gastrointestinal, breast, and endocrine and neuroendocrine cancers, or patients who were potentially genetically at risk for these cancers.
+    
+
+
+          Results:
+        
+      
+      We analyzed 17 studies, all of which used survey or interview-based formats. Many surgeons engaged in genetic counselling, testing, and referral, but reported low confidence and comfort in doing so. Knowledge assessments showed lower confidence in identifying genetic inheritance patterns and hereditary cancer syndromes, but awareness was higher among surgeons with greater clinical volume or subspecialty training in oncology. Surgeons felt responsible for facilitating these services and explicitly requested educational support in genetics. Barriers to genetic literacy were identified and catalogued at patient, surgeon, and system levels.
+    
+
+
+          Conclusion:
+        
+      
+      Surgeons frequently engage in genetics-related tasks despite a lack of formal genetics training, and often report low knowledge, comfort, and confidence in providing such services. We have identified several barriers to genetic literacy that can be used to develop interventions to enhance genetic literacy among surgeons.","Zuhaib M Mir 
+                1
+              , Linda Y N Fei 
+                1
+              , Sandra McKeown 
+                1
+              , Rachelle Dinchong 
+                1
+              , Nicholas Cofie 
+                1
+              , Nancy Dalgarno 
+                1
+              , Alison Rusnak 
+                1
+              , Rona E Cheifetz 
+                1
+              , Shaila J Merchant 
+                2; Zuhaib M Mir 
+                1
+              , Linda Y N Fei 
+                1
+              , Sandra McKeown 
+                1
+              , Rachelle Dinchong 
+                1
+              , Nicholas Cofie 
+                1
+              , Nancy Dalgarno 
+                1
+              , Alison Rusnak 
+                1
+              , Rona E Cheifetz 
+                1
+              , Shaila J Merchant 
+                2","Affiliations
+          
+
+1 From the Divisions of General Surgery and Surgical Oncology, Department of Surgery, Queen's University, Kingston, Ont. (Mir, Fei, Merchant); the Bracken Health Sciences Library, Queen's University, Kingston, Ont. (McKeown); the Division of Medical Genetics, Kingston Health Sciences Centre, Kingston, Ont. (Dinchong); the Office of Professional Development and Educational Scholarship, Queen's University, Kingston, Ont. (Cofie, Dalgarno); the Inherited Cancer Program, Children's Hospital of Eastern Ontario, Ottawa, Ont. (Rusnak); the Department of Surgery, University of British Columbia, Vancouver, B.C. (Cheifetz).
+2 From the Divisions of General Surgery and Surgical Oncology, Department of Surgery, Queen's University, Kingston, Ont. (Mir, Fei, Merchant); the Bracken Health Sciences Library, Queen's University, Kingston, Ont. (McKeown); the Division of Medical Genetics, Kingston Health Sciences Centre, Kingston, Ont. (Dinchong); the Office of Professional Development and Educational Scholarship, Queen's University, Kingston, Ont. (Cofie, Dalgarno); the Inherited Cancer Program, Children's Hospital of Eastern Ontario, Ottawa, Ont. (Rusnak); the Department of Surgery, University of British Columbia, Vancouver, B.C. (Cheifetz) shaila.merchant@kingstonhsc.ca.; Affiliations
+          
+
+1 From the Divisions of General Surgery and Surgical Oncology, Department of Surgery, Queen's University, Kingston, Ont. (Mir, Fei, Merchant); the Bracken Health Sciences Library, Queen's University, Kingston, Ont. (McKeown); the Division of Medical Genetics, Kingston Health Sciences Centre, Kingston, Ont. (Dinchong); the Office of Professional Development and Educational Scholarship, Queen's University, Kingston, Ont. (Cofie, Dalgarno); the Inherited Cancer Program, Children's Hospital of Eastern Ontario, Ottawa, Ont. (Rusnak); the Department of Surgery, University of British Columbia, Vancouver, B.C. (Cheifetz).
+2 From the Divisions of General Surgery and Surgical Oncology, Department of Surgery, Queen's University, Kingston, Ont. (Mir, Fei, Merchant); the Bracken Health Sciences Library, Queen's University, Kingston, Ont. (McKeown); the Division of Medical Genetics, Kingston Health Sciences Centre, Kingston, Ont. (Dinchong); the Office of Professional Development and Educational Scholarship, Queen's University, Kingston, Ont. (Cofie, Dalgarno); the Inherited Cancer Program, Children's Hospital of Eastern Ontario, Ottawa, Ont. (Rusnak); the Department of Surgery, University of British Columbia, Vancouver, B.C. (Cheifetz) shaila.merchant@kingstonhsc.ca.",,2024 Mar 19;67(2):E118-E127.
+cancer,"Sialic acid in the regulation of blood cell production, differentiation and turnover.",https://pubmed.ncbi.nlm.nih.gov/38503445,"Sialic acid is a unique sugar moiety that resides in the distal and most accessible position of the glycans on mammalian cell surface and extracellular glycoproteins and glycolipids. The potential for sialic acid to obscure underlying structures has long been postulated, but the means by which such structural changes directly affect biological processes continues to be elucidated. Here, we appraise the growing body of literature detailing the importance of sialic acid for the generation, differentiation, function and death of haematopoietic cells. We conclude that sialylation is a critical post-translational modification utilized in haematopoiesis to meet the dynamic needs of the organism by enforcing rapid changes in availability of lineage-specific cell types. Though long thought to be generated only cell-autonomously within the intracellular ER-Golgi secretory apparatus, emerging data also demonstrate previously unexpected diversity in the mechanisms of sialylation. Emphasis is afforded to the mechanism of extrinsic sialylation, whereby extracellular enzymes remodel cell surface and extracellular glycans, supported by charged sugar donor molecules from activated platelets.","Eric Edward Irons 
+                1
+              , Sajina Gc 
+                1
+              , Joseph T Y Lau 
+                1; Eric Edward Irons 
+                1
+              , Sajina Gc 
+                1
+              , Joseph T Y Lau 
+                1","Affiliation
+          
+
+1 Department of Molecular and Cellular Biology, Roswell Park Comprehensive Cancer Center, Buffalo, New York, USA.; Affiliation
+          
+
+1 Department of Molecular and Cellular Biology, Roswell Park Comprehensive Cancer Center, Buffalo, New York, USA.",,2024 Mar 19.
+cancer,Investigating the air quality surrounding new schools in England: polluted playgrounds and school buildings are a source of avoidable harm.,https://pubmed.ncbi.nlm.nih.gov/38503436,"Objective:
+        
+      
+      To assess levels of pollutants at the sites of new schools and whether pupils are likely to be protected from associated risks.
+    
+
+
+          Setting:
+        
+      
+      Air pollution causes damage to children's health by increasing respiratory tract infection rates, asthma exacerbations, allergies and childhood cancers. Further effects include poorer neurocognitive outcomes and multisystemic illness in adulthood.
+    
+
+
+          Design:
+        
+      
+      We obtained a list of all 187 proposed new schools in England from 2017 to 2025 and found locations for 147 of them. We assessed air quality against WHO air quality targets and the air quality percentile of the location relative to pollution levels across the UK. We review relevant legislation and guidance.
+    
+
+
+          Results:
+        
+      
+      Our analysis found 86% of new schools (126/147) exceeded all three WHO targets, and every location exceeded at least one. Nationally, 76% (112/147) of sites were in the 60th or greater pollution percentile. Within London, the median pollution percentile was the 90th, with a minimum of 76th and maximum of 99th (IQR=83 rd to 94th).
+    
+
+
+          Conclusion:
+        
+      
+      The guidance for school proposals does not include any requirement to assess air quality at the identified site. Building regulations also fail to consider how widespread poor air quality is, and significantly underestimates the levels of major air pollutants surrounding schools. Therefore it is unlikely that adequate action to reduce pupil and staff exposure is undertaken.We argue that air quality assessment should be mandatory at the proposal and planning stage of any new school building and that national guidance and legislation urgently needs to be updated.","Yasmin Mahfouz 
+                1
+              , Florence Tydeman 
+                2
+              , Meredith Robertson 
+                1; Yasmin Mahfouz 
+                1
+              , Florence Tydeman 
+                2
+              , Meredith Robertson 
+                1","Affiliations
+          
+
+1 Evelina London Children's Hospital, London, UK.
+2 King's College London, London, UK florence.tydeman@kcl.ac.uk.; Affiliations
+          
+
+1 Evelina London Children's Hospital, London, UK.
+2 King's College London, London, UK florence.tydeman@kcl.ac.uk.",,2024 Mar 19:archdischild-2023-325947.
+cancer,Multifunctional iron-apigenin nanocomplex conducting photothermal therapy and triggering augmented immune response for triple negative breast cancer.,https://pubmed.ncbi.nlm.nih.gov/38503397,"Triple negative breast cancer (TNBC) presents a formidable challenge due to its low sensitivity to many chemotherapeutic drugs and a relatively low overall survival rate in clinical practice. Photothermal therapy has recently garnered substantial interest in cancer treatment, owing to its swift therapeutic effectiveness and minimal impact on normal cells. Metal-polyphenol nanostructures have recently garnered significant attention as photothermal transduction agents due to their facile preparation and favorable photothermal properties. In this study, we employed a coordinated approach involving Fe3+ and apigenin, a polyphenol compound, to construct the nanostructure (nFeAPG), with the assistance of β-CD and DSPE-PEG facilitating the formation of the complex nanostructure. In vitro research demonstrated that the formed nFeAPG could induce cell death by elevating intracellular oxidative stress, inhibiting antioxidative system, and promoting apoptosis and ferroptosis, and near infrared spectrum irradiation further strengthen the therapeutic outcome. In 4T1 tumor bearing mice, nFeAPG could effectively accumulate into tumor site and exhibit commendable control over tumor growth. Futher analysis demonstrated that nFeAPG ameliorated the suppressed immune microenvironment by augmenting the response of DC cells and T cells. This study underscores that nFeAPG encompasses a multifaceted capacity to combat TNBC, holding promise as a compelling therapeutic strategy for TNBC treatment.","Ruijie Chen 
+                1
+              , Zewei Jiang 
+                1
+              , Yingfeng Cheng 
+                2
+              , Jinyao Ye 
+                3
+              , Shize Li 
+                4
+              , Yitianhe Xu 
+                4
+              , Zhanzheng Ye 
+                4
+              , Yifan Shi 
+                2
+              , Jie Ding 
+                4
+              , Yingyi Zhao 
+                4
+              , Hailun Zheng 
+                4
+              , Fugen Wu 
+                5
+              , Guangyong Lin 
+                6
+              , Congying Xie 
+                7
+              , Qing Yao 
+                8
+              , Longfa Kou 
+                9; Ruijie Chen 
+                1
+              , Zewei Jiang 
+                1
+              , Yingfeng Cheng 
+                2
+              , Jinyao Ye 
+                3
+              , Shize Li 
+                4
+              , Yitianhe Xu 
+                4
+              , Zhanzheng Ye 
+                4
+              , Yifan Shi 
+                2
+              , Jie Ding 
+                4
+              , Yingyi Zhao 
+                4
+              , Hailun Zheng 
+                4
+              , Fugen Wu 
+                5
+              , Guangyong Lin 
+                6
+              , Congying Xie 
+                7
+              , Qing Yao 
+                8
+              , Longfa Kou 
+                9","Affiliations
+          
+
+1 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Key Laboratory of Structural Malformations in Children of Zhejiang Province, Wenzhou 325027, China.
+2 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou 325035, China.
+3 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Zhejiang Engineering Research Center for Innovation and Application of Intelligent Radiotherapy Technology, Wenzhou 325000, China; Zhejiang-Hong Kong Precision Theranostics of Thoracic Tumors Joint Laboratory, Wenzhou 325000, China.
+4 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China.
+5 Department of Pediatric, The First People's Hospital of Wenling, Taizhou, China.
+6 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China. Electronic address: guang91_cn@126.com.
+7 Zhejiang Engineering Research Center for Innovation and Application of Intelligent Radiotherapy Technology, Wenzhou 325000, China; Zhejiang-Hong Kong Precision Theranostics of Thoracic Tumors Joint Laboratory, Wenzhou 325000, China. Electronic address: wzxiecongying@163.com.
+8 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou 325035, China. Electronic address: yqpharm@163.com.
+9 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Key Laboratory of Structural Malformations in Children of Zhejiang Province, Wenzhou 325027, China. Electronic address: klfpharm@163.com.; Affiliations
+          
+
+1 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Key Laboratory of Structural Malformations in Children of Zhejiang Province, Wenzhou 325027, China.
+2 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou 325035, China.
+3 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Zhejiang Engineering Research Center for Innovation and Application of Intelligent Radiotherapy Technology, Wenzhou 325000, China; Zhejiang-Hong Kong Precision Theranostics of Thoracic Tumors Joint Laboratory, Wenzhou 325000, China.
+4 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China.
+5 Department of Pediatric, The First People's Hospital of Wenling, Taizhou, China.
+6 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China. Electronic address: guang91_cn@126.com.
+7 Zhejiang Engineering Research Center for Innovation and Application of Intelligent Radiotherapy Technology, Wenzhou 325000, China; Zhejiang-Hong Kong Precision Theranostics of Thoracic Tumors Joint Laboratory, Wenzhou 325000, China. Electronic address: wzxiecongying@163.com.
+8 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; School of Pharmaceutical Sciences, Wenzhou Medical University, Wenzhou 325035, China. Electronic address: yqpharm@163.com.
+9 Wenzhou Municipal Key Laboratory of Pediatric Pharmacy, Department of Pharmacy, The Second Affiliated Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou 325027, China; Key Laboratory of Structural Malformations in Children of Zhejiang Province, Wenzhou 325027, China. Electronic address: klfpharm@163.com.",,2024 Mar 17:124016.
+cancer,A single bout of vigorous intensity exercise enhances the efficacy of rituximab against autologous human chronic lymphocytic leukaemia B-cells ex vivo.,https://pubmed.ncbi.nlm.nih.gov/38503395,"Chronic lymphocytic leukaemia (CLL) is characterised by the clonal proliferation and accumulation of mature B-cells and is often treated with rituximab, an anti-CD20 monoclonal antibody immunotherapy. Rituximab often fails to induce stringent disease eradication, due in part to failure of antibody-dependent cellular cytotoxicity which relies on natural killer (NK)-cells binding to rituximab-bound CD20 on B-cells. CLL cells are diffusely spread across lymphoid and other bodily tissues, and ADCC resistance in survival niches may be due to several factors including low NK-cell frequency and a suppressive stromal environment that promotes CLL cell survival. It is well established that exercise bouts induce a transient relocation of NK-cells and B-cells into peripheral blood, which could be harnessed to enhance the efficacy of rituximab in CLL by relocating both target and effector cells together with rituximab in blood. In this pilot study, n = 20 patients with treatment-naïve CLL completed a bout of cycling 15 % above their anaerobic threshold for ∼ 30-minutes, with blood samples collected pre-, immediately post-, and 1-hour post-exercise. Flow cytometry revealed that exercise evoked a 254 % increase in effector (CD3-CD56+CD16+) NK-cells in blood, respectively, and a 67 % increase in CD5+CD19+CD20+ CLL cells in blood (all p < 0.005). NK-cells were isolated from blood samples pre-, and immediately post-exercise and incubated with primary isolated CLL cells with or without the presence of rituximab to determine specific lysis using a calcein-release assay. Rituximab-mediated cell lysis increased by 129 % following exercise (p < 0.001). Direct NK-cell lysis of CLL cells - independent of rituximab - was unchanged following exercise (p = 0.25). We conclude that exercise improved the efficacy of rituximab-mediated antibody-dependent cellular cytotoxicity against autologous CLL cells ex vivo and propose that exercise should be explored as a means of enhancing clinical responses in patients receiving anti-CD20 immunotherapy.","Harrison D Collier-Bain 
+                1
+              , Annabelle Emery 
+                1
+              , Adam J Causer 
+                1
+              , Frankie F Brown 
+                2
+              , Rebecca Oliver 
+                3
+              , David Dutton 
+                4
+              , Josephine Crowe 
+                5
+              , Daniel Augustine 
+                6
+              , John Graby 
+                7
+              , Shoji Leach 
+                1
+              , Rachel Eddy 
+                1
+              , Daniela Rothschild-Rodriguez 
+                8
+              , Juliet C Gray 
+                9
+              , Mark S Cragg 
+                9
+              , Kirstie L Cleary 
+                9
+              , Sally Moore 
+                5
+              , James Murray 
+                5
+              , James E Turner 
+                10
+              , John P Campbell 
+                11; Harrison D Collier-Bain 
+                1
+              , Annabelle Emery 
+                1
+              , Adam J Causer 
+                1
+              , Frankie F Brown 
+                2
+              , Rebecca Oliver 
+                3
+              , David Dutton 
+                4
+              , Josephine Crowe 
+                5
+              , Daniel Augustine 
+                6
+              , John Graby 
+                7
+              , Shoji Leach 
+                1
+              , Rachel Eddy 
+                1
+              , Daniela Rothschild-Rodriguez 
+                8
+              , Juliet C Gray 
+                9
+              , Mark S Cragg 
+                9
+              , Kirstie L Cleary 
+                9
+              , Sally Moore 
+                5
+              , James Murray 
+                5
+              , James E Turner 
+                10
+              , John P Campbell 
+                11","Affiliations
+          
+
+1 Department for Health, University of Bath, United Kingdom.
+2 Department for Health, University of Bath, United Kingdom; School of Applied Sciences, Edinburgh Napier University, Edinburgh, United Kingdom.
+3 Department for Health, University of Bath, United Kingdom; Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+4 Department for Haematology, Great Western Hospitals NHS Foundation Trust, United Kingdom.
+5 Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+6 Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+7 Department for Health, University of Bath, United Kingdom; Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+8 School of Biological Sciences, University of Southampton, United Kingdom.
+9 Antibody and Vaccine Group, Centre for Cancer Immunology, University of Southampton, United Kingdom.
+10 Department for Health, University of Bath, United Kingdom; School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, Birmingham, United Kingdom.
+11 Department for Health, University of Bath, United Kingdom; School of Medical and Health Sciences, Edith Cowan University, Perth, Australia. Electronic address: J.Campbell@bath.ac.uk.; Affiliations
+          
+
+1 Department for Health, University of Bath, United Kingdom.
+2 Department for Health, University of Bath, United Kingdom; School of Applied Sciences, Edinburgh Napier University, Edinburgh, United Kingdom.
+3 Department for Health, University of Bath, United Kingdom; Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+4 Department for Haematology, Great Western Hospitals NHS Foundation Trust, United Kingdom.
+5 Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+6 Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+7 Department for Health, University of Bath, United Kingdom; Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+8 School of Biological Sciences, University of Southampton, United Kingdom.
+9 Antibody and Vaccine Group, Centre for Cancer Immunology, University of Southampton, United Kingdom.
+10 Department for Health, University of Bath, United Kingdom; School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, Birmingham, United Kingdom.
+11 Department for Health, University of Bath, United Kingdom; School of Medical and Health Sciences, Edith Cowan University, Perth, Australia. Electronic address: J.Campbell@bath.ac.uk.",,2024 Mar 17:S0889-1591(24)00304-0.
+cancer,The use of methylene blue to control the tumor oxygenation level.,https://pubmed.ncbi.nlm.nih.gov/38503388,"Background:
+        
+      
+      Hypoxia is a characteristic feature of many tumors. It promotes tumor proliferation, metastasis, and invasion and can reduce the effectiveness of many types of cancer treatment.
+    
+
+
+          Objective:
+        
+      
+      The aim of this study was to investigate the pharmacokinetics of methylene blue (MB) and its impact on the tumor oxygenation level at mouse Lewis lung carcinoma (LLC) model using spectroscopic methods.
+    
+
+
+          Approach:
+        
+      
+      The pharmacokinetics of MB were studied qualitatively and quantitatively using video fluorescence imaging and fluorescence spectroscopy. The degree of hemoglobin oxygenation in vivo was examined by calculating hemoglobin optical absorption from the measured diffuse reflectance spectra. The distribution of MB fluorescence and the lifetime of NADH were analyzed using laser scanning microscopy and fluorescence lifetime imaging microscopy (FLIM) to assess cellular metabolism.
+    
+
+
+          Results:
+        
+      
+      After intravenous administration of MB at 10-20 mg/kg, it quickly transitioned in the tumor to a colorless leucomethylene blue, with maximum accumulation in the tumor occurring after 5-10 minutes. A concentration of 10 mg/kg resulted in a relative increase of the tumor oxygenation level for small tumors (volume 50-75 mm3) and normal tissue 120 minutes after the introduction of MB. A shift in tumor metabolism towards oxidative phosphorylation (according to the lifetime of the NADH coenzyme) was measured using FLIM method after intravenous administration of 10 mg/kg of MB. Intravenous administration of MB at 20 mg/kg results in a long-term decrease in oxygenation, which persisted for at least 120 minutes after the administration and did not return to its initial level.
+    
+
+
+          Conclusions:
+        
+      
+      Administration of MB at 10 mg/kg shown to increase tumor oxygenation level, potentially leading to more effective antitumor therapy. However, at higher doses (20 mg/kg), MB may cause long-term decrease in oxygenation.","Daria Pominova 
+                1
+              , Anastasia Ryabova 
+                1
+              , Aleksej Skobeltsin 
+                1
+              , Inessa Markova 
+                2
+              , Kirill Linkov 
+                3
+              , Igor Romanishkin 
+                3; Daria Pominova 
+                1
+              , Anastasia Ryabova 
+                1
+              , Aleksej Skobeltsin 
+                1
+              , Inessa Markova 
+                2
+              , Kirill Linkov 
+                3
+              , Igor Romanishkin 
+                3","Affiliations
+          
+
+1 Prokhorov General Physics Institute of the Russian Academy of Sciences, Moscow, Russia; National Research Nuclear University MEPhI, Moscow, Russia.
+2 National Research Nuclear University MEPhI, Moscow, Russia.
+3 Prokhorov General Physics Institute of the Russian Academy of Sciences, Moscow, Russia.; Affiliations
+          
+
+1 Prokhorov General Physics Institute of the Russian Academy of Sciences, Moscow, Russia; National Research Nuclear University MEPhI, Moscow, Russia.
+2 National Research Nuclear University MEPhI, Moscow, Russia.
+3 Prokhorov General Physics Institute of the Russian Academy of Sciences, Moscow, Russia.",,2024 Mar 17:104047.
+immunotherapy,Adjuvant Wilms' tumour 1-specific dendritic cell immunotherapy complementing conventional therapy for paediatric patients with high-grade glioma and diffuse intrinsic pontine glioma: protocol of a monocentric phase I/II clinical trial in Belgium.,https://pubmed.ncbi.nlm.nih.gov/38503417,"Introduction:
+        
+      
+      Diffuse intrinsic pontine glioma (DIPG) and paediatric high-grade glioma (pHGG) are aggressive glial tumours, for which conventional treatment modalities fall short. Dendritic cell (DC)-based immunotherapy is being investigated as a promising and safe adjuvant therapy. The Wilms' tumour protein (WT1) is a potent target for this type of antigen-specific immunotherapy and is overexpressed in DIPG and pHGG. Based on this, we designed a non-randomised phase I/II trial, assessing the feasibility and safety of WT1 mRNA-loaded DC (WT1/DC) immunotherapy in combination with conventional treatment in pHGG and DIPG.
+    
+
+
+          Methods and analysis:
+        
+      
+      10 paediatric patients with newly diagnosed or pretreated HGG or DIPG were treated according to the trial protocol. The trial protocol consists of leukapheresis of mononuclear cells, the manufacturing of autologous WT1/DC vaccines and the combination of WT1/DC-vaccine immunotherapy with conventional antiglioma treatment. In newly diagnosed patients, this comprises chemoradiation (oral temozolomide 90 mg/m2 daily+radiotherapy 54 Gy in 1.8 Gy fractions) followed by three induction WT1/DC vaccines (8-10×106 cells/vaccine) given on a weekly basis and a chemoimmunotherapy booster phase consisting of six 28-day cycles of oral temozolomide (150-200 mg/m2 on days 1-5) and a WT1/DC vaccine on day 21. In pretreated patients, the induction and booster phase are combined with best possible antiglioma treatment at hand. Primary objectives are to assess the feasibility of the production of mRNA-electroporated WT1/DC vaccines in this patient population and to assess the safety and feasibility of combining conventional antiglioma treatment with the proposed immunotherapy. Secondary objectives are to investigate in vivo immunogenicity of WT1/DC vaccination and to assess disease-specific and general quality of life.
+    
+
+
+          Ethics and dissemination:
+        
+      
+      The ethics committee of the Antwerp University Hospital and the University of Antwerp granted ethics approval. Results of the clinical trial will be shared through publication in a peer-reviewed journal and presentations at conferences.
+    
+
+
+          Trial registration number:
+        
+NCT04911621.","Toon Van Genechten 
+                1
+               
+                2
+              , Maxime De Laere 
+                2
+               
+                3
+              , Jolien Van den Bossche 
+                2
+               
+                3
+              , Barbara Stein 
+                3
+              , Kim De Rycke 
+                3
+              , Caroline Deschepper 
+                4
+              , Katja Hazes 
+                4
+              , Renke Peeters 
+                4
+              , Marie-Madeleine Couttenye 
+                5
+              , Katrien Van De Walle 
+                5
+              , Ella Roelant 
+                6
+              , Sabine Maes 
+                7
+              , Stephanie Vanden Bossche 
+                8
+              , Sven Dekeyzer 
+                8
+              , Manon Huizing 
+                9
+               
+                10
+              , Kim Caluwaert 
+                3
+               
+                9
+              , Griet Nijs 
+                3
+              , Nathalie Cools 
+                2
+               
+                3
+              , Joris Verlooy 
+                4
+              , Koen Norga 
+                4
+              , Stijn Verhulst 
+                11
+              , Sebastien Anguille 
+                2
+               
+                3
+              , Zwi Berneman 
+                2
+               
+                3
+              , Eva Lion 
+                3
+               
+                12; Toon Van Genechten 
+                1
+               
+                2
+              , Maxime De Laere 
+                2
+               
+                3
+              , Jolien Van den Bossche 
+                2
+               
+                3
+              , Barbara Stein 
+                3
+              , Kim De Rycke 
+                3
+              , Caroline Deschepper 
+                4
+              , Katja Hazes 
+                4
+              , Renke Peeters 
+                4
+              , Marie-Madeleine Couttenye 
+                5
+              , Katrien Van De Walle 
+                5
+              , Ella Roelant 
+                6
+              , Sabine Maes 
+                7
+              , Stephanie Vanden Bossche 
+                8
+              , Sven Dekeyzer 
+                8
+              , Manon Huizing 
+                9
+               
+                10
+              , Kim Caluwaert 
+                3
+               
+                9
+              , Griet Nijs 
+                3
+              , Nathalie Cools 
+                2
+               
+                3
+              , Joris Verlooy 
+                4
+              , Koen Norga 
+                4
+              , Stijn Verhulst 
+                11
+              , Sebastien Anguille 
+                2
+               
+                3
+              , Zwi Berneman 
+                2
+               
+                3
+              , Eva Lion 
+                3
+               
+                12","Affiliations
+          
+
+1 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium toon.vangenechten@uza.be.
+2 Laboratory of Experimental Hematology, Vaccine & Infectious Disease Institute, University of Antwerp Faculty of Medicine and Health Sciences, Wilrijk, Belgium.
+3 Center for Cell Therapy and Regenerative Medicine, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+4 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+5 Department of Nephrology, University Hospital Antwerp, Edegem, Belgium.
+6 Statistics, Universitair Ziekenhuis Antwerpen, Edegem, Antwerpen, Belgium.
+7 Anesthesiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+8 Radiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+9 Cell and Tissue Bank, University Hospital Antwerp, Edegem, Antwerp, Belgium.
+10 Faculty of Health Sciences, University Hospital Antwerp, Edegem, België, Belgium.
+11 Pediatrics, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+12 Laboratory of Experimental Hematology, University Hospital Antwerp, Edegem, Antwerp, Belgium.; Affiliations
+          
+
+1 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium toon.vangenechten@uza.be.
+2 Laboratory of Experimental Hematology, Vaccine & Infectious Disease Institute, University of Antwerp Faculty of Medicine and Health Sciences, Wilrijk, Belgium.
+3 Center for Cell Therapy and Regenerative Medicine, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+4 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+5 Department of Nephrology, University Hospital Antwerp, Edegem, Belgium.
+6 Statistics, Universitair Ziekenhuis Antwerpen, Edegem, Antwerpen, Belgium.
+7 Anesthesiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+8 Radiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+9 Cell and Tissue Bank, University Hospital Antwerp, Edegem, Antwerp, Belgium.
+10 Faculty of Health Sciences, University Hospital Antwerp, Edegem, België, Belgium.
+11 Pediatrics, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+12 Laboratory of Experimental Hematology, University Hospital Antwerp, Edegem, Antwerp, Belgium.",,2024 Mar 18;14(3):e077613.
+immunotherapy,A single bout of vigorous intensity exercise enhances the efficacy of rituximab against autologous human chronic lymphocytic leukaemia B-cells ex vivo.,https://pubmed.ncbi.nlm.nih.gov/38503395,"Chronic lymphocytic leukaemia (CLL) is characterised by the clonal proliferation and accumulation of mature B-cells and is often treated with rituximab, an anti-CD20 monoclonal antibody immunotherapy. Rituximab often fails to induce stringent disease eradication, due in part to failure of antibody-dependent cellular cytotoxicity which relies on natural killer (NK)-cells binding to rituximab-bound CD20 on B-cells. CLL cells are diffusely spread across lymphoid and other bodily tissues, and ADCC resistance in survival niches may be due to several factors including low NK-cell frequency and a suppressive stromal environment that promotes CLL cell survival. It is well established that exercise bouts induce a transient relocation of NK-cells and B-cells into peripheral blood, which could be harnessed to enhance the efficacy of rituximab in CLL by relocating both target and effector cells together with rituximab in blood. In this pilot study, n = 20 patients with treatment-naïve CLL completed a bout of cycling 15 % above their anaerobic threshold for ∼ 30-minutes, with blood samples collected pre-, immediately post-, and 1-hour post-exercise. Flow cytometry revealed that exercise evoked a 254 % increase in effector (CD3-CD56+CD16+) NK-cells in blood, respectively, and a 67 % increase in CD5+CD19+CD20+ CLL cells in blood (all p < 0.005). NK-cells were isolated from blood samples pre-, and immediately post-exercise and incubated with primary isolated CLL cells with or without the presence of rituximab to determine specific lysis using a calcein-release assay. Rituximab-mediated cell lysis increased by 129 % following exercise (p < 0.001). Direct NK-cell lysis of CLL cells - independent of rituximab - was unchanged following exercise (p = 0.25). We conclude that exercise improved the efficacy of rituximab-mediated antibody-dependent cellular cytotoxicity against autologous CLL cells ex vivo and propose that exercise should be explored as a means of enhancing clinical responses in patients receiving anti-CD20 immunotherapy.","Harrison D Collier-Bain 
+                1
+              , Annabelle Emery 
+                1
+              , Adam J Causer 
+                1
+              , Frankie F Brown 
+                2
+              , Rebecca Oliver 
+                3
+              , David Dutton 
+                4
+              , Josephine Crowe 
+                5
+              , Daniel Augustine 
+                6
+              , John Graby 
+                7
+              , Shoji Leach 
+                1
+              , Rachel Eddy 
+                1
+              , Daniela Rothschild-Rodriguez 
+                8
+              , Juliet C Gray 
+                9
+              , Mark S Cragg 
+                9
+              , Kirstie L Cleary 
+                9
+              , Sally Moore 
+                5
+              , James Murray 
+                5
+              , James E Turner 
+                10
+              , John P Campbell 
+                11; Harrison D Collier-Bain 
+                1
+              , Annabelle Emery 
+                1
+              , Adam J Causer 
+                1
+              , Frankie F Brown 
+                2
+              , Rebecca Oliver 
+                3
+              , David Dutton 
+                4
+              , Josephine Crowe 
+                5
+              , Daniel Augustine 
+                6
+              , John Graby 
+                7
+              , Shoji Leach 
+                1
+              , Rachel Eddy 
+                1
+              , Daniela Rothschild-Rodriguez 
+                8
+              , Juliet C Gray 
+                9
+              , Mark S Cragg 
+                9
+              , Kirstie L Cleary 
+                9
+              , Sally Moore 
+                5
+              , James Murray 
+                5
+              , James E Turner 
+                10
+              , John P Campbell 
+                11","Affiliations
+          
+
+1 Department for Health, University of Bath, United Kingdom.
+2 Department for Health, University of Bath, United Kingdom; School of Applied Sciences, Edinburgh Napier University, Edinburgh, United Kingdom.
+3 Department for Health, University of Bath, United Kingdom; Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+4 Department for Haematology, Great Western Hospitals NHS Foundation Trust, United Kingdom.
+5 Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+6 Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+7 Department for Health, University of Bath, United Kingdom; Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+8 School of Biological Sciences, University of Southampton, United Kingdom.
+9 Antibody and Vaccine Group, Centre for Cancer Immunology, University of Southampton, United Kingdom.
+10 Department for Health, University of Bath, United Kingdom; School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, Birmingham, United Kingdom.
+11 Department for Health, University of Bath, United Kingdom; School of Medical and Health Sciences, Edith Cowan University, Perth, Australia. Electronic address: J.Campbell@bath.ac.uk.; Affiliations
+          
+
+1 Department for Health, University of Bath, United Kingdom.
+2 Department for Health, University of Bath, United Kingdom; School of Applied Sciences, Edinburgh Napier University, Edinburgh, United Kingdom.
+3 Department for Health, University of Bath, United Kingdom; Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+4 Department for Haematology, Great Western Hospitals NHS Foundation Trust, United Kingdom.
+5 Department for Haematology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+6 Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+7 Department for Health, University of Bath, United Kingdom; Department of Cardiology, Royal United Hospitals Bath NHS Foundation Trust, United Kingdom.
+8 School of Biological Sciences, University of Southampton, United Kingdom.
+9 Antibody and Vaccine Group, Centre for Cancer Immunology, University of Southampton, United Kingdom.
+10 Department for Health, University of Bath, United Kingdom; School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, Birmingham, United Kingdom.
+11 Department for Health, University of Bath, United Kingdom; School of Medical and Health Sciences, Edith Cowan University, Perth, Australia. Electronic address: J.Campbell@bath.ac.uk.",,2024 Mar 17:S0889-1591(24)00304-0.
+immunotherapy,Comparative study of the commonly used protein quantitation assays on different Hymenoptera venoms: A fundamental aspect of Hymenoptera venom proteome analysis.,https://pubmed.ncbi.nlm.nih.gov/38503352,"Determination of protein concentration in Hymenoptera venoms requires an accurate and reproducible assay as the results will be used to support subsequent proteomic techniques employed in their analyses. However, all protein assay techniques have inherent strengths and weaknesses, demanding their assessment before selecting the most suitable platform for sample analysis. In this study, protein profiles of ant, honeybee, and wasp venoms, and bovine serum albumin (BSA) and hyaluronidase standards were qualitatively assessed using sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE). Their amino acid and protein concentration were quantitatively determined via Amino Acid Analysis (AAA). Amino acid concentration was determined via hydrolysis, derivatization, and chromatographic quantification. Protein concentration was estimated using four different protein concentration assays. The ratios of protein concentration in venom samples to protein standards were calculated, and the accuracy of the protein concentration assays was analysed relative to the concentration determined from AAA. SDS-PAGE analysis showed that BSA contained several protein bands, while hyaluronidase contained a mixture of peptide and protein bands. Ant and honeybee venoms contained a higher proportion of peptide bands, while wasp venom contained more protein bands. As determined by AAA, the ratio of protein concentration in Hymenoptera venoms varied between 1.01 and 1.11 to BSA, and between 0.96 and 1.06 to hyaluronidase. Overall, the Bradford assay was found to be the least accurate and the BCA assay was the most accurate in estimating protein concentration in Hymenoptera venoms. There was no significant advantage in using hyaluronidase as a standard or increasing incubation temperature of BCA assay when analysing Hymenoptera venoms. Diluent solutions containing phenol and human serum albumin interfered with Lowry-based assays.","Troy Wanandy 
+                1
+              , Simon A Handley 
+                2
+              , Emily Mulcahy 
+                3
+              , Michael Wiese 
+                4; Troy Wanandy 
+                1
+              , Simon A Handley 
+                2
+              , Emily Mulcahy 
+                3
+              , Michael Wiese 
+                4","Affiliations
+          
+
+1 Department of Clinical Immunology and Allergy, Incorporating the Jack Jumper Allergy Program, Royal Hobart Hospital, Hobart, Tasmania, Australia; College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia. Electronic address: troy.wanandy@ths.tas.gov.au.
+2 College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia; Department of Pathology, Royal Hobart Hospital, Hobart, Tasmania, Australia.
+3 Department of Clinical Immunology and Allergy, Incorporating the Jack Jumper Allergy Program, Royal Hobart Hospital, Hobart, Tasmania, Australia; College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia.
+4 Clinical and Health Sciences, University of South Australia, Adelaide, South Australia, Australia.; Affiliations
+          
+
+1 Department of Clinical Immunology and Allergy, Incorporating the Jack Jumper Allergy Program, Royal Hobart Hospital, Hobart, Tasmania, Australia; College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia. Electronic address: troy.wanandy@ths.tas.gov.au.
+2 College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia; Department of Pathology, Royal Hobart Hospital, Hobart, Tasmania, Australia.
+3 Department of Clinical Immunology and Allergy, Incorporating the Jack Jumper Allergy Program, Royal Hobart Hospital, Hobart, Tasmania, Australia; College of Health and Medicine, University of Tasmania, Hobart, Tasmania, Australia.
+4 Clinical and Health Sciences, University of South Australia, Adelaide, South Australia, Australia.",,2024 Mar 17:107685.
+immunotherapy,Viewing the immune checkpoint VISTA: landscape and outcomes across cancers.,https://pubmed.ncbi.nlm.nih.gov/38503143,"Background:
+        
+      
+      Optimizing immune checkpoint inhibitor (ICI) therapy may require identification of co-targetable checkpoint pathways via immune profiling. Herein, we analyzed the transcriptomic expression and clinical correlates of V-domain immunoglobulin suppressor of T-cell activation (VISTA), a promising targetable checkpoint.
+    
+
+
+          Patients and methods:
+        
+      
+      RNA sequencing was carried out on 514 tissues reflecting diverse advanced/metastatic cancers. Expression of eight immune checkpoint markers [lymphocyte-activation gene 3 (LAG-3), tumor necrosis factor receptor superfamily 14 (TNFRSF14), programmed cell death protein 1 (PD-1), programmed death-ligand 1 (PD-L1), programmed death-ligand 2 (PD-L2), B- and T-lymphocyte attenuator (BTLA), T-cell immunoglobulin and mucin domain-containing protein 3 (TIM-3), cytotoxic T-lymphocyte antigen 4 (CTLA-4)], in addition to VISTA, was analyzed, along with clinical outcomes.
+    
+
+
+          Results:
+        
+      
+      High VISTA RNA expression was observed in 32% of tumors (66/514) and was the most common highly expressed checkpoint among the nine assessed. High VISTA expression was independently correlated with high BTLA, TIM-3, and TNFRSF14, and with a diagnosis of pancreatic, small intestine, and stomach cancer. VISTA transcript levels did not correlate with overall survival (OS) from metastatic/advanced disease in the pan-cancer cohort or with immunotherapy outcome (progression-free survival and OS from the start of ICI) in 217 ICI-treated patients. However, in ICI-treated pancreatic cancer patients (n = 16), median OS was significantly shorter (from immunotherapy initiation) for the high- versus not-high-VISTA groups (0.28 versus 1.21 years) (P = 0.047); in contrast, VISTA levels were not correlated with OS in 36 pancreatic cancer patients who did not receive ICI.
+    
+
+
+          Conclusion:
+        
+      
+      High VISTA expression correlates with high BTLA, TIM-3, and TNFRSF14 checkpoint-related molecules and with poorer post-immunotherapy survival in pancreatic cancer, consistent with prior literature indicating that VISTA is prominently expressed on CD68+ macrophages in pancreatic cancers and requiring validation in larger prospective studies. Immunomic analysis may be important for individualized precision immunotherapy.","D Nishizaki 
+                1
+              , R Kurzrock 
+                2
+              , H Miyashita 
+                3
+              , J J Adashek 
+                4
+              , S Lee 
+                5
+              , M Nikanjam 
+                5
+              , R N Eskander 
+                6
+              , H Patel 
+                5
+              , G P Botta 
+                5
+              , M K Nesline 
+                7
+              , S Pabla 
+                7
+              , J M Conroy 
+                7
+              , P DePietro 
+                7
+              , J K Sicklick 
+                8
+              , S Kato 
+                9; D Nishizaki 
+                1
+              , R Kurzrock 
+                2
+              , H Miyashita 
+                3
+              , J J Adashek 
+                4
+              , S Lee 
+                5
+              , M Nikanjam 
+                5
+              , R N Eskander 
+                6
+              , H Patel 
+                5
+              , G P Botta 
+                5
+              , M K Nesline 
+                7
+              , S Pabla 
+                7
+              , J M Conroy 
+                7
+              , P DePietro 
+                7
+              , J K Sicklick 
+                8
+              , S Kato 
+                9","Affiliations
+          
+
+1 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla. Electronic address: dnishizaki@health.ucsd.edu.
+2 MCW Cancer Center and Genomic Sciences and Precision Medicine Center, Medical College of Wisconsin, Milwaukee, USA; WIN Consortium, Paris, France.
+3 Dartmouth Cancer Center, Hematology and Medical Oncology, Lebanon.
+4 Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center, The Johns Hopkins Hospital, Baltimore.
+5 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla.
+6 Center for Personalized Cancer Therapy and Division of Gynecologic Oncology, Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, Moores Cancer Center, La Jolla.
+7 OmniSeq Inc., Buffalo.
+8 Division of Surgical Oncology, Department of Surgery, Center for Personalized Cancer Therapy, University of California San Diego, La Jolla, USA.
+9 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla. Electronic address: smkato@health.ucsd.edu.; Affiliations
+          
+
+1 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla. Electronic address: dnishizaki@health.ucsd.edu.
+2 MCW Cancer Center and Genomic Sciences and Precision Medicine Center, Medical College of Wisconsin, Milwaukee, USA; WIN Consortium, Paris, France.
+3 Dartmouth Cancer Center, Hematology and Medical Oncology, Lebanon.
+4 Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center, The Johns Hopkins Hospital, Baltimore.
+5 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla.
+6 Center for Personalized Cancer Therapy and Division of Gynecologic Oncology, Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, Moores Cancer Center, La Jolla.
+7 OmniSeq Inc., Buffalo.
+8 Division of Surgical Oncology, Department of Surgery, Center for Personalized Cancer Therapy, University of California San Diego, La Jolla, USA.
+9 Center for Personalized Cancer Therapy and Division of Hematology and Oncology, Department of Medicine, University of California San Diego, Moores Cancer Center, La Jolla. Electronic address: smkato@health.ucsd.edu.",,2024 Mar 18;9(4):102942.
+immunotherapy,Gastroesophageal Adenocarcinomas With Defective Mismatch Repair: Current Knowledge and Clinical Management.,https://pubmed.ncbi.nlm.nih.gov/38503041,"Esophageal, gastroesophageal junction, and gastric adenocarcinomas, referred to collectively as gastroesophageal adenocarcinomas (GEAs), are a major cause of global cancer-related mortality. Our increasing molecular understanding has led to the addition of biomarker-directed approaches to defined subgroups and has improved survival in selected patients, such as those with HER2 and Claudin18.2 overexpression. Immune checkpoint inhibitors (ICIs) have revolutionized the treatment of cancer, including GEA, but biomarkers beyond PD-L1 expression are lacking. Mismatch repair deficiency and/or high microsatellite instability (dMMR/MSI-H) is observed in 8% to 22% of nonmetastatic GEA, and 3% to 5% of patients with metastatic disease. dMMR/MSI-H tumors are associated with more favorable prognosis and significant benefit from ICIs, although some heterogeneity exists. The activity of ICIs in advanced dMMR/MSI-H cancer is seen across lines of therapy and should be recommended in the frontline setting. In patients with nonmetastatic dMMR/MSI-H cancer, increasing evidence suggests that perioperative and adjuvant chemotherapy may not provide benefit to the dMMR/MSI-H subgroup. The activity of perioperative chemotherapy-free immune checkpoint regimens in patients with nonmetastatic dMMR/MSI-H cancer is highly promising and underscores the need to identify this unique subgroup. We recommend MMR/MSI testing for all patients with GEA at diagnosis, and review the key rationale and clinical management implications for patient with dMMR/MSI-H tumors across disease stages.","Matthew R Strickland 
+                1
+              , Eric M Lander 
+                2
+              , Michael K Gibson 
+                2
+              , David H Ilson 
+                3
+              , Jaffer A Ajani 
+                4
+              , Samuel J Klempner 
+                1; Matthew R Strickland 
+                1
+              , Eric M Lander 
+                2
+              , Michael K Gibson 
+                2
+              , David H Ilson 
+                3
+              , Jaffer A Ajani 
+                4
+              , Samuel J Klempner 
+                1","Affiliations
+          
+
+1 1Division of Hematology-Oncology, Department of Medicine, Massachusetts General Cancer Center, Boston, MA.
+2 2Division of Hematology/Oncology, Department of Medicine, Vanderbilt-Ingram Cancer Center, Vanderbilt University, Nashville, TN.
+3 3Memorial Sloan Kettering Cancer Center, New York City, NY.
+4 4GI Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX.; Affiliations
+          
+
+1 1Division of Hematology-Oncology, Department of Medicine, Massachusetts General Cancer Center, Boston, MA.
+2 2Division of Hematology/Oncology, Department of Medicine, Vanderbilt-Ingram Cancer Center, Vanderbilt University, Nashville, TN.
+3 3Memorial Sloan Kettering Cancer Center, New York City, NY.
+4 4GI Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX.",,2024 Mar 19:1-8.
+immunotherapy,Imaging-guided prognostic score-based approach to assess the benefits of combotherapy versus monotherapy with immune checkpoint inhibitors in metastatic MSI-H colorectal cancer patients.,https://pubmed.ncbi.nlm.nih.gov/38502988,"Background:
+        
+      
+      This retrospective study determined survival responses to immune checkpoint inhibitors (ICIs), comparing mono- (mono) and combo-immunotherapy (combo) in patients with microsatellite instability-high (MSI-H) metastatic colorectal cancer (mCRC) by analyzing quantitative imaging data and clinical factors.
+    
+
+
+          Methods:
+        
+      
+      One hundred fifty patients were included from two centers and divided into training (n = 105) and validation (n = 45) cohorts. Radiologists manually annotated chest-abdomen-pelvis computed tomography and calculated tumor burden. Progression-free survival (PFS) was assessed, and variables were selected through Recursive Feature Elimination. Cutoff values were determined using maximally selected rank statistics to binarize features, forming a risk score with hazard ratio-derived weights.
+    
+
+
+          Results:
+        
+      
+      In total, 2258 lesions were annotated with excellent reproducibility. Key variables in the training cohort included: total tumor volume (cutoff: 73 cm3), lesion count (cutoff: 20), age (cutoff: 60) and the presence of peritoneal carcinomatosis. Their respective weights were 1.13, 0.96, 0.91, and 0.38, resulting in a risk score cutoff of 1.36. Low-score patients showed similar overall survival and PFS regardless of treatment, while those with a high-score had significantly worse survivals with mono vs combo (P = 0.004 and P = 0.0001). In the validation set, low-score patients exhibited no significant difference in overall survival and PFS with mono or combo. However, patients with a high-score had worse PFS with mono (P = 0.046).
+    
+
+
+          Conclusions:
+        
+      
+      A score based on total tumor volume, lesion count, the presence of peritoneal carcinomatosis, and age can guide MSI-H mCRC treatment decisions, allowing oncologists to identify suitable candidates for mono and combo ICI therapies.","Rémy Barbe 
+                1
+              , Younes Belkouchi 
+                2
+              , Yves Menu 
+                3
+              , Romain Cohen 
+                4
+              , Clemence David 
+                5
+              , Michele Kind 
+                6
+              , Sana Harguem 
+                1
+              , Lama Dawi 
+                1
+              , Joya Hadchiti 
+                1
+              , Fatine Selhane 
+                1
+              , Nicolas Billet 
+                5
+              , Samy Ammari 
+                7
+              , Ambroise Bertin 
+                5
+              , Littisha Lawrance 
+                5
+              , Baptiste Cervantes 
+                4
+              , Antoine Hollebecque 
+                8
+              , Corinne Balleyguier 
+                7
+              , Paul-Henry Cournede 
+                9
+              , Hugues Talbot 
+                10
+              , Nathalie Lassau 
+                7
+              , Thierry Andre 
+                11; Rémy Barbe 
+                1
+              , Younes Belkouchi 
+                2
+              , Yves Menu 
+                3
+              , Romain Cohen 
+                4
+              , Clemence David 
+                5
+              , Michele Kind 
+                6
+              , Sana Harguem 
+                1
+              , Lama Dawi 
+                1
+              , Joya Hadchiti 
+                1
+              , Fatine Selhane 
+                1
+              , Nicolas Billet 
+                5
+              , Samy Ammari 
+                7
+              , Ambroise Bertin 
+                5
+              , Littisha Lawrance 
+                5
+              , Baptiste Cervantes 
+                4
+              , Antoine Hollebecque 
+                8
+              , Corinne Balleyguier 
+                7
+              , Paul-Henry Cournede 
+                9
+              , Hugues Talbot 
+                10
+              , Nathalie Lassau 
+                7
+              , Thierry Andre 
+                11","Affiliations
+          
+
+1 Département d'imagerie, Gustave Roussy, Villejuif, France.
+2 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France; Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+3 Département d'imagerie, Gustave Roussy, Villejuif, France; SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+4 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+5 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+6 Département d'imagerie, Institut Bergonié, Bordeaux, France.
+7 Département d'imagerie, Gustave Roussy, Villejuif, France; Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+8 Département d'Innovation Thérapeutique et Essais Précoces (DITEP), Gustave Roussy, Villejuif, France.
+9 Université Paris-Saclay, Centrale-Supelec, Lab of Mathematics and Informatics, Gif-Sur-Yvette, France.
+10 Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+11 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France. Electronic address: thierry.andre@aphp.fr.; Affiliations
+          
+
+1 Département d'imagerie, Gustave Roussy, Villejuif, France.
+2 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France; Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+3 Département d'imagerie, Gustave Roussy, Villejuif, France; SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+4 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+5 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+6 Département d'imagerie, Institut Bergonié, Bordeaux, France.
+7 Département d'imagerie, Gustave Roussy, Villejuif, France; Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+8 Département d'Innovation Thérapeutique et Essais Précoces (DITEP), Gustave Roussy, Villejuif, France.
+9 Université Paris-Saclay, Centrale-Supelec, Lab of Mathematics and Informatics, Gif-Sur-Yvette, France.
+10 Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+11 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France. Electronic address: thierry.andre@aphp.fr.",,2024 Mar 16:202:114020.
+immunotherapy,"Real-world use, dose intensity, and adherence to enfortumab vedotin in locally advanced or metastatic urothelial cancer.",https://pubmed.ncbi.nlm.nih.gov/38503592,"Background:
+        
+      
+      Enfortumab vedotin (EV) monotherapy is approved for the treatment of advanced urothelial cancer as later-line therapy (post-immunotherapy and -platinum-chemotherapy) and as earlier-line therapy (cisplatin-ineligible, at least 1 prior therapy). We examined real-world EV monotherapy use, dose intensity and adherence across 280 US cancer clinics.
+    
+
+
+          Methods:
+        
+      
+      This postmarketing study used data from a nationwide (United States) deidentified patient-level electronic health record-derived database. Included were patients with advanced urothelial cancer initiating EV on or after December 19, 2019 (date of accelerated approval). We summarized characteristics of EV users using descriptive statistics and computed metrics of EV use, EV dose intensity, and EV treatment adherence.
+    
+
+
+          Results:
+        
+      
+      We identified 416 advanced urothelial cancer patients initiating EV monotherapy. More than half of patients (55.3%) received EV as later-line therapy (3L+), and nearly half (44.7%) received EV as earlier line therapy (1 or 2L). Dosing frequency (mean [SD] 2.4 [0.5] treatments per 28 day cycle) and dose (1.1 [0.2] mg/kg) were lower than label indication guidelines (1.25 mg/kg, Day 1, 8, 15 of a 28 day cycle). Only 58.8% of patients received an average of >2 treatments per 28-day cycle.
+    
+
+
+          Conclusions:
+        
+      
+      Among patients with advanced urothelial cancer treated with EV monotherapy in contemporary practice, EV dosing frequency, and dosage was lower in clinical practice than recommended in the product labeling. Further research is required to understand clinical factors and outcomes associated with the differences observed.","Ronac Mamtani 
+                1
+              , Konstantinos Tsingas 
+                2
+              , Ravi B Parikh 
+                3
+              , Dina Elsouda 
+                4
+              , Lisa Mucha 
+                4
+              , Rupali Fuldeore 
+                4
+              , Rebecca A Hubbard 
+                2; Ronac Mamtani 
+                1
+              , Konstantinos Tsingas 
+                2
+              , Ravi B Parikh 
+                3
+              , Dina Elsouda 
+                4
+              , Lisa Mucha 
+                4
+              , Rupali Fuldeore 
+                4
+              , Rebecca A Hubbard 
+                2","Affiliations
+          
+
+1 Division of Hematology and Oncology, Department of Medicine, University of Pennsylvania, Philadelphia, PA. Electronic address: Ronac.Mamtani@pennmedicine.upenn.edu.
+2 Department of Biostatistics, Epidemiology, & Informatics, University of Pennsylvania, Philadelphia, PA.
+3 Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA.
+4 Astellas Pharma Inc., Northbrook, IL.; Affiliations
+          
+
+1 Division of Hematology and Oncology, Department of Medicine, University of Pennsylvania, Philadelphia, PA. Electronic address: Ronac.Mamtani@pennmedicine.upenn.edu.
+2 Department of Biostatistics, Epidemiology, & Informatics, University of Pennsylvania, Philadelphia, PA.
+3 Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA.
+4 Astellas Pharma Inc., Northbrook, IL.",,2024 Mar 18:S1078-1439(24)00346-6.
+immunotherapy,"Durvalumab and tremelimumab before surgery in patients with hormone receptor positive, HER2-negative stage II-III breast cancer.",https://pubmed.ncbi.nlm.nih.gov/38502947,"A clinical trial was conducted to assess the feasibility of enrolling patients with Stage II or III hormone receptor positive (HR+)/HER2-negative breast cancer to pre-operative dual PD-L1/CTLA-4 checkpoint inhibition administered prior to neoadjuvant chemotherapy (NACT). Eight eligible patients were treated with upfront durvalumab and tremelimumab for two cycles. Patients then received NACT prior to breast surgery. Seven patients had baseline and interval breast ultrasounds after combination immunotherapy and the responses were mixed: 3/7 patients experienced a ≥30% decrease in tumor volume, 3/7 a ≥30% increase, and 1 patient had stable disease. At the time of breast surgery, 1/8 patients had a pathologic complete response (pCR). The trial was stopped early after 3 of 8 patients experienced immunotherapy-related toxicity or suspected disease progression that prompted discontinuation or a delay in the administration of NACT. Two patients experienced grade 3 immune-related adverse events (1 with colitis, 1 with endocrinopathy). Analysis of the tumor microenvironment after combination immunotherapy did not show a significant change in immune cell subsets from baseline. There was limited benefit for dual checkpoint blockade administered prior to NACT in our study of 8 patients with HR+/HER2-negative breast cancer.","Haven R Garber 
+                1
+              , Sreyashi Basu 
+                2
+              , Sonali Jindal 
+                2
+              , Zhong He 
+                2
+              , Khoi Chu 
+                2
+              , Akshara Singareeka Raghavendra 
+                1
+              , Clinton Yam 
+                1
+              , Lumarie Santiago 
+                3
+              , Beatriz E Adrada 
+                3
+              , Padmanee Sharma 
+                4
+              , Elizabeth A Mittendorf 
+                5
+               
+                6
+               
+                7
+              , Jennifer K Litton 
+                1; Haven R Garber 
+                1
+              , Sreyashi Basu 
+                2
+              , Sonali Jindal 
+                2
+              , Zhong He 
+                2
+              , Khoi Chu 
+                2
+              , Akshara Singareeka Raghavendra 
+                1
+              , Clinton Yam 
+                1
+              , Lumarie Santiago 
+                3
+              , Beatriz E Adrada 
+                3
+              , Padmanee Sharma 
+                4
+              , Elizabeth A Mittendorf 
+                5
+               
+                6
+               
+                7
+              , Jennifer K Litton 
+                1","Affiliations
+          
+
+1 Department of Breast Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+2 Department of Immunology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+3 Department of Breast Imaging, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+4 Department of Genitourinary Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+5 Department of Surgery, Division of Breast Surgery, Brigham and Women's Hospital, Boston, MA 02115, USA.
+6 Breast Oncology Program, Dana-Farber Brigham Cancer Center, Boston MA 02115, USA.
+7 Harvard Medical School, Boston, MA 02115, USA.; Affiliations
+          
+
+1 Department of Breast Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+2 Department of Immunology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+3 Department of Breast Imaging, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+4 Department of Genitourinary Medical Oncology, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+5 Department of Surgery, Division of Breast Surgery, Brigham and Women's Hospital, Boston, MA 02115, USA.
+6 Breast Oncology Program, Dana-Farber Brigham Cancer Center, Boston MA 02115, USA.
+7 Harvard Medical School, Boston, MA 02115, USA.",,2024 Mar 19:15:238-247.
+immunotherapy,Computational insights into dynamics and conformational stability of N-acetylmannosamine kinase mutations.,https://pubmed.ncbi.nlm.nih.gov/38502682,"The activity of UDP-GlcNAc 2-epimerase/ManNAc kinase (GNE) is essential for the biosynthesis of sialic acid, which is involved in cellular processes in health and diseases. GNE contains an N-terminal epimerase domain and a C-terminal kinase domain (N-acetylmannosamine kinase, MNK). Mutations of the GNE protein led to hypoactivity of the enzyme and cause sialurea or autosomal recessive inclusion body myopathy/Nonaka myopathy. Here, we used all-atom molecular dynamics (MD) simulations to comprehend the folding, dynamics and conformational stability of MNK variants, including the wild type (WT) and three mutants (H677R, V696M and H677R/V696M). The deleterious and destabilizing nature of MNK mutants were predicted using different prediction tools. Results predicted that mutations modulate the stability, flexibility and function of MNK. The effect of mutations on the conformational stability and dynamics of MNK was next studied through the free-energy landscape (FEL), hydrogen-bonds and secondary structure changes. The FEL results show that the mutations interfere with various conformational transitions in both WT and mutants, exposing the structural underpinnings of protein destabilization and unfolding brought on by mutation. We discover that, when compared to the other two mutations, V696M and H677R/V696M, H677R has the most harmful effects. These findings have a strong correlation with published experimental studies that demonstrate how these mutations disrupt MNK activity. Hence, this computational study describes the structural details to unravel the mutant effects at the atomistic resolution and has implications for understanding the GNE's physiological and pathological role.Communicated by Ramaswamy H. Sarma.","Ashraf B Abdel-Naim 
+                1
+               
+                2
+               
+                3
+              , Pawan Kumar 
+                4
+              , Mohammed A Bazuhair 
+                3
+               
+                5
+              , Waleed Y Rizg 
+                2
+               
+                3
+               
+                6
+              , Hatoon A Niyazi 
+                1
+              , Khalil Alkuwaity 
+                1
+               
+                7
+              , Hanouf A Niyazi 
+                1
+              , Saif A Alharthy 
+                8
+               
+                9
+              , Steve Harakeh 
+                10
+               
+                11
+              , Shafiul Haque 
+                12
+               
+                13
+               
+                14
+              , Amresh Prakash 
+                15
+              , Vijay Kumar 
+                16; Ashraf B Abdel-Naim 
+                1
+               
+                2
+               
+                3
+              , Pawan Kumar 
+                4
+              , Mohammed A Bazuhair 
+                3
+               
+                5
+              , Waleed Y Rizg 
+                2
+               
+                3
+               
+                6
+              , Hatoon A Niyazi 
+                1
+              , Khalil Alkuwaity 
+                1
+               
+                7
+              , Hanouf A Niyazi 
+                1
+              , Saif A Alharthy 
+                8
+               
+                9
+              , Steve Harakeh 
+                10
+               
+                11
+              , Shafiul Haque 
+                12
+               
+                13
+               
+                14
+              , Amresh Prakash 
+                15
+              , Vijay Kumar 
+                16","Affiliations
+          
+
+1 Department of Pharmacology and Toxicology, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+2 Mohamed Saeed Tamer Chair for Pharmaceutical Industries, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+3 Center of Excellence for Drug Research and Pharmaceutical Industries, King Abdulaziz University, Jeddah, Saudi Arabia.
+4 School of Computational & Integrative Sciences, Jawaharlal Nehru University, New Delhi, India.
+5 Department of Clinical Pharmacology, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia.
+6 Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+7 Vaccines and Immunotherapy Unit, King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+8 Department of Medical Laboratory Sciences, Faculty of Applied Medical Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.
+9 Toxicology and Forensic Sciences Unit, King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+10 King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+11 Yousef Abdul Latif Jameel Scientific Chair of Prophetic Medicine Application, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia.
+12 Research and Scientific Studies Unit, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia.
+13 Gilbert and Rose-Marie Chagoury School of Medicine, Lebanese American University, Beirut, Lebanon.
+14 Centre of Medical and Bio-Allied Health Sciences Research, Ajman University, Ajman, United Arab Emirates.
+15 Amity Institute of Integrative Sciences and Health, Amity University Haryana, Gurgaon, India.
+16 Amity Institute of Neuropsychology & Neurosciences, Amity University, Noida, India.; Affiliations
+          
+
+1 Department of Pharmacology and Toxicology, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+2 Mohamed Saeed Tamer Chair for Pharmaceutical Industries, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+3 Center of Excellence for Drug Research and Pharmaceutical Industries, King Abdulaziz University, Jeddah, Saudi Arabia.
+4 School of Computational & Integrative Sciences, Jawaharlal Nehru University, New Delhi, India.
+5 Department of Clinical Pharmacology, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia.
+6 Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, Jeddah, Saudi Arabia.
+7 Vaccines and Immunotherapy Unit, King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+8 Department of Medical Laboratory Sciences, Faculty of Applied Medical Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.
+9 Toxicology and Forensic Sciences Unit, King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+10 King Fahd Medical Research Center, King Abdulaziz University, Jeddah, Saudi Arabia.
+11 Yousef Abdul Latif Jameel Scientific Chair of Prophetic Medicine Application, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia.
+12 Research and Scientific Studies Unit, College of Nursing and Health Sciences, Jazan University, Jazan, Saudi Arabia.
+13 Gilbert and Rose-Marie Chagoury School of Medicine, Lebanese American University, Beirut, Lebanon.
+14 Centre of Medical and Bio-Allied Health Sciences Research, Ajman University, Ajman, United Arab Emirates.
+15 Amity Institute of Integrative Sciences and Health, Amity University Haryana, Gurgaon, India.
+16 Amity Institute of Neuropsychology & Neurosciences, Amity University, Noida, India.",,2024 Mar 19:1-11.
+immunotherapy,Senescent T Cells in Age-Related Diseases.,https://pubmed.ncbi.nlm.nih.gov/38502582,"Age-induced alterations in human immunity are often considered deleterious and are referred to as immunosenescence. The immune system monitors the number of senescent cells in the body, while immunosenescence may represent the initiation of systemic aging. Immune cells, particularly T cells, are the most impacted and involved in age-related immune function deterioration, making older individuals more prone to different age-related diseases. T-cell senescence can impact the effectiveness of immunotherapies that rely on the immune system's function, including vaccines and adoptive T-cell therapies. The research and practice of using senescent T cells as therapeutic targets to intervene in age-related diseases are in their nascent stages. Therefore, in this review, we summarize recent related literature to investigate the characteristics of senescent T cells as well as their formation mechanisms, relationship with various aging-related diseases, and means of intervention. The primary objective of this article is to explore the prospects and possibilities of therapeutically targeting senescent T cells, serving as a valuable resource for the development of immunotherapy and treatment of age-related diseases.","Pei-Jie Yu, Mei Zhou, Yan Liu, Jie Du; Pei-Jie Yu, Mei Zhou, Yan Liu, Jie Du",,,2024 Mar 8.
+radiology,Incidence and predictors of restenosis following successful recanalization of non-acute internal carotid artery occlusion in 252 cases.,https://pubmed.ncbi.nlm.nih.gov/38503511,"Background:
+        
+      
+      Data concerning restenosis following successful recanalization of non-acute internal carotid artery occlusion (ICAO) are scarce. This study was conducted to identify the incidence and predictors of restenosis following successful recanalization of non-acute ICAO.
+    
+
+
+          Methods:
+        
+      
+      We reviewed the incidence of restenosis (defined as >70% restenosis or reocclusion) among 252 consecutive patients with successful recanalization of non-acute ICAO. Baseline, imaging, and surgery-related characteristics were analyzed to assess their association with restenosis. A scoring system was developed to identify high-risk patients for restenosis.
+    
+
+
+          Results:
+        
+      
+      During a median follow-up of 12.6 months, restenosis occurred in 56 patients (22.2%), including 39 with reocclusion and 17 with >70% restenosis. The cumulative restenosis rate was 18.0% at 12 months and 24.1% at 24 months. The incidence of stroke was higher in patients with restenosis (25.0% vs 1.5%, P<0.01). Multivariate analysis showed occlusion length (5-10 cm vs <5 cm (hazard ratio (HR) 3.15, 95% confidence interval (95% CI) 1.07 to 9.29); ≥ 10 cm vs <5 cm (HR 5.01, 95% CI 1.73 to 14.49)), residual stenosis ≥30% (HR 3.08, 95% CI 1.79 to 5.30), and internal carotid artery (ICA) wall collapse (HR 1.96, 95% CI 1.12 to 3.44) as independent predictors of restenosis. Point scores proportional to model coefficients were assigned, with scores ranging from 0 to 6. Patients scoring 3-6 had a 4.00 times higher chance of developing restenosis (95% CI 2.35 to 6.79) compared with those scoring 0-2.
+    
+
+
+          Conclusions:
+        
+      
+      Nearly one in five patients experienced restenosis following successful recanalization of non-acute ICAO. Occlusion length, residual stenosis ≥30%, and ICA wall collapse were independently associated with restenosis.","Guangdong Lu # 
+                1
+               
+                2
+              , Junqing Wang # 
+                3
+               
+                4
+              , Tao Wang 
+                3
+              , Xinjuan Xu 
+                5
+              , Xin Li 
+                6
+              , Xinyi Sun 
+                3
+              , Zhengyu Wang 
+                3
+              , Jichang Luo 
+                3
+              , Yan Ma 
+                3
+              , Bin Yang 
+                7
+              , Peng Gao 
+                8
+              , Yabing Wang 
+                3
+              , Yanfei Chen 
+                3
+              , Sheng Liu 
+                9
+              , Liqun Jiao 
+                10; Guangdong Lu # 
+                1
+               
+                2
+              , Junqing Wang # 
+                3
+               
+                4
+              , Tao Wang 
+                3
+              , Xinjuan Xu 
+                5
+              , Xin Li 
+                6
+              , Xinyi Sun 
+                3
+              , Zhengyu Wang 
+                3
+              , Jichang Luo 
+                3
+              , Yan Ma 
+                3
+              , Bin Yang 
+                7
+              , Peng Gao 
+                8
+              , Yabing Wang 
+                3
+              , Yanfei Chen 
+                3
+              , Sheng Liu 
+                9
+              , Liqun Jiao 
+                10","Affiliations
+          
+
+1 Department of Neurosurgery and Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China.
+2 Department of Interventional Radiology, The First Affiliated Hospital With Nanjing Medical University, Nanjing, Jiangsu, China.
+3 Department of Neurosurgery, Xuanwu Hospital Capital Medical University, Beijing, China.
+4 Department of Neurosurgery, Inner Mongolia Autonomous Region People's Hospital, Hohhot, Inner Mongolia, China.
+5 Department of Neurosurgery, Shanxi Cardiovascular Hospital, Taiyuan, Shanxi, China.
+6 Department of Neurosurgery, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.
+7 Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China.
+8 Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China.
+9 Department of Interventional Radiology, The First Affiliated Hospital With Nanjing Medical University, Nanjing, Jiangsu, China liqunjiao@sina.cn liusheng@njmu.edu.cn.
+10 Department of Neurosurgery and Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China liqunjiao@sina.cn liusheng@njmu.edu.cn.; Affiliations
+          
+
+1 Department of Neurosurgery and Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China.
+2 Department of Interventional Radiology, The First Affiliated Hospital With Nanjing Medical University, Nanjing, Jiangsu, China.
+3 Department of Neurosurgery, Xuanwu Hospital Capital Medical University, Beijing, China.
+4 Department of Neurosurgery, Inner Mongolia Autonomous Region People's Hospital, Hohhot, Inner Mongolia, China.
+5 Department of Neurosurgery, Shanxi Cardiovascular Hospital, Taiyuan, Shanxi, China.
+6 Department of Neurosurgery, North China University of Science and Technology Affiliated Hospital, Tangshan, Hebei, China.
+7 Department of Neurology, Xuanwu Hospital Capital Medical University, Beijing, China.
+8 Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China.
+9 Department of Interventional Radiology, The First Affiliated Hospital With Nanjing Medical University, Nanjing, Jiangsu, China liqunjiao@sina.cn liusheng@njmu.edu.cn.
+10 Department of Neurosurgery and Interventional Neuroradiology, Xuanwu Hospital Capital Medical University, Beijing, China liqunjiao@sina.cn liusheng@njmu.edu.cn.",,2024 Mar 19:jnis-2024-021553.
+radiology,Calf injury in a padel player.,https://pubmed.ncbi.nlm.nih.gov/38503470,No abstract available,"Carles Pedret 
+                1
+              , Sandra Mecho 
+                2
+              , Ramon Balius 
+                3
+              , Gulraiz Ahmad 
+                4; Carles Pedret 
+                1
+              , Sandra Mecho 
+                2
+              , Ramon Balius 
+                3
+              , Gulraiz Ahmad 
+                4","Affiliations
+          
+
+1 Sports Medicine and Imaging, Clinica de Medicina Integral Diagonal SLU, Esplugues de Llobregat, Spain info@carlespedret.com.
+2 Hospital de Barcelona, Barcelona, Spain.
+3 Sports Medicine Department, Consell Català de l'Esport. Generalitat of Catalonia. Barcelona, Barcelona, Spain.
+4 Radiology department, Manchester University NHS Foundation Trust, Manchester, UK.; Affiliations
+          
+
+1 Sports Medicine and Imaging, Clinica de Medicina Integral Diagonal SLU, Esplugues de Llobregat, Spain info@carlespedret.com.
+2 Hospital de Barcelona, Barcelona, Spain.
+3 Sports Medicine Department, Consell Català de l'Esport. Generalitat of Catalonia. Barcelona, Barcelona, Spain.
+4 Radiology department, Manchester University NHS Foundation Trust, Manchester, UK.",,2024 Mar 19:bjsports-2024-108064.
+radiology,Adjuvant Wilms' tumour 1-specific dendritic cell immunotherapy complementing conventional therapy for paediatric patients with high-grade glioma and diffuse intrinsic pontine glioma: protocol of a monocentric phase I/II clinical trial in Belgium.,https://pubmed.ncbi.nlm.nih.gov/38503417,"Introduction:
+        
+      
+      Diffuse intrinsic pontine glioma (DIPG) and paediatric high-grade glioma (pHGG) are aggressive glial tumours, for which conventional treatment modalities fall short. Dendritic cell (DC)-based immunotherapy is being investigated as a promising and safe adjuvant therapy. The Wilms' tumour protein (WT1) is a potent target for this type of antigen-specific immunotherapy and is overexpressed in DIPG and pHGG. Based on this, we designed a non-randomised phase I/II trial, assessing the feasibility and safety of WT1 mRNA-loaded DC (WT1/DC) immunotherapy in combination with conventional treatment in pHGG and DIPG.
+    
+
+
+          Methods and analysis:
+        
+      
+      10 paediatric patients with newly diagnosed or pretreated HGG or DIPG were treated according to the trial protocol. The trial protocol consists of leukapheresis of mononuclear cells, the manufacturing of autologous WT1/DC vaccines and the combination of WT1/DC-vaccine immunotherapy with conventional antiglioma treatment. In newly diagnosed patients, this comprises chemoradiation (oral temozolomide 90 mg/m2 daily+radiotherapy 54 Gy in 1.8 Gy fractions) followed by three induction WT1/DC vaccines (8-10×106 cells/vaccine) given on a weekly basis and a chemoimmunotherapy booster phase consisting of six 28-day cycles of oral temozolomide (150-200 mg/m2 on days 1-5) and a WT1/DC vaccine on day 21. In pretreated patients, the induction and booster phase are combined with best possible antiglioma treatment at hand. Primary objectives are to assess the feasibility of the production of mRNA-electroporated WT1/DC vaccines in this patient population and to assess the safety and feasibility of combining conventional antiglioma treatment with the proposed immunotherapy. Secondary objectives are to investigate in vivo immunogenicity of WT1/DC vaccination and to assess disease-specific and general quality of life.
+    
+
+
+          Ethics and dissemination:
+        
+      
+      The ethics committee of the Antwerp University Hospital and the University of Antwerp granted ethics approval. Results of the clinical trial will be shared through publication in a peer-reviewed journal and presentations at conferences.
+    
+
+
+          Trial registration number:
+        
+NCT04911621.","Toon Van Genechten 
+                1
+               
+                2
+              , Maxime De Laere 
+                2
+               
+                3
+              , Jolien Van den Bossche 
+                2
+               
+                3
+              , Barbara Stein 
+                3
+              , Kim De Rycke 
+                3
+              , Caroline Deschepper 
+                4
+              , Katja Hazes 
+                4
+              , Renke Peeters 
+                4
+              , Marie-Madeleine Couttenye 
+                5
+              , Katrien Van De Walle 
+                5
+              , Ella Roelant 
+                6
+              , Sabine Maes 
+                7
+              , Stephanie Vanden Bossche 
+                8
+              , Sven Dekeyzer 
+                8
+              , Manon Huizing 
+                9
+               
+                10
+              , Kim Caluwaert 
+                3
+               
+                9
+              , Griet Nijs 
+                3
+              , Nathalie Cools 
+                2
+               
+                3
+              , Joris Verlooy 
+                4
+              , Koen Norga 
+                4
+              , Stijn Verhulst 
+                11
+              , Sebastien Anguille 
+                2
+               
+                3
+              , Zwi Berneman 
+                2
+               
+                3
+              , Eva Lion 
+                3
+               
+                12; Toon Van Genechten 
+                1
+               
+                2
+              , Maxime De Laere 
+                2
+               
+                3
+              , Jolien Van den Bossche 
+                2
+               
+                3
+              , Barbara Stein 
+                3
+              , Kim De Rycke 
+                3
+              , Caroline Deschepper 
+                4
+              , Katja Hazes 
+                4
+              , Renke Peeters 
+                4
+              , Marie-Madeleine Couttenye 
+                5
+              , Katrien Van De Walle 
+                5
+              , Ella Roelant 
+                6
+              , Sabine Maes 
+                7
+              , Stephanie Vanden Bossche 
+                8
+              , Sven Dekeyzer 
+                8
+              , Manon Huizing 
+                9
+               
+                10
+              , Kim Caluwaert 
+                3
+               
+                9
+              , Griet Nijs 
+                3
+              , Nathalie Cools 
+                2
+               
+                3
+              , Joris Verlooy 
+                4
+              , Koen Norga 
+                4
+              , Stijn Verhulst 
+                11
+              , Sebastien Anguille 
+                2
+               
+                3
+              , Zwi Berneman 
+                2
+               
+                3
+              , Eva Lion 
+                3
+               
+                12","Affiliations
+          
+
+1 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium toon.vangenechten@uza.be.
+2 Laboratory of Experimental Hematology, Vaccine & Infectious Disease Institute, University of Antwerp Faculty of Medicine and Health Sciences, Wilrijk, Belgium.
+3 Center for Cell Therapy and Regenerative Medicine, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+4 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+5 Department of Nephrology, University Hospital Antwerp, Edegem, Belgium.
+6 Statistics, Universitair Ziekenhuis Antwerpen, Edegem, Antwerpen, Belgium.
+7 Anesthesiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+8 Radiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+9 Cell and Tissue Bank, University Hospital Antwerp, Edegem, Antwerp, Belgium.
+10 Faculty of Health Sciences, University Hospital Antwerp, Edegem, België, Belgium.
+11 Pediatrics, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+12 Laboratory of Experimental Hematology, University Hospital Antwerp, Edegem, Antwerp, Belgium.; Affiliations
+          
+
+1 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium toon.vangenechten@uza.be.
+2 Laboratory of Experimental Hematology, Vaccine & Infectious Disease Institute, University of Antwerp Faculty of Medicine and Health Sciences, Wilrijk, Belgium.
+3 Center for Cell Therapy and Regenerative Medicine, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+4 Pediatric Oncology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+5 Department of Nephrology, University Hospital Antwerp, Edegem, Belgium.
+6 Statistics, Universitair Ziekenhuis Antwerpen, Edegem, Antwerpen, Belgium.
+7 Anesthesiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+8 Radiology, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+9 Cell and Tissue Bank, University Hospital Antwerp, Edegem, Antwerp, Belgium.
+10 Faculty of Health Sciences, University Hospital Antwerp, Edegem, België, Belgium.
+11 Pediatrics, University Hospital Antwerp, Edegem, Antwerpen, Belgium.
+12 Laboratory of Experimental Hematology, University Hospital Antwerp, Edegem, Antwerp, Belgium.",,2024 Mar 18;14(3):e077613.
+radiology,Radiofrequency ablation of hepatocellular carcinoma guided by real-time physics-based ablation simulation: a prospective study.,https://pubmed.ncbi.nlm.nih.gov/38503326,"Objectives:
+        
+      
+      To assess the safety and efficacy of radiofrequency ablation (RFA) guidance software that incorporated patient-specific physics-based simulation of each ablation volume.
+    
+
+
+          Materials and methods:
+        
+      
+      Patients referred for curative ablation of hepatocellular carcinoma (HCC) of 2-5 cm diameter were prospectively enrolled. RFA was performed under general anesthesia. Procedure planning and intraprocedural modifications were guided by computer simulation of each ablation. The segmented target (tumor with 5 mm margin) was registered to and superimposed on subsequent 3D multiplanar images. The applied RF energy was used to calculate a simulated ablation volume which was displayed relative to the electrode and segmented target, to depict any untreated target tissue. After each additional ablation, the software updated the accumulated simulated ablation volume in relation to the target. The primary endpoints were technical efficacy and rate of local tumor progression (LTP).
+    
+
+
+          Results:
+        
+      
+      Sixty-eight tumors were ablated during 57 procedures in 52 patients (68.3 ± 9.2 years old, 78.8% male); 15 (26.3%) had multiple lesions and 23 (39.1%) had prior HCC treatment. The mean tumor diameter was 2.73 (±0.64) cm. The intraprocedural simulation directed additional overlapping ablations in 75.9% of tumors. Technical success and efficacy were 100% at 3-month contrast enhanced CT or MRI follow-up after the single treatment session. Cumulative incidence function estimates for 1- and 2-year LTP were 3.9% and 20.2%, respectively.
+    
+
+
+          Conclusion:
+        
+      
+      This prospective study found computer-assisted guidance that simulated each ablation was both safe and efficacious. The low rate of LTP was similar to studies that employed stereotactic guidance and ablation confirmation, without requiring a second contrast enhanced study.","Eric K Hoffer 
+                1
+              , Mary C Drinane 
+                2
+              , Vikrant Bhatnagar 
+                1
+              , Riya Mehta 
+                3
+              , David P Munger 
+                1
+              , Andrea Borsic 
+                4; Eric K Hoffer 
+                1
+              , Mary C Drinane 
+                2
+              , Vikrant Bhatnagar 
+                1
+              , Riya Mehta 
+                3
+              , David P Munger 
+                1
+              , Andrea Borsic 
+                4","Affiliations
+          
+
+1 Department of Radiology, Dartmouth Hitchcock Medical Center, Lebanon, NH, USA.
+2 Department of Gastroenterology and Hepatology, Dartmouth Hitchcock Medical Center, Lebanon, NH, USA.
+3 Department of Biomedical Data Science, Dartmouth College, Hanover, NH, USA.
+4 NE Scientific LLC, Boston, MA, USA.; Affiliations
+          
+
+1 Department of Radiology, Dartmouth Hitchcock Medical Center, Lebanon, NH, USA.
+2 Department of Gastroenterology and Hepatology, Dartmouth Hitchcock Medical Center, Lebanon, NH, USA.
+3 Department of Biomedical Data Science, Dartmouth College, Hanover, NH, USA.
+4 NE Scientific LLC, Boston, MA, USA.",,2024;41(1):2331704.
+radiology,The Relationship of Gastrocnemius-Soleus Muscle Architecture with Balance and Functional Strength in Acute Stroke Patients.,https://pubmed.ncbi.nlm.nih.gov/38503319,"Balance and functional impairment could occur due to the weakness of the gastrocsoleus muscles in acute stroke patients. This study was planned to determine the muscle architecture and its relationship to balance and functional strength functional ability in patients with acute stroke. A cross-sectional analysis of 22 stroke patients (68.59 ± 8.16) was performed in this study. Gastrocnemius muscle thickness and cross-sectional area were significantly greater on the non-paretic than on the paretic sides (p = 0.004, p = 0.005, respectively). Partial correlation analysis showed that soleus muscle thickness and cross-sectional area was significantly correlated with Berg Balance Scale, Single Leg Stance Test, Five Times Sit to Stand Test and Tandem test results in the paretic side (r = 0.49-0.77, p < 0.05). The gastrocnemius muscle thickness of the non-paretic side had a significant relationship with balance (r = 0.45-0.65, p < 0.05). The muscle thickness and cross-sectional area of the soleus muscle on the paretic sides was significantly related with the functional strength and balance after stroke. It may be beneficial to develop clinical assessment and intervention programs focusing on distal plantar flexor muscle groups in order to improve the functional status and balance.","Hatice Yakut 
+                1
+              , Veysel Atilla Ayyıldız 
+                2
+              , Zülal Bekar 
+                3
+              , Mustafa Kayan 
+                2
+              , Süleyman Kutluhan 
+                4; Hatice Yakut 
+                1
+              , Veysel Atilla Ayyıldız 
+                2
+              , Zülal Bekar 
+                3
+              , Mustafa Kayan 
+                2
+              , Süleyman Kutluhan 
+                4","Affiliations
+          
+
+1 Faculty of Health Sciences, Department of Physical Therapy and Rehabilitation, Süleyman Demirel University, Isparta, Turkey.
+2 Faculty of Medicine, Department of Radiology, Süleyman Demirel University, Isparta, Turkey.
+3 Faculty of Health Sciences, Department of Physical Therapy and Rehabilitation, Gazi University, Ankara, Turkey.
+4 Faculty of Medicine, Department of Neurology, Süleyman Demirel University, Isparta, Turkey.; Affiliations
+          
+
+1 Faculty of Health Sciences, Department of Physical Therapy and Rehabilitation, Süleyman Demirel University, Isparta, Turkey.
+2 Faculty of Medicine, Department of Radiology, Süleyman Demirel University, Isparta, Turkey.
+3 Faculty of Health Sciences, Department of Physical Therapy and Rehabilitation, Gazi University, Ankara, Turkey.
+4 Faculty of Medicine, Department of Neurology, Süleyman Demirel University, Isparta, Turkey.",,2024 Mar 19:1-10.
+radiology,Endovascular Repair of Zone 0 Ascending Aortic Pseudoaneurysm: A Case Report.,https://pubmed.ncbi.nlm.nih.gov/38503308,"Although open surgery is standard of care for ascending aortic pathology, endovascular approaches can be viable options. We report the case of a 77-year-old man with a 5.7-cm ascending aorta penetrating ulcer. Given his age and clinical profile, the patient underwent Zone 0 thoracic endovascular aortic repair.","Sarah Halbert 
+                1
+               
+                2
+              , Christian Nagy 
+                1
+               
+                3
+              , Jared Antevil 
+                1
+               
+                4
+              , Shawn Sarin 
+                1
+               
+                5
+              , Gregory Trachiotis 
+                1
+               
+                4; Sarah Halbert 
+                1
+               
+                2
+              , Christian Nagy 
+                1
+               
+                3
+              , Jared Antevil 
+                1
+               
+                4
+              , Shawn Sarin 
+                1
+               
+                5
+              , Gregory Trachiotis 
+                1
+               
+                4","Affiliations
+          
+
+1 Division of Cardiothoracic Surgery, Heart Center, Veterans Affairs Medical Center, Washington, District of Columbia.
+2 Department of Surgery, MedStar Georgetown University Hospital, Washington, District of Columbia.
+3 Department of Cardiology, George Washington University School of Medicine and Health Sciences and Veterans Affairs Medical Center, Washington, District of Columbia.
+4 Department of Surgery, George Washington University School of Medicine and Health Sciences, Washington, District of Columbia.
+5 Department of Radiology, Interventional Radiology, George Washington University, School of Medicine and Health Sciences, Washington, District of Columbia.; Affiliations
+          
+
+1 Division of Cardiothoracic Surgery, Heart Center, Veterans Affairs Medical Center, Washington, District of Columbia.
+2 Department of Surgery, MedStar Georgetown University Hospital, Washington, District of Columbia.
+3 Department of Cardiology, George Washington University School of Medicine and Health Sciences and Veterans Affairs Medical Center, Washington, District of Columbia.
+4 Department of Surgery, George Washington University School of Medicine and Health Sciences, Washington, District of Columbia.
+5 Department of Radiology, Interventional Radiology, George Washington University, School of Medicine and Health Sciences, Washington, District of Columbia.",,2024 Mar 19.
+radiology,The onset of intermetatarsal bursitis in patient with rheumatoid arthritis - Case report of surgical treatment.,https://pubmed.ncbi.nlm.nih.gov/38503164,"Introduction:
+        
+      
+      Mono-arthritis and intermetatarsal bursitis according to rheumatoid arthritis aren't aware among general orthopedic surgeon. This report describes a case of surgical treatment of intermetatarsal bursitis.
+    
+
+
+          Presentation of case:
+        
+      
+      A 50-year-old female presented with three years of metatarsophalangeal joint pain and deformity. MRI showed bursitis and synovial proliferation around the joint. Synovectomy reduced pain and foot deformity. After surgery, the patient was administered methotrexate.
+    
+
+
+          Discussion:
+        
+      
+      There were previous studies reporting intermetatarsal bursitis associated with rheumatoid arthritis, few case reports were found in which surgery and pathological examination were performed.
+    
+
+
+          Conclusion:
+        
+      
+      Intermetatarsal bursitis is common for patients with rheumatoid arthritis. Early diagnosis and early appropriate treatment is necessary.","Yuya Kimura 
+                1
+              , Ichiro Kikkawa 
+                2
+              , Hideharu Sugimoto 
+                3
+              , Shigeo Kawai 
+                4
+              , Katsushi Takeshita 
+                5; Yuya Kimura 
+                1
+              , Ichiro Kikkawa 
+                2
+              , Hideharu Sugimoto 
+                3
+              , Shigeo Kawai 
+                4
+              , Katsushi Takeshita 
+                5","Affiliations
+          
+
+1 Department of Orthopedic Surgery, Nasu Chuoh Hospital, Otawara, Japan. Electronic address: yuya4316@gmail.com.
+2 Department of Orthopedic Surgery, Nasu Chuoh Hospital, Otawara, Japan.
+3 Department of Radiology, Shin-Kaminokawa Hospital, Kaminokawa, Japan.
+4 Department of Pathology, Tochigi Medical Center Shimotsuga, Tochigi, Japan.
+5 Department of Orthopedic Surgery, Jichi Medical University, Shimotsuke, Japan.; Affiliations
+          
+
+1 Department of Orthopedic Surgery, Nasu Chuoh Hospital, Otawara, Japan. Electronic address: yuya4316@gmail.com.
+2 Department of Orthopedic Surgery, Nasu Chuoh Hospital, Otawara, Japan.
+3 Department of Radiology, Shin-Kaminokawa Hospital, Kaminokawa, Japan.
+4 Department of Pathology, Tochigi Medical Center Shimotsuga, Tochigi, Japan.
+5 Department of Orthopedic Surgery, Jichi Medical University, Shimotsuke, Japan.",,2024 Mar 16:117:109537.
+radiology,Mindfulness-based cognitive therapy neurobiology in treatment-resistant obsessive-compulsive disorder: A domain-related resting-state networks approach.,https://pubmed.ncbi.nlm.nih.gov/38503084,"Mindfulness-based cognitive therapy (MBCT) stands out as a promising augmentation psychological therapy for patients with obsessive-compulsive disorder (OCD). To identify potential predictive and response biomarkers, this study examines the relationship between clinical domains and resting-state network connectivity in OCD patients undergoing a 3-month MBCT programme. Twelve OCD patients underwent two resting-state functional magnetic resonance imaging sessions at baseline and after the MBCT programme. We assessed four clinical domains: positive affect, negative affect, anxiety sensitivity, and rumination. Independent component analysis characterised resting-state networks (RSNs), and multiple regression analyses evaluated brain-clinical associations. At baseline, distinct network connectivity patterns were found for each clinical domain: parietal-subcortical, lateral prefrontal, medial prefrontal, and frontal-occipital. Predictive and response biomarkers revealed significant brain-clinical associations within two main RSNs: the ventral default mode network (vDMN) and the frontostriatal network (FSN). Key brain nodes -the precuneus and the frontopolar cortex- were identified within these networks. MBCT may modulate vDMN and FSN connectivity in OCD patients, possibly reducing symptoms across clinical domains. Each clinical domain had a unique baseline brain connectivity pattern, suggesting potential symptom-based biomarkers. Using these RSNs as predictors could enable personalised treatments and the identification of patients who would benefit most from MBCT.","Víctor De la Peña-Arteaga 
+                1
+              , Marta Cano 
+                2
+              , Daniel Porta-Casteràs 
+                3
+              , Muriel Vicent-Gil 
+                2
+              , Neus Miquel-Giner 
+                4
+              , Ignacio Martínez-Zalacaín 
+                5
+              , Lorea Mar-Barrutia 
+                6
+              , Marina López-Solà 
+                7
+              , Jessica R Andrews-Hanna 
+                8
+              , Carles Soriano-Mas 
+                9
+              , Pino Alonso 
+                10
+              , Maria Serra-Blasco 
+                11
+              , Clara López-Solà 
+                12
+              , Narcís Cardoner 
+                2; Víctor De la Peña-Arteaga 
+                1
+              , Marta Cano 
+                2
+              , Daniel Porta-Casteràs 
+                3
+              , Muriel Vicent-Gil 
+                2
+              , Neus Miquel-Giner 
+                4
+              , Ignacio Martínez-Zalacaín 
+                5
+              , Lorea Mar-Barrutia 
+                6
+              , Marina López-Solà 
+                7
+              , Jessica R Andrews-Hanna 
+                8
+              , Carles Soriano-Mas 
+                9
+              , Pino Alonso 
+                10
+              , Maria Serra-Blasco 
+                11
+              , Clara López-Solà 
+                12
+              , Narcís Cardoner 
+                2","Affiliations
+          
+
+1 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.
+2 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain.
+3 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Department of Psychiatry and Forensic Medicine, School of Medicine Bellaterra, Universitat Autònoma de Barcelona, Barcelona, Spain.
+4 Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Department of Mental Health, Parc Sanitari Sant Joan de Déu, Cornellà de Llobregat, Spain.
+5 Department of Radiology, Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain.
+6 Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain.
+7 Department of Medicine, School of Medicine and Health Sciences, Universitat de Barcelona - UB, Barcelona, Spain.
+8 Department of Psychology - Cognitive Science, University of Arizona, Tucson, United States of America.
+9 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain; Department of Social Psychology and Quantitative Psychology, Universitat de Barcelona - UB, Barcelona, Spain.
+10 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain; Department of Clinical Sciences, School of Medicine, Universitat de Barcelona - UB, L'Hospitalet de Llobregat, Spain.
+11 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; ICOnnecta't e-Health Program of the Institut Català d'Oncologia (ICO), L'Hospitalet de Llobregat, Spain; Psycho-oncology and Digital Health Group, Health Services Research in Cancer, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet del Llobregat, Spain. Electronic address: mariaserrab@iconcologia.net.
+12 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Health Clinical Psychology Section, Department of Psychiatry & Clinical Psychology, Institut Clínic de Neurociències (ICN), Hospital Clínic, Barcelona, Spain. Electronic address: clalopez@clinic.cat.; Affiliations
+          
+
+1 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain.
+2 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain.
+3 Sant Pau Mental Health Research Group, Institut de Recerca Sant Pau (IR SANT PAU), Barcelona, Spain; Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Department of Psychiatry and Forensic Medicine, School of Medicine Bellaterra, Universitat Autònoma de Barcelona, Barcelona, Spain.
+4 Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Department of Mental Health, Parc Sanitari Sant Joan de Déu, Cornellà de Llobregat, Spain.
+5 Department of Radiology, Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain.
+6 Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain.
+7 Department of Medicine, School of Medicine and Health Sciences, Universitat de Barcelona - UB, Barcelona, Spain.
+8 Department of Psychology - Cognitive Science, University of Arizona, Tucson, United States of America.
+9 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain; Department of Social Psychology and Quantitative Psychology, Universitat de Barcelona - UB, Barcelona, Spain.
+10 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Psychiatry and Mental Health Group, Neuroscience Program, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet de Llobregat, Spain; Department of Clinical Sciences, School of Medicine, Universitat de Barcelona - UB, L'Hospitalet de Llobregat, Spain.
+11 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; ICOnnecta't e-Health Program of the Institut Català d'Oncologia (ICO), L'Hospitalet de Llobregat, Spain; Psycho-oncology and Digital Health Group, Health Services Research in Cancer, Institut d'Investigació Biomèdica de Bellvitge - IDIBELL, L'Hospitalet del Llobregat, Spain. Electronic address: mariaserrab@iconcologia.net.
+12 Network Centre for Biomedical Research on Mental Health (CIBERSAM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain; Mental Health Department, Unitat de Neurociència Traslacional, Parc Taulí University Hospital, Institut d'Investigació i Innovació Sanitària Parc Taulí (I3PT), Sabadell, Spain; Health Clinical Psychology Section, Department of Psychiatry & Clinical Psychology, Institut Clínic de Neurociències (ICN), Hospital Clínic, Barcelona, Spain. Electronic address: clalopez@clinic.cat.",,2024 Mar 18:82:72-81.
+radiology,Imaging-guided prognostic score-based approach to assess the benefits of combotherapy versus monotherapy with immune checkpoint inhibitors in metastatic MSI-H colorectal cancer patients.,https://pubmed.ncbi.nlm.nih.gov/38502988,"Background:
+        
+      
+      This retrospective study determined survival responses to immune checkpoint inhibitors (ICIs), comparing mono- (mono) and combo-immunotherapy (combo) in patients with microsatellite instability-high (MSI-H) metastatic colorectal cancer (mCRC) by analyzing quantitative imaging data and clinical factors.
+    
+
+
+          Methods:
+        
+      
+      One hundred fifty patients were included from two centers and divided into training (n = 105) and validation (n = 45) cohorts. Radiologists manually annotated chest-abdomen-pelvis computed tomography and calculated tumor burden. Progression-free survival (PFS) was assessed, and variables were selected through Recursive Feature Elimination. Cutoff values were determined using maximally selected rank statistics to binarize features, forming a risk score with hazard ratio-derived weights.
+    
+
+
+          Results:
+        
+      
+      In total, 2258 lesions were annotated with excellent reproducibility. Key variables in the training cohort included: total tumor volume (cutoff: 73 cm3), lesion count (cutoff: 20), age (cutoff: 60) and the presence of peritoneal carcinomatosis. Their respective weights were 1.13, 0.96, 0.91, and 0.38, resulting in a risk score cutoff of 1.36. Low-score patients showed similar overall survival and PFS regardless of treatment, while those with a high-score had significantly worse survivals with mono vs combo (P = 0.004 and P = 0.0001). In the validation set, low-score patients exhibited no significant difference in overall survival and PFS with mono or combo. However, patients with a high-score had worse PFS with mono (P = 0.046).
+    
+
+
+          Conclusions:
+        
+      
+      A score based on total tumor volume, lesion count, the presence of peritoneal carcinomatosis, and age can guide MSI-H mCRC treatment decisions, allowing oncologists to identify suitable candidates for mono and combo ICI therapies.","Rémy Barbe 
+                1
+              , Younes Belkouchi 
+                2
+              , Yves Menu 
+                3
+              , Romain Cohen 
+                4
+              , Clemence David 
+                5
+              , Michele Kind 
+                6
+              , Sana Harguem 
+                1
+              , Lama Dawi 
+                1
+              , Joya Hadchiti 
+                1
+              , Fatine Selhane 
+                1
+              , Nicolas Billet 
+                5
+              , Samy Ammari 
+                7
+              , Ambroise Bertin 
+                5
+              , Littisha Lawrance 
+                5
+              , Baptiste Cervantes 
+                4
+              , Antoine Hollebecque 
+                8
+              , Corinne Balleyguier 
+                7
+              , Paul-Henry Cournede 
+                9
+              , Hugues Talbot 
+                10
+              , Nathalie Lassau 
+                7
+              , Thierry Andre 
+                11; Rémy Barbe 
+                1
+              , Younes Belkouchi 
+                2
+              , Yves Menu 
+                3
+              , Romain Cohen 
+                4
+              , Clemence David 
+                5
+              , Michele Kind 
+                6
+              , Sana Harguem 
+                1
+              , Lama Dawi 
+                1
+              , Joya Hadchiti 
+                1
+              , Fatine Selhane 
+                1
+              , Nicolas Billet 
+                5
+              , Samy Ammari 
+                7
+              , Ambroise Bertin 
+                5
+              , Littisha Lawrance 
+                5
+              , Baptiste Cervantes 
+                4
+              , Antoine Hollebecque 
+                8
+              , Corinne Balleyguier 
+                7
+              , Paul-Henry Cournede 
+                9
+              , Hugues Talbot 
+                10
+              , Nathalie Lassau 
+                7
+              , Thierry Andre 
+                11","Affiliations
+          
+
+1 Département d'imagerie, Gustave Roussy, Villejuif, France.
+2 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France; Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+3 Département d'imagerie, Gustave Roussy, Villejuif, France; SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+4 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+5 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+6 Département d'imagerie, Institut Bergonié, Bordeaux, France.
+7 Département d'imagerie, Gustave Roussy, Villejuif, France; Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+8 Département d'Innovation Thérapeutique et Essais Précoces (DITEP), Gustave Roussy, Villejuif, France.
+9 Université Paris-Saclay, Centrale-Supelec, Lab of Mathematics and Informatics, Gif-Sur-Yvette, France.
+10 Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+11 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France. Electronic address: thierry.andre@aphp.fr.; Affiliations
+          
+
+1 Département d'imagerie, Gustave Roussy, Villejuif, France.
+2 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France; Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+3 Département d'imagerie, Gustave Roussy, Villejuif, France; SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+4 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France.
+5 Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+6 Département d'imagerie, Institut Bergonié, Bordeaux, France.
+7 Département d'imagerie, Gustave Roussy, Villejuif, France; Laboratoire BIOMAPS, CNRS, INSERM, CEA, Université Paris Saclay, Villejuif, France.
+8 Département d'Innovation Thérapeutique et Essais Précoces (DITEP), Gustave Roussy, Villejuif, France.
+9 Université Paris-Saclay, Centrale-Supelec, Lab of Mathematics and Informatics, Gif-Sur-Yvette, France.
+10 Université Paris-Saclay, Centrale-Supelec, Centre de vision numérique, Gif-Sur-Yvette, France.
+11 SIRIC CURAMUS, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France; Sorbonne University, Department of Medical Oncology, Saint-Antoine Hospital, AP-HP, INSERM, Unité Mixte de Recherche Scientifique 938, Centre de Recherche Saint-Antoine, Equipe Instabilité des Microsatellites et Cancer, Equipe Labellisée par la Ligue Nationale Contre le Cancer, Paris, France. Electronic address: thierry.andre@aphp.fr.",,2024 Mar 16:202:114020.
+radiology,Artificial intelligence system for automatic maxillary sinus segmentation on cone beam computed tomography images.,https://pubmed.ncbi.nlm.nih.gov/38502963,"Objectives:
+        
+      
+      The study aims to develop an artificial intelligence (AI) model based on nnU-Net v2 for automatic maxillary sinus (MS) segmentation in Cone Beam Computed Tomography (CBCT) volumes and to evaluate the performance of this model.
+    
+
+
+          Methods:
+        
+      
+      In 101 CBCT scans, MS were annotated using the CranioCatch labelling software (Eskisehir, Turkey) The dataset was divided into three parts: 80 CBCT scans for training the model, 11 CBCT scans for model validation, and 10 CBCT scans for testing the model. The model training was conducted using the nnU-Net v2 deep learning model with a learning rate of 0.00001 for 1000 epochs. The performance of the model to automatically segment the MS on CBCT scans was assessed by several parameters, including F1-score, accuracy, sensitivity, precision, Area Under Curve (AUC), Dice Coefficient (DC), 95% Hausdorff Distance (95% HD), and Intersection over Union (IoU) values.
+    
+
+
+          Results:
+        
+      
+      F1-score, accuracy, sensitivity, precision values were found to be 0.96, 0.99, 0.96, 0.96 respectively for the successful segmentation of maxillary sinus in CBCT images. AUC, DC, 95% HD, IoU values were 0.97, 0.96, 1.19, 0.93, respectively.
+    
+
+
+          Conclusions:
+        
+      
+      Models based on nnU-Net v2 demonstrate the ability to segment the MS autonomously and accurately in CBCT images.","Ibrahim Sevki Bayrakdar 
+                1
+              , Nermin Sameh Elfayome 
+                2
+              , Reham Ashraf Hussien 
+                2
+              , Ibrahim Tevfik Gulsen 
+                3
+              , Alican Kuran 
+                4
+              , Ihsan Gunes 
+                5
+              , Alwaleed Al-Badr 
+                6
+              , Ozer Celik 
+                7
+              , Kaan Orhan 
+                8; Ibrahim Sevki Bayrakdar 
+                1
+              , Nermin Sameh Elfayome 
+                2
+              , Reham Ashraf Hussien 
+                2
+              , Ibrahim Tevfik Gulsen 
+                3
+              , Alican Kuran 
+                4
+              , Ihsan Gunes 
+                5
+              , Alwaleed Al-Badr 
+                6
+              , Ozer Celik 
+                7
+              , Kaan Orhan 
+                8","Affiliations
+          
+
+1 Associate Professor, Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Eskisehir Osmangazi University, Eskisehir, Turkey.
+2 Lecturer of Oral and Maxillofacial Radiology, Faculty of Dentistry, Cairo University, Cairo, Egypt.
+3 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Alanya Alaaddin Keykubat University, Antalya, Turkey.
+4 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Kocaeli University, Kocaeli, Turkey.
+5 Open and Distance Education Application and Research Center, Eskisehir Technical University, Eskisehir, Turkey.
+6 Master's Student in Restorative Dentistry, Riyadh Elm University, Riyadh, Saudi Arabia.
+7 Department of Mathematics-Computer, Eskisehir Osmangazi University Faculty of Science, Eskisehir, Turkey.
+8 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Ankara University, Ankara, Turkey.; Affiliations
+          
+
+1 Associate Professor, Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Eskisehir Osmangazi University, Eskisehir, Turkey.
+2 Lecturer of Oral and Maxillofacial Radiology, Faculty of Dentistry, Cairo University, Cairo, Egypt.
+3 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Alanya Alaaddin Keykubat University, Antalya, Turkey.
+4 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Kocaeli University, Kocaeli, Turkey.
+5 Open and Distance Education Application and Research Center, Eskisehir Technical University, Eskisehir, Turkey.
+6 Master's Student in Restorative Dentistry, Riyadh Elm University, Riyadh, Saudi Arabia.
+7 Department of Mathematics-Computer, Eskisehir Osmangazi University Faculty of Science, Eskisehir, Turkey.
+8 Department of Oral and Maxillofacial Radiology, Faculty of Dentistry, Ankara University, Ankara, Turkey.",,2024 Mar 19:twae012.
