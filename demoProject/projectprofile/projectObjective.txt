@@ -1,0 +1,1 @@
+The objective is to prove the system's ability to accurately generate insights based on the project information and the gathered data.
