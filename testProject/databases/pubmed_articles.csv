@@ -1,0 +1,839 @@
+﻿Keyword,Title,URL,Abstract,Authors,Affiliations,Keywords,Publication Date
+leukemia,"Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma, Version 2.2024.",https://pubmed.ncbi.nlm.nih.gov/38626800,"Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are essentially different manifestations of the same disease that are similarly managed. A number of molecular and cytogenetic variables with prognostic implications have been identified. Undetectable minimal residual disease at the end of treatment with chemoimmunotherapy or venetoclax-based combination regimens is an independent predictor of improved survival among patients with previously untreated or relapsed/refractory CLL/SLL. The selection of treatment is based on the disease stage, presence or absence of del(17p) or TP53 mutation, immunoglobulin heavy chain variable region mutation status, patient age, performance status, comorbid conditions, and the agent's toxicity profile. This manuscript discusses the recommendations outlined in the NCCN Guidelines for the diagnosis and management of patients with CLL/SLL.","William G Wierda 
+                1
+              , Jennifer Brown 
+                2
+              , Jeremy S Abramson 
+                3
+              , Farrukh Awan 
+                4
+              , Syed F Bilgrami 
+                5
+              , Greg Bociek 
+                6
+              , Danielle Brander 
+                7
+              , Matthew Cortese 
+                8
+              , Larry Cripe 
+                9
+              , Randall S Davis 
+                10
+              , Herbert Eradat 
+                11
+              , Bita Fakhri 
+                12
+              , Christopher D Fletcher 
+                13
+              , Sameh Gaballa 
+                14
+              , Muhammad Saad Hamid 
+                15
+              , Brian Hill 
+                16
+              , Paul Kaesberg 
+                17
+              , Brad Kahl 
+                18
+              , Manali Kamdar 
+                19
+              , Thomas J Kipps 
+                20
+              , Shuo Ma 
+                21
+              , Claudio Mosse 
+                22
+              , Shazia Nakhoda 
+                23
+              , Sameer Parikh 
+                24
+              , Andrew Schorr 
+                25
+              , Stephen Schuster 
+                26
+              , Madhav Seshadri 
+                27
+              , Tanya Siddiqi 
+                28
+              , Deborah M Stephens 
+                29
+              , Meghan Thompson 
+                30
+              , Chaitra Ujjani 
+                31
+              , Riccardo Valdez 
+                32
+              , Nina Wagner-Johnston 
+                33
+              , Jennifer A Woyach 
+                34
+              , Hema Sundar 
+                35
+              , Mary Dwyer 
+                35; William G Wierda 
+                1
+              , Jennifer Brown 
+                2
+              , Jeremy S Abramson 
+                3
+              , Farrukh Awan 
+                4
+              , Syed F Bilgrami 
+                5
+              , Greg Bociek 
+                6
+              , Danielle Brander 
+                7
+              , Matthew Cortese 
+                8
+              , Larry Cripe 
+                9
+              , Randall S Davis 
+                10
+              , Herbert Eradat 
+                11
+              , Bita Fakhri 
+                12
+              , Christopher D Fletcher 
+                13
+              , Sameh Gaballa 
+                14
+              , Muhammad Saad Hamid 
+                15
+              , Brian Hill 
+                16
+              , Paul Kaesberg 
+                17
+              , Brad Kahl 
+                18
+              , Manali Kamdar 
+                19
+              , Thomas J Kipps 
+                20
+              , Shuo Ma 
+                21
+              , Claudio Mosse 
+                22
+              , Shazia Nakhoda 
+                23
+              , Sameer Parikh 
+                24
+              , Andrew Schorr 
+                25
+              , Stephen Schuster 
+                26
+              , Madhav Seshadri 
+                27
+              , Tanya Siddiqi 
+                28
+              , Deborah M Stephens 
+                29
+              , Meghan Thompson 
+                30
+              , Chaitra Ujjani 
+                31
+              , Riccardo Valdez 
+                32
+              , Nina Wagner-Johnston 
+                33
+              , Jennifer A Woyach 
+                34
+              , Hema Sundar 
+                35
+              , Mary Dwyer 
+                35","Affiliations
+          
+
+1 1The University of Texas MD Anderson Cancer Center.
+2 2Dana-Farber/Brigham and Women's Cancer Center.
+3 3Mass General Cancer Center.
+4 4UT Southwestern Simmons Comprehensive Cancer Center.
+5 5Yale Cancer Center/Smilow Cancer Hospital.
+6 6Fred & Pamela Buffett Cancer Center.
+7 7Duke Cancer Institute.
+8 8Roswell Park Comprehensive Cancer Center.
+9 9Indiana University Melvin and Bren Simon Comprehensive Cancer Center.
+10 10O'Neal Comprehensive Cancer Center at UAB.
+11 11UCLA Jonsson Comprehensive Cancer Center.
+12 12Stanford Cancer Institute.
+13 13University of Wisconsin Carbone Cancer Center.
+14 14Moffitt Cancer Center.
+15 15St. Jude Children's Research Hospital/The University of Tennessee Health Science Center.
+16 16Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and Cleveland Clinic Taussig Cancer Institute.
+17 17UC Davis Comprehensive Cancer Center.
+18 18Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine.
+19 19University of Colorado Cancer Center.
+20 20UC San Diego Moores Cancer Center.
+21 21Robert H. Lurie Comprehensive Cancer Center of Northwestern University.
+22 22Vanderbilt-Ingram Cancer Center.
+23 23Fox Chase Cancer Center.
+24 24Mayo Clinic Comprehensive Cancer Center.
+25 25Patient advocate.
+26 26Abramson Cancer Center at the University of Pennsylvania.
+27 27UCSF Helen Diller Family Comprehensive Cancer Center.
+28 28City of Hope National Medical Center.
+29 29Huntsman Cancer Institute at the University of Utah.
+30 30Memorial Sloan Kettering Cancer Center.
+31 31Fred Hutchinson Cancer Center.
+32 32University of Michigan Rogel Cancer Center.
+33 33The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.
+34 34The Ohio State University Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute.
+35 35National Comprehensive Cancer Network.; Affiliations
+          
+
+1 1The University of Texas MD Anderson Cancer Center.
+2 2Dana-Farber/Brigham and Women's Cancer Center.
+3 3Mass General Cancer Center.
+4 4UT Southwestern Simmons Comprehensive Cancer Center.
+5 5Yale Cancer Center/Smilow Cancer Hospital.
+6 6Fred & Pamela Buffett Cancer Center.
+7 7Duke Cancer Institute.
+8 8Roswell Park Comprehensive Cancer Center.
+9 9Indiana University Melvin and Bren Simon Comprehensive Cancer Center.
+10 10O'Neal Comprehensive Cancer Center at UAB.
+11 11UCLA Jonsson Comprehensive Cancer Center.
+12 12Stanford Cancer Institute.
+13 13University of Wisconsin Carbone Cancer Center.
+14 14Moffitt Cancer Center.
+15 15St. Jude Children's Research Hospital/The University of Tennessee Health Science Center.
+16 16Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and Cleveland Clinic Taussig Cancer Institute.
+17 17UC Davis Comprehensive Cancer Center.
+18 18Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine.
+19 19University of Colorado Cancer Center.
+20 20UC San Diego Moores Cancer Center.
+21 21Robert H. Lurie Comprehensive Cancer Center of Northwestern University.
+22 22Vanderbilt-Ingram Cancer Center.
+23 23Fox Chase Cancer Center.
+24 24Mayo Clinic Comprehensive Cancer Center.
+25 25Patient advocate.
+26 26Abramson Cancer Center at the University of Pennsylvania.
+27 27UCSF Helen Diller Family Comprehensive Cancer Center.
+28 28City of Hope National Medical Center.
+29 29Huntsman Cancer Institute at the University of Utah.
+30 30Memorial Sloan Kettering Cancer Center.
+31 31Fred Hutchinson Cancer Center.
+32 32University of Michigan Rogel Cancer Center.
+33 33The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.
+34 34The Ohio State University Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute.
+35 35National Comprehensive Cancer Network.",,2024 Apr;22(3):175-204.
+leukemia,Clinical Risks for Chronic Lymphocytic Leukemia.,https://pubmed.ncbi.nlm.nih.gov/38626793,"Our understanding of risk factors for the development of chronic lymphocytic leukemia (CLL) is still incomplete and includes genetic and environmental factors. CLL is one of the most familial of all cancers, yet common high-penetrance risk alleles have not been identified. Genome-wide association studies have identified many common variants with low relative risks, whereas exome-wide rare variant analysis has implicated ATM in CLL causation. Environmental factors have also been challenging to identify given the limited understanding of the relevant time period of exposure relative to diagnosis, and the inability to quantify past exposures. Agent Orange and glyphosate herbicides have perhaps the most data to support their role. CLL is preceded by a precursor condition called monoclonal B-cell lymphocytosis (MBL), which could therefore be considered a risk factor, but which itself is likely caused by the same risk factors that ultimately give rise to CLL. Although virtually all people with CLL have a preceding MBL phase, most people with MBL will not develop CLL.","Jennifer R Brown 
+                1
+               
+                2; Jennifer R Brown 
+                1
+               
+                2","Affiliations
+          
+
+1 1Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
+2 2Harvard Medical School, Boston, MA.; Affiliations
+          
+
+1 1Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
+2 2Harvard Medical School, Boston, MA.",,2024 Apr;22(3):e247020.
+leukemia,Prognostic Implications of Circulating Plasma Cell Percentage in Multiple Myeloma and Primary Plasma Cell Leukemia Defined by New Criteria.,https://pubmed.ncbi.nlm.nih.gov/38626745,"Introduction:
+        
+      
+      The definition of primary plasma cell leukemia (pPCL) has been revised from ≥20% to ≥5% circulating plasma cells (CPC). However, the precise prognosis associated with CPC remains controversial. This study aimed to investigate prognostic biomarkers for myeloma patients based on CPC presence.
+    
+
+
+          Methods:
+        
+      
+      A comprehensive analysis was conducted on 309 consecutive patients diagnosed with either multiple myeloma or pPCL, utilizing peripheral blood smears stained with Wright-Giemsa.
+    
+
+
+          Results:
+        
+      
+      Patients were grouped by CPC percentage: 0% (221, 71.5%), 1-4% (49, 15.9%), 5-19% (16, 5.2%), ≥20% (23, 7.4%). CPC >5% correlated with unfavorable characteristics, including anemia, renal dysfunction, and advanced International Staging System. Common cytogenetic abnormalities such as 1q21 amplification, 17p deletion, and Myc rearrangement were prevalent among CPC-positive patients. Median progression-free survival (PFS) and overall survival (OS) were shorter in patients with CPC ≥5% (29.47 vs. 10.03 months; 64.10 vs. 12.30 months). Additionally, PFS and OS were shorter in CPC-positive patients without autologous hematopoietic stem cell transplantation (ASCT) and those with response < partial remission to the first-line regimen. Furthermore, an association emerged between soft tissue-related extramedullary disease and inferior PFS, while Myc rearrangement correlated with abbreviated OS.
+    
+
+
+          Conclusion:
+        
+      
+      Biological characteristics displayed greater aggressiveness in patients with positive CPC, leading to significantly shorter PFS and OS. The presence of CPC, ASCT, and overall response rate were independent prognostic factors. While no new threshold for pPCL with CPCs is proposed, but Myc rearrangements and CPC positivity could serve as ultra-high-risk factors for multiple myeloma.","Xianghong Jin, Xianyong Jiang, Hui Li, Kaini Shen, Shuangjiao Liu, Miao Chen, Chen Yang, Bing Han, Junling Zhuang; Xianghong Jin, Xianyong Jiang, Hui Li, Kaini Shen, Shuangjiao Liu, Miao Chen, Chen Yang, Bing Han, Junling Zhuang",,,2024 Apr 16.
+leukemia,Chemo-free treatment of adult patients with Ph-positive acute lymphoblastic leukemia: latest updates from the 2023 ASH annual meeting.,https://pubmed.ncbi.nlm.nih.gov/38627786,"The chemo-free concept represents a new direction for managing adult patients with Ph-positive acute lymphoblastic leukemia (Ph + ALL). The tyrosine kinase inhibitors (TKIs), blinatumomab and venetoclax serve as the backbone of chemo-free regimens; several prospective studies involving these drugs have demonstrated high remission rates and promising, albeit short, survival outcomes. This review summarizes the latest updates on chemo-free regimens in the treatment of adult patients with Ph + ALL, presented at the 2023 ASH annual meeting.","Ting Shi 
+                1
+              , Hong-Hu Zhu 
+                2
+               
+                3; Ting Shi 
+                1
+              , Hong-Hu Zhu 
+                2
+               
+                3","Affiliations
+          
+
+1 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China.
+2 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China. zhuhhdoc@163.com.
+3 Chinese Institutes for Medical Research, Beijing, 100005, China. zhuhhdoc@163.com.; Affiliations
+          
+
+1 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China.
+2 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China. zhuhhdoc@163.com.
+3 Chinese Institutes for Medical Research, Beijing, 100005, China. zhuhhdoc@163.com.",,2024 Apr 16;17(1):18.
+leukemia,MNDA expression and its value in differential diagnosis of B-cell non-Hodgkin lymphomas: a comprehensive analysis of a large series of 1293 cases.,https://pubmed.ncbi.nlm.nih.gov/38627702,"Aims:
+        
+      
+      MNDA (myeloid nuclear differentiation antigen) has been considered as a potential diagnostic marker for marginal zone lymphoma (MZL), but its utility in distinguishing MZL from other B-cell non-Hodgkin lymphomas (B-NHLs) and its clinicopathologic relevance in diffuse large B-cell lymphoma (DLBCL) are ambiguous. We comprehensively investigated MNDA expression in a large series of B-NHLs and evaluated its diagnostic value.
+    
+
+
+          Methods:
+        
+      
+      MNDA expression in a cohort of 1293 cases of B-NHLs and 338 cases of reactive lymphoid hyperplasia (RLH) was determined using immunohistochemistry and compared among different types of B-NHL. The clinicopathologic relevance of MNDA in DLBCL was investigated.
+    
+
+
+          Results:
+        
+      
+      MNDA was highly expressed in MZLs (437/663, 65.9%), compared with the confined staining in marginal zone B-cells in RLH; whereas neoplastic cells with plasmacytic differentiation lost MNDA expression. MNDA expression was significantly higher in mantle cell lymphoma (MCL, 79.6%, p = 0.006), whereas lower in chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL, 44.8%, p = 0.001) and lymphoplasmacytic lymphoma (LPL, 25%, p = 0.016), and dramatically lower in follicular lymphoma (FL, 5.2%, p < 0.001), compared with MZL. 29.6% (63/213) of DLBCLs were positive for MNDA. The cases in non-GCB group exhibited a higher rate of MNDA positivity (39.8%) compared to those in GCB group (16.3%) (p < 0.001), and MNDA staining was more frequently observed in DLBCLs with BCL2/MYC double-expression (50%) than those without BCL2/MYC double-expression (24.8%) (p = 0.001). Furthermore, there was a significant correlation between MNDA and CD5 expression in DLBCL (p = 0.036).
+    
+
+
+          Conclusions:
+        
+      
+      MNDA was highly expressed in MZL with a potential utility in differential diagnosis between MZL and RLH as well as FL, whereas its value in distinguishing MZL from MCL, CLL/SLL is limited. In addition, MNDA expression in DLBCL was more frequently seen in the non-GCB group and the BCL2/MYC double-expression group, and demonstrated a correlation with CD5, which deserves further investigation. The clinical relevance of MNDA and its correlation with the prognosis of these lymphomas also warrant to be fully elucidated.","Li-Fen Zhang 
+                1
+              , Yan Zhang 
+                1
+               
+                2
+              , Rou-Hong Shui 
+                1
+               
+                2
+              , Hong-Fen Lu 
+                1
+               
+                2
+              , Wen-Hua Jiang 
+                1
+              , Xu Cai 
+                1
+              , Xiao-Qiu Li 
+                1
+               
+                2
+              , Bao-Hua Yu 
+                3
+               
+                4; Li-Fen Zhang 
+                1
+              , Yan Zhang 
+                1
+               
+                2
+              , Rou-Hong Shui 
+                1
+               
+                2
+              , Hong-Fen Lu 
+                1
+               
+                2
+              , Wen-Hua Jiang 
+                1
+              , Xu Cai 
+                1
+              , Xiao-Qiu Li 
+                1
+               
+                2
+              , Bao-Hua Yu 
+                3
+               
+                4","Affiliations
+          
+
+1 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China.
+2 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China.
+3 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China. yubh2014@163.com.
+4 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China. yubh2014@163.com.; Affiliations
+          
+
+1 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China.
+2 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China.
+3 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China. yubh2014@163.com.
+4 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China. yubh2014@163.com.",,2024 Apr 16;19(1):60.
+leukemia,A novel immunogenic cell death-related classification indicates the immune landscape and predicts clinical outcome and treatment response in acute myeloid leukemia.,https://pubmed.ncbi.nlm.nih.gov/38627685,"Background:
+        
+      
+      Immunogenic cell death (ICD) is closely related to anti-tumor therapy and regulates the tumor microenvironment (TME). This study aims to explore the molecular characteristics of ICD in acute myeloid leukemia (AML) and to analyze the value of ICD-related biomarkers in TME indication, prognosis prediction, and treatment response evaluation in AML.
+    
+
+
+          Methods:
+        
+      
+      Single-sample gene set enrichment analysis was used to calculate the ICD score. LASSO regression was used to construct a prognostic risk score model. We also analyzed differences in clinical characteristics, immune landscape, immunotherapy response, and chemotherapy sensitivity between high-risk and low-risk patients.
+    
+
+
+          Results:
+        
+      
+      This study identified two ICD-related subtypes and found significant heterogeneity in clinical prognosis, TME, and immune landscape between different ICD subtypes. Subsequently, a novel ICD-related prognostic risk score model was developed, which accurately predicted the prognosis of AML patients and was validated in nine AML cohorts. Moreover, there were significant correlations between risk scores and clinicopathological factors, somatic mutations, TME characteristics, immune cell infiltration, immunotherapy response, and chemosensitivity. We further validated the model gene expression in a clinically real-world cohort.
+    
+
+
+          Conclusions:
+        
+      
+      The novel ICD-related signatures identified and validated by us can serve as promising biomarkers for predicting clinical outcomes, chemotherapy sensitivity, and immunotherapy response in AML patients, guiding the establishment of personalized and accurate treatment strategies for AML.","Fangmin Zhong 
+                1
+               
+                2
+              , Shuyang He 
+                3
+              , Ni Guo 
+                4
+              , Luyi Shi 
+                4
+              , Linlin Zhang 
+                4
+              , Hua Jin 
+                4
+              , Guangyao Kong 
+                5
+               
+                6
+               
+                7; Fangmin Zhong 
+                1
+               
+                2
+              , Shuyang He 
+                3
+              , Ni Guo 
+                4
+              , Luyi Shi 
+                4
+              , Linlin Zhang 
+                4
+              , Hua Jin 
+                4
+              , Guangyao Kong 
+                5
+               
+                6
+               
+                7","Affiliations
+          
+
+1 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
+2 Jiangxi Province Key Laboratory of Laboratory Medicine, Jiangxi Provincial Clinical Research Center for Laboratory Medicine, Department of Clinical Laboratory, The Second Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.
+3 Queen Mary School of Nanchang University, Nanchang, Jiangxi, People's Republic of China.
+4 Precision Medical Institute, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
+5 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
+6 National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
+7 Key Laboratory of Surgical Critical Care and Life Support, Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.; Affiliations
+          
+
+1 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
+2 Jiangxi Province Key Laboratory of Laboratory Medicine, Jiangxi Provincial Clinical Research Center for Laboratory Medicine, Department of Clinical Laboratory, The Second Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.
+3 Queen Mary School of Nanchang University, Nanchang, Jiangxi, People's Republic of China.
+4 Precision Medical Institute, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
+5 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
+6 National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
+7 Key Laboratory of Surgical Critical Care and Life Support, Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.",,2024 Apr 16;24(1):139.
+leukemia,Autophagy degrades immunogenic endogenous retroelements induced by 5-azacytidine in acute myeloid leukemia.,https://pubmed.ncbi.nlm.nih.gov/38627586,"The hypomethylating agent 5-azacytidine (AZA) is the first-line treatment for AML patients unfit for intensive chemotherapy. The effect of AZA results in part from T-cell cytotoxic responses against MHC-I-associated peptides (MAPs) deriving from hypermethylated genomic regions such as cancer-testis antigens (CTAs), or endogenous retroelements (EREs). However, evidence supporting higher ERE MAPs presentation after AZA treatment is lacking. Therefore, using proteogenomics, we examined the impact of AZA on the repertoire of MAPs and their source transcripts. AZA-treated AML upregulated both CTA and ERE transcripts, but only CTA MAPs were presented at greater levels. Upregulated ERE transcripts triggered innate immune responses against double-stranded RNAs but were degraded by autophagy, and not processed into MAPs. Autophagy resulted from the formation of protein aggregates caused by AZA-dependent inhibition of DNMT2. Autophagy inhibition had an additive effect with AZA on AML cell proliferation and survival, increased ERE levels, increased pro-inflammatory responses, and generated immunogenic tumor-specific ERE-derived MAPs. Finally, autophagy was associated with a lower abundance of CD8+ T-cell markers in AML patients expressing high levels of EREs. This work demonstrates that AZA-induced EREs are degraded by autophagy and shows that inhibiting autophagy can improve the immune recognition of AML blasts in treated patients.","Nandita Noronha 
+                1
+              , Chantal Durette 
+                1
+              , Maxime Cahuzac 
+                1
+              , Bianca E Silva 
+                2
+              , Justine Courtois 
+                2
+              , Juliette Humeau 
+                1
+              , Allan Sauvat 
+                3
+              , Marie-Pierre Hardy 
+                1
+              , Krystel Vincent 
+                1
+              , Jean-Philippe Laverdure 
+                1
+              , Joël Lanoix 
+                1
+              , Frédéric Baron 
+                2
+              , Pierre Thibault # 
+                1
+              , Claude Perreault # 
+                1
+              , Gregory Ehx # 
+                4
+               
+                5; Nandita Noronha 
+                1
+              , Chantal Durette 
+                1
+              , Maxime Cahuzac 
+                1
+              , Bianca E Silva 
+                2
+              , Justine Courtois 
+                2
+              , Juliette Humeau 
+                1
+              , Allan Sauvat 
+                3
+              , Marie-Pierre Hardy 
+                1
+              , Krystel Vincent 
+                1
+              , Jean-Philippe Laverdure 
+                1
+              , Joël Lanoix 
+                1
+              , Frédéric Baron 
+                2
+              , Pierre Thibault # 
+                1
+              , Claude Perreault # 
+                1
+              , Gregory Ehx # 
+                4
+               
+                5","Affiliations
+          
+
+1 IRIC, Université de Montréal, Montreal, QC, Canada.
+2 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium.
+3 Equipe labellisée par la Ligue contre le Cancer, Université de Paris, Sorbonne Université, Inserm U1138, Institut Universitaire de France, Paris, France.
+4 IRIC, Université de Montréal, Montreal, QC, Canada. g.ehx@uliege.be.
+5 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium. g.ehx@uliege.be.; Affiliations
+          
+
+1 IRIC, Université de Montréal, Montreal, QC, Canada.
+2 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium.
+3 Equipe labellisée par la Ligue contre le Cancer, Université de Paris, Sorbonne Université, Inserm U1138, Institut Universitaire de France, Paris, France.
+4 IRIC, Université de Montréal, Montreal, QC, Canada. g.ehx@uliege.be.
+5 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium. g.ehx@uliege.be.",,2024 Apr 16.
+leukemia,Spirooxadiazoline-oxindoles derived from imatinib show antimyeloproliferative potential in K562 cells.,https://pubmed.ncbi.nlm.nih.gov/38627294,"Imatinib mesylate was the first representative BCR-ABL1 tyrosine kinase inhibitor (TKI) class for the treatment of chronic myeloid leukemia. Despite the revolution promoted by TKIs in the treatment of this pathology, a resistance mechanism occurs against all BCR-ABL1 inhibitors, necessitating a constant search for new therapeutic options. To develop new antimyeloproliferative substances, we applied a medicinal chemistry tool known as molecular hybridization to design 25 new substances. These compounds were synthesized and biologically evaluated against K562 cells, which express BCR-ABL1, a constitutively active tyrosine kinase enzyme, as well as in WSS-1 cells (healthy cells). The new compounds are conjugated hybrids that contain phenylamino-pyrimidine-pyridine (PAPP) and an isatin backbone, which are the main pharmacophoric fragments of imatinib and sunitinib, respectively. A spiro-oxindole nucleus was used as a linker because it occurs in many compounds with antimyeloproliferative activity. Compounds 2a, 2b, 3c, 4c, and 4e showed promise, as they inhibited cell viability by between 45% and 61% at a concentration of 10 µM. The CC50 of the most active substances was determined to be within 0.8-9.8 µM.","Liviane D de Azevedo 
+                1
+              , Debora I Leite 
+                1
+              , Andressa P de Oliveira 
+                1
+              , Floriano P S Junior 
+                2
+              , Rafael F Dantas 
+                2
+              , Monica M Bastos 
+                1
+              , Nubia Boechat 
+                1
+              , Luiz C F Pimentel 
+                1; Liviane D de Azevedo 
+                1
+              , Debora I Leite 
+                1
+              , Andressa P de Oliveira 
+                1
+              , Floriano P S Junior 
+                2
+              , Rafael F Dantas 
+                2
+              , Monica M Bastos 
+                1
+              , Nubia Boechat 
+                1
+              , Luiz C F Pimentel 
+                1","Affiliations
+          
+
+1 Departamento de Síntese Orgânica, Fundação Oswaldo Cruz, Farmanguinhos, Rio de Janeiro, Brasil.
+2 Fundação Oswaldo Cruz, Laboratório de Bioquímica Experimental e Computacional de Fármacos, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil.; Affiliations
+          
+
+1 Departamento de Síntese Orgânica, Fundação Oswaldo Cruz, Farmanguinhos, Rio de Janeiro, Brasil.
+2 Fundação Oswaldo Cruz, Laboratório de Bioquímica Experimental e Computacional de Fármacos, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil.",,2024 Apr 16:e2400029.
+leukemia,Real-World Health Care Resource Use and Costs Among Patients With Chronic Lymphocytic Leukemia Treated With Venetoclax-Based and Bruton Tyrosine Kinase Inhibitor-Based Regimens in the Second-Line Setting.,https://pubmed.ncbi.nlm.nih.gov/38626366,"Purpose:
+        
+      
+      Real-world evidence comparing health care resource use (HRU) and costs between novel targeted therapies among patients with chronic lymphocytic leukemia (CLL) is lacking. We compared all-cause and CLL-specific HRU and costs between patients initiated on B-cell lymphoma 2 inhibitor (venetoclax)- or Bruton tyrosine kinase inhibitor (BTKi)-based regimens in the second-line (2L) setting.
+    
+
+
+          Methods:
+        
+      
+      This is a retrospective observational study using Optum Clinformatics Data Mart of adult patients with CLL/small lymphocytic lymphoma who received 2L venetoclax- or BTKi-based regimens (January 2018-December 2021) for the first time and had ≥one CLL diagnostic claim after 2L initiation and ≥two claims for venetoclax or BTKi. Baseline characteristics were balanced using stabilized inverse probability of treatment weights. Mean monthly cost difference (MMCD) between cohorts for all-cause and CLL-specific per patient per month (PPPM) costs was estimated. Rates of PPPM-HRU were compared between cohorts using rate ratios (RRs).
+    
+
+
+          Results:
+        
+      
+      Of 280 patients, median age 75.5 years, 64.6% and 35.4% received BTKi- versus venetoclax-based regimens, respectively. Most BTKi-treated patients received monotherapy (88.4%), whereas 62.3% of venetoclax-treated patients received combination therapy with anti-CD20 agents. The median duration of 2L therapy was 11.6 and 11.0 months for BTKi versus venetoclax cohorts, respectively. All-cause total costs were lower for venetoclax versus BTKi (MMCD [SE], $-2,497.64 [$1,006.77] in US dollars (USD); P = .01), driven by lower medication costs offsetting medical costs; trends were similar for CLL-specific estimates. Outpatient HRU was higher for venetoclax versus BTKi (RR all-cause: 1.22 v CLL-specific: 1.64).
+    
+
+
+          Conclusion:
+        
+      
+      Venetoclax was associated with total monthly cost savings versus BTKis, illustrating the economic value of time-limited venetoclax-based regimens in the 2L setting.","Bita Fakhri 
+                1
+              , Nnadozie Emechebe 
+                2
+              , Beenish S Manzoor 
+                2
+              , Dureshahwar Jawaid 
+                2
+              , Hasan Alhasani 
+                2
+              , Melanie Edwards 
+                3
+              , Hande H Tuncer 
+                4; Bita Fakhri 
+                1
+              , Nnadozie Emechebe 
+                2
+              , Beenish S Manzoor 
+                2
+              , Dureshahwar Jawaid 
+                2
+              , Hasan Alhasani 
+                2
+              , Melanie Edwards 
+                3
+              , Hande H Tuncer 
+                4","Affiliations
+          
+
+1 Stanford University, Stanford, CA.
+2 AbbVie, Inc, North Chicago, IL.
+3 Lowell General Hospital, Lowell, MA.
+4 Dana Farber Cancer Institute, Boston, MA.; Affiliations
+          
+
+1 Stanford University, Stanford, CA.
+2 AbbVie, Inc, North Chicago, IL.
+3 Lowell General Hospital, Lowell, MA.
+4 Dana Farber Cancer Institute, Boston, MA.",,2024 Apr 16:OP2300630.
+leukemia,Real-world status of treatment for lymphoid neoplasms developed during the course of myeloproliferative neoplasms in Japan.,https://pubmed.ncbi.nlm.nih.gov/38626148,"Objectives:
+        
+      
+      Patients with myeloproliferative neoplasms (MPNs) are at higher risk of developing secondary malignancies. In this study, we focused on patients with MPNs that complicated lymphoid neoplasms. To analyze the real-world status of lymphoid neoplasm treatment in patients with pre-existing MPNs in Japan, we conducted a multicenter retrospective study.
+    
+
+
+          Methods:
+        
+      
+      Questionnaires were sent to collect the data on patients who were first diagnosed with either polycythemia vera, essential thrombocythemia or myelofibrosis and who later were complicated with lymphoid neoplasms defined as malignant lymphoma, multiple myeloma, or chronic lymphocytic leukemia/small cell lymphoma.
+    
+
+
+          Results:
+        
+      
+      Twenty-four patients with MPNs complicated by lymphoid neoplasms were enrolled (polycythemia vera, n = 8; essential thrombocythemia, n = 14; and primary myelofibrosis, n = 2). Among these, diffuse large B-cell lymphoma (DLBCL) was the most frequently observed (n = 13, 54.1%). Twelve (92.3%) of the patients with DLBCL received conventional chemotherapy. Among these 12 patients, regarding cytoreductive therapy for MPNs, 8 patients stopped treatment, one continued treatment, and two received a reduced dose. Consequently, most patients were able to receive conventional chemotherapy for DLBCL with a slightly higher dose of granulocyte colony-stimulating factor support than usual without worse outcomes. All 3 patients with multiple myeloma received a standard dose of chemotherapy.
+    
+
+
+          Conclusion:
+        
+      
+      Our data indicate that if aggressive lymphoid neoplasms develop during the course of treatment in patients with MPNs, it is acceptable to prioritize chemotherapy for lymphoma.","Yoko Edahiro 
+                1
+               
+                2
+               
+                3
+              , Tomonori Ochiai 
+                1
+               
+                2
+               
+                3
+              , Yoshinori Hashimoto 
+                1
+               
+                4
+              , Michiko Ichii 
+                5
+              , Takeshi Okatani 
+                6
+              , Hiromi Omura 
+                4
+              , Kei Nakajima 
+                7
+              , Makoto Sasaki 
+                2
+              , Jun Ando 
+                2
+               
+                8
+              , Tomoiku Takaku 
+                2
+              , Michiaki Koike 
+                9
+              , Koh Izumiyama 
+                10
+              , Junji Hiraga 
+                11
+              , Tomofumi Yano 
+                12
+              , Kensuke Usuki 
+                13
+              , Eiichi Ohtsuka 
+                14
+              , Kenji Yokoyama 
+                15
+              , Tatsuo Oyake 
+                16
+              , Naoki Takahashi 
+                17
+              , Tetsuya Nishida 
+                18
+              , Takafumi Nakao 
+                19
+              , Yasutaka Fukuda 
+                20
+              , Takashi Akasaka 
+                21
+              , Atsuko Mugitani 
+                22
+              , Miki Ando 
+                2
+              , Norio Komatsu 
+                1
+               
+                2
+               
+                3
+               
+                23; Yoko Edahiro 
+                1
+               
+                2
+               
+                3
+              , Tomonori Ochiai 
+                1
+               
+                2
+               
+                3
+              , Yoshinori Hashimoto 
+                1
+               
+                4
+              , Michiko Ichii 
+                5
+              , Takeshi Okatani 
+                6
+              , Hiromi Omura 
+                4
+              , Kei Nakajima 
+                7
+              , Makoto Sasaki 
+                2
+              , Jun Ando 
+                2
+               
+                8
+              , Tomoiku Takaku 
+                2
+              , Michiaki Koike 
+                9
+              , Koh Izumiyama 
+                10
+              , Junji Hiraga 
+                11
+              , Tomofumi Yano 
+                12
+              , Kensuke Usuki 
+                13
+              , Eiichi Ohtsuka 
+                14
+              , Kenji Yokoyama 
+                15
+              , Tatsuo Oyake 
+                16
+              , Naoki Takahashi 
+                17
+              , Tetsuya Nishida 
+                18
+              , Takafumi Nakao 
+                19
+              , Yasutaka Fukuda 
+                20
+              , Takashi Akasaka 
+                21
+              , Atsuko Mugitani 
+                22
+              , Miki Ando 
+                2
+              , Norio Komatsu 
+                1
+               
+                2
+               
+                3
+               
+                23","Affiliations
+          
+
+1 Department of Advanced Hematology, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+2 Department of Hematology, Juntendo University School of Medicine, Tokyo, Japan.
+3 Laboratory for the Development of Therapies against MPN, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+4 Department of Hematology, Tottori Prefectural Central Hospital, Tottori, Japan.
+5 Department of Hematology and Oncology, Osaka University Graduate School of Medicine, Osaka, Japan.
+6 Division of Hematology, Hiroshima Red Cross Hospital and Atomic-bomb Survivors Hospital, Hiroshima, Japan.
+7 Department of Hematology/Oncology, University of Yamanashi, Yamanashi, Japan.
+8 Division of Cell Therapy & Blood Transfusion Medicine, Juntendo University School of Medicine, Tokyo, Japan.
+9 Department of Hematology, Juntendo University Shizuoka Hospital, Shizuoka, Japan.
+10 Blood Disorders Center, Aiiku Hospital, Hokkaido, Japan.
+11 Department of Hematology, Toyota Kosei Hospital, Aichi, Japan.
+12 Internal Medicine Department, Okayama Rosai Hospital, Okayama, Japan.
+13 Department of Hematology, NTT Medical Center Tokyo, Tokyo, Japan.
+14 Department of Hematology, Oita Prefectural Hospital, Oita, Japan.
+15 Department of Hematology/Oncology, Tokai University Hachioji Hospital, Tokyo, Japan.
+16 Division of Hematology and Oncology, Department of Internal Medicine, Iwate Medical University School of Medicine, Iwate, Japan.
+17 Department of Hematopoietic Tumor, International Medical Center, Saitama Medical University, Saitama, Japan.
+18 Department of Hematology, Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital, Aichi, Japan.
+19 Department of Hematology, Osaka City General Hospital, Osaka, Japan.
+20 Department of Hematology, Juntendo University Nerima Hospital, Tokyo, Japan.
+21 Department of Hematology, Tenri Hospital, Nara, Japan.
+22 Department of Hematology, Seichokai Fuchu Hospital, Osaka, Japan.
+23 PharmaEssentia Japan KK, Tokyo, Japan.; Affiliations
+          
+
+1 Department of Advanced Hematology, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+2 Department of Hematology, Juntendo University School of Medicine, Tokyo, Japan.
+3 Laboratory for the Development of Therapies against MPN, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+4 Department of Hematology, Tottori Prefectural Central Hospital, Tottori, Japan.
+5 Department of Hematology and Oncology, Osaka University Graduate School of Medicine, Osaka, Japan.
+6 Division of Hematology, Hiroshima Red Cross Hospital and Atomic-bomb Survivors Hospital, Hiroshima, Japan.
+7 Department of Hematology/Oncology, University of Yamanashi, Yamanashi, Japan.
+8 Division of Cell Therapy & Blood Transfusion Medicine, Juntendo University School of Medicine, Tokyo, Japan.
+9 Department of Hematology, Juntendo University Shizuoka Hospital, Shizuoka, Japan.
+10 Blood Disorders Center, Aiiku Hospital, Hokkaido, Japan.
+11 Department of Hematology, Toyota Kosei Hospital, Aichi, Japan.
+12 Internal Medicine Department, Okayama Rosai Hospital, Okayama, Japan.
+13 Department of Hematology, NTT Medical Center Tokyo, Tokyo, Japan.
+14 Department of Hematology, Oita Prefectural Hospital, Oita, Japan.
+15 Department of Hematology/Oncology, Tokai University Hachioji Hospital, Tokyo, Japan.
+16 Division of Hematology and Oncology, Department of Internal Medicine, Iwate Medical University School of Medicine, Iwate, Japan.
+17 Department of Hematopoietic Tumor, International Medical Center, Saitama Medical University, Saitama, Japan.
+18 Department of Hematology, Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital, Aichi, Japan.
+19 Department of Hematology, Osaka City General Hospital, Osaka, Japan.
+20 Department of Hematology, Juntendo University Nerima Hospital, Tokyo, Japan.
+21 Department of Hematology, Tenri Hospital, Nara, Japan.
+22 Department of Hematology, Seichokai Fuchu Hospital, Osaka, Japan.
+23 PharmaEssentia Japan KK, Tokyo, Japan.",,2024 Dec;29(1):2340149.
