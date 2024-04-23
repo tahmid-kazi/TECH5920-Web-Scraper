@@ -1,8 +1,14 @@
 {
+    "Scraper 1": "PubMed",
+    "keyword list 1": [
+        "oncology",
+        "lymphoma",
+        "keytruda"
+    ],
     "Scraper 2": "Nature",
     "keyword list 2": [
         "oncology",
         "lymphoma",
-        "glioblastoma"
+        "keytruda"
     ]
 }

@@ -16,20 +16,21 @@ class NatureScraper:
         # For the moment, it will directly call the scrape function.
         all_articles = []
         for keyword in self.config['keywords']:
+            print(f"Scraping articles for keyword: {keyword} from Nature.com")
             articles = self.extract_nature_articles(
                 '2024-01-01', 
                 '2024-12-31', 
                 keyword
             )
             all_articles.extend(articles)
-            time.sleep(1)  # Respectful delay between requests
+            time.sleep(0.5)  # Respectful delay between requests
         self.save_to_csv(all_articles, 'nature_articles.csv')
         return all_articles
 
     def extract_nature_articles(self, start_date, end_date, title_keyword: str) -> List[Dict]:
         start_dt = datetime.strptime(start_date, '%Y-%m-%d')
         end_dt = datetime.strptime(end_date, '%Y-%m-%d')
-        search_url = f'{self.base_url}/search?q={title_keyword}&order=date_asc&date_range={start_dt.year}-{end_dt.year}&journal=nature&article_type=research'
+        search_url = f'{self.base_url}/search?q={title_keyword}&order=date_asc&date_range={start_dt.year}-{end_dt.year}&article_type=research'
         soup = self.retrieve_url(search_url)
         if not soup:
             return []
@@ -76,8 +77,8 @@ class NatureScraper:
         title_tag = soup.find('h1', {'data-test': 'article-title'})
         title = title_tag.get_text().strip() if title_tag else 'N/A'
 
-        author_tags = soup.find_all('a', {'data-test': 'author-name'})
-        authors = [tag.get_text().strip() for tag in author_tags]
+        # author_tags = soup.find_all('a', {'data-test': 'author-name'})
+        # authors = [tag.get_text().strip() for tag in author_tags]
 
          # Locate the abstract using the section ID
         abstract_section = soup.find('section', {'aria-labelledby': 'Abs1'})
@@ -95,7 +96,7 @@ class NatureScraper:
 
         return {
             'Title': title,
-            'Author': ', '.join(authors),
+            #'Author': ', '.join(authors),
             'Published Date': date_str,
             'Url': soup.base_url,
             'Abstract': abstract
@@ -103,7 +104,7 @@ class NatureScraper:
 
     def save_to_csv(self, articles, filename):
         with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['Title', 'Author', 'Published Date', 'Url', 'Abstract']
+            fieldnames = ['Title', 'Published Date', 'Url', 'Abstract']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()

@@ -1,839 +1,814 @@
-﻿Keyword,Title,URL,Abstract,Authors,Affiliations,Keywords,Publication Date
-leukemia,"Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma, Version 2.2024.",https://pubmed.ncbi.nlm.nih.gov/38626800,"Chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are essentially different manifestations of the same disease that are similarly managed. A number of molecular and cytogenetic variables with prognostic implications have been identified. Undetectable minimal residual disease at the end of treatment with chemoimmunotherapy or venetoclax-based combination regimens is an independent predictor of improved survival among patients with previously untreated or relapsed/refractory CLL/SLL. The selection of treatment is based on the disease stage, presence or absence of del(17p) or TP53 mutation, immunoglobulin heavy chain variable region mutation status, patient age, performance status, comorbid conditions, and the agent's toxicity profile. This manuscript discusses the recommendations outlined in the NCCN Guidelines for the diagnosis and management of patients with CLL/SLL.","William G Wierda 
-                1
-              , Jennifer Brown 
-                2
-              , Jeremy S Abramson 
-                3
-              , Farrukh Awan 
-                4
-              , Syed F Bilgrami 
-                5
-              , Greg Bociek 
-                6
-              , Danielle Brander 
-                7
-              , Matthew Cortese 
-                8
-              , Larry Cripe 
-                9
-              , Randall S Davis 
-                10
-              , Herbert Eradat 
-                11
-              , Bita Fakhri 
-                12
-              , Christopher D Fletcher 
-                13
-              , Sameh Gaballa 
-                14
-              , Muhammad Saad Hamid 
-                15
-              , Brian Hill 
-                16
-              , Paul Kaesberg 
-                17
-              , Brad Kahl 
-                18
-              , Manali Kamdar 
-                19
-              , Thomas J Kipps 
-                20
-              , Shuo Ma 
-                21
-              , Claudio Mosse 
-                22
-              , Shazia Nakhoda 
-                23
-              , Sameer Parikh 
-                24
-              , Andrew Schorr 
-                25
-              , Stephen Schuster 
-                26
-              , Madhav Seshadri 
-                27
-              , Tanya Siddiqi 
-                28
-              , Deborah M Stephens 
-                29
-              , Meghan Thompson 
-                30
-              , Chaitra Ujjani 
-                31
-              , Riccardo Valdez 
-                32
-              , Nina Wagner-Johnston 
-                33
-              , Jennifer A Woyach 
-                34
-              , Hema Sundar 
-                35
-              , Mary Dwyer 
-                35; William G Wierda 
-                1
-              , Jennifer Brown 
-                2
-              , Jeremy S Abramson 
-                3
-              , Farrukh Awan 
-                4
-              , Syed F Bilgrami 
-                5
-              , Greg Bociek 
-                6
-              , Danielle Brander 
-                7
-              , Matthew Cortese 
-                8
-              , Larry Cripe 
-                9
-              , Randall S Davis 
-                10
-              , Herbert Eradat 
-                11
-              , Bita Fakhri 
-                12
-              , Christopher D Fletcher 
-                13
-              , Sameh Gaballa 
-                14
-              , Muhammad Saad Hamid 
-                15
-              , Brian Hill 
-                16
-              , Paul Kaesberg 
-                17
-              , Brad Kahl 
-                18
-              , Manali Kamdar 
-                19
-              , Thomas J Kipps 
-                20
-              , Shuo Ma 
-                21
-              , Claudio Mosse 
-                22
-              , Shazia Nakhoda 
-                23
-              , Sameer Parikh 
-                24
-              , Andrew Schorr 
-                25
-              , Stephen Schuster 
-                26
-              , Madhav Seshadri 
-                27
-              , Tanya Siddiqi 
-                28
-              , Deborah M Stephens 
-                29
-              , Meghan Thompson 
-                30
-              , Chaitra Ujjani 
-                31
-              , Riccardo Valdez 
-                32
-              , Nina Wagner-Johnston 
-                33
-              , Jennifer A Woyach 
-                34
-              , Hema Sundar 
-                35
-              , Mary Dwyer 
-                35","Affiliations
-          
-
-1 1The University of Texas MD Anderson Cancer Center.
-2 2Dana-Farber/Brigham and Women's Cancer Center.
-3 3Mass General Cancer Center.
-4 4UT Southwestern Simmons Comprehensive Cancer Center.
-5 5Yale Cancer Center/Smilow Cancer Hospital.
-6 6Fred & Pamela Buffett Cancer Center.
-7 7Duke Cancer Institute.
-8 8Roswell Park Comprehensive Cancer Center.
-9 9Indiana University Melvin and Bren Simon Comprehensive Cancer Center.
-10 10O'Neal Comprehensive Cancer Center at UAB.
-11 11UCLA Jonsson Comprehensive Cancer Center.
-12 12Stanford Cancer Institute.
-13 13University of Wisconsin Carbone Cancer Center.
-14 14Moffitt Cancer Center.
-15 15St. Jude Children's Research Hospital/The University of Tennessee Health Science Center.
-16 16Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and Cleveland Clinic Taussig Cancer Institute.
-17 17UC Davis Comprehensive Cancer Center.
-18 18Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine.
-19 19University of Colorado Cancer Center.
-20 20UC San Diego Moores Cancer Center.
-21 21Robert H. Lurie Comprehensive Cancer Center of Northwestern University.
-22 22Vanderbilt-Ingram Cancer Center.
-23 23Fox Chase Cancer Center.
-24 24Mayo Clinic Comprehensive Cancer Center.
-25 25Patient advocate.
-26 26Abramson Cancer Center at the University of Pennsylvania.
-27 27UCSF Helen Diller Family Comprehensive Cancer Center.
-28 28City of Hope National Medical Center.
-29 29Huntsman Cancer Institute at the University of Utah.
-30 30Memorial Sloan Kettering Cancer Center.
-31 31Fred Hutchinson Cancer Center.
-32 32University of Michigan Rogel Cancer Center.
-33 33The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.
-34 34The Ohio State University Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute.
-35 35National Comprehensive Cancer Network.; Affiliations
-          
-
-1 1The University of Texas MD Anderson Cancer Center.
-2 2Dana-Farber/Brigham and Women's Cancer Center.
-3 3Mass General Cancer Center.
-4 4UT Southwestern Simmons Comprehensive Cancer Center.
-5 5Yale Cancer Center/Smilow Cancer Hospital.
-6 6Fred & Pamela Buffett Cancer Center.
-7 7Duke Cancer Institute.
-8 8Roswell Park Comprehensive Cancer Center.
-9 9Indiana University Melvin and Bren Simon Comprehensive Cancer Center.
-10 10O'Neal Comprehensive Cancer Center at UAB.
-11 11UCLA Jonsson Comprehensive Cancer Center.
-12 12Stanford Cancer Institute.
-13 13University of Wisconsin Carbone Cancer Center.
-14 14Moffitt Cancer Center.
-15 15St. Jude Children's Research Hospital/The University of Tennessee Health Science Center.
-16 16Case Comprehensive Cancer Center/University Hospitals Seidman Cancer Center and Cleveland Clinic Taussig Cancer Institute.
-17 17UC Davis Comprehensive Cancer Center.
-18 18Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine.
-19 19University of Colorado Cancer Center.
-20 20UC San Diego Moores Cancer Center.
-21 21Robert H. Lurie Comprehensive Cancer Center of Northwestern University.
-22 22Vanderbilt-Ingram Cancer Center.
-23 23Fox Chase Cancer Center.
-24 24Mayo Clinic Comprehensive Cancer Center.
-25 25Patient advocate.
-26 26Abramson Cancer Center at the University of Pennsylvania.
-27 27UCSF Helen Diller Family Comprehensive Cancer Center.
-28 28City of Hope National Medical Center.
-29 29Huntsman Cancer Institute at the University of Utah.
-30 30Memorial Sloan Kettering Cancer Center.
-31 31Fred Hutchinson Cancer Center.
-32 32University of Michigan Rogel Cancer Center.
-33 33The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins.
-34 34The Ohio State University Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute.
-35 35National Comprehensive Cancer Network.",,2024 Apr;22(3):175-204.
-leukemia,Clinical Risks for Chronic Lymphocytic Leukemia.,https://pubmed.ncbi.nlm.nih.gov/38626793,"Our understanding of risk factors for the development of chronic lymphocytic leukemia (CLL) is still incomplete and includes genetic and environmental factors. CLL is one of the most familial of all cancers, yet common high-penetrance risk alleles have not been identified. Genome-wide association studies have identified many common variants with low relative risks, whereas exome-wide rare variant analysis has implicated ATM in CLL causation. Environmental factors have also been challenging to identify given the limited understanding of the relevant time period of exposure relative to diagnosis, and the inability to quantify past exposures. Agent Orange and glyphosate herbicides have perhaps the most data to support their role. CLL is preceded by a precursor condition called monoclonal B-cell lymphocytosis (MBL), which could therefore be considered a risk factor, but which itself is likely caused by the same risk factors that ultimately give rise to CLL. Although virtually all people with CLL have a preceding MBL phase, most people with MBL will not develop CLL.","Jennifer R Brown 
-                1
-               
-                2; Jennifer R Brown 
-                1
-               
-                2","Affiliations
-          
-
-1 1Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
-2 2Harvard Medical School, Boston, MA.; Affiliations
-          
-
-1 1Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
-2 2Harvard Medical School, Boston, MA.",,2024 Apr;22(3):e247020.
-leukemia,Prognostic Implications of Circulating Plasma Cell Percentage in Multiple Myeloma and Primary Plasma Cell Leukemia Defined by New Criteria.,https://pubmed.ncbi.nlm.nih.gov/38626745,"Introduction:
+﻿Keyword,Title,URL,Abstract,Affiliations,Keywords,Publication Date
+oncology,"Associations Between Stress, Health Behaviors, and Quality of Life in Young Couples During the Transition to Survivorship: Protocol for a Measurement Burst Study.",https://pubmed.ncbi.nlm.nih.gov/38652520,"Background:
         
       
-      The definition of primary plasma cell leukemia (pPCL) has been revised from ≥20% to ≥5% circulating plasma cells (CPC). However, the precise prognosis associated with CPC remains controversial. This study aimed to investigate prognostic biomarkers for myeloma patients based on CPC presence.
+      Cancer is a life-threatening, stressful event, particularly for young adults due to delays and disruptions in their developmental transitions. Cancer treatment can also cause adverse long-term effects, chronic conditions, psychological issues, and decreased quality of life (QoL) among young adults. Despite numerous health benefits of health behaviors (eg, physical activity, healthy eating, no smoking, no alcohol use, and quality sleep), young adult cancer survivors report poor health behavior profiles. Determining the associations of stress (either cancer-specific or day-to-day stress), health behaviors, and QoL as young adult survivors transition to survivorship is key to understanding and enhancing these survivors' health. It is also crucial to note that the effects of stress on health behaviors and QoL may manifest on a shorter time scale (eg, daily within-person level). Moreover, given that stress spills over into romantic relationships, it is important to identify the role of spouses or partners (hereafter partners) in these survivors' health behaviors and QoL.
+    
+
+
+          Objective:
+        
+      
+      This study aims to investigate associations between stress, health behaviors, and QoL at both within- and between-person levels during the transition to survivorship in young adult cancer survivors and their partners, to identify the extent to which young adult survivors' and their partners' stress facilitates or hinders their own and each other's health behaviors and QoL.
     
 
 
           Methods:
         
       
-      A comprehensive analysis was conducted on 309 consecutive patients diagnosed with either multiple myeloma or pPCL, utilizing peripheral blood smears stained with Wright-Giemsa.
+      We aim to enroll 150 young adults (aged 25-39 years at the time of cancer diagnosis) who have recently completed cancer treatment, along with their partners. We will conduct a prospective longitudinal study using a measurement burst design. Participants (ie, survivors and their partners) will complete a daily web-based survey for 7 consecutive days (a ""burst"") 9 times over 2 years, with the bursts spaced 3 months apart. Participants will self-report their stress, health behaviors, and QoL. Additionally, participants will be asked to wear an accelerometer to assess their physical activity and sleep during the burst period. Finally, dietary intake (24-hour diet recalls) will be assessed during each burst via telephone by research staff.
     
 
 
           Results:
         
       
-      Patients were grouped by CPC percentage: 0% (221, 71.5%), 1-4% (49, 15.9%), 5-19% (16, 5.2%), ≥20% (23, 7.4%). CPC >5% correlated with unfavorable characteristics, including anemia, renal dysfunction, and advanced International Staging System. Common cytogenetic abnormalities such as 1q21 amplification, 17p deletion, and Myc rearrangement were prevalent among CPC-positive patients. Median progression-free survival (PFS) and overall survival (OS) were shorter in patients with CPC ≥5% (29.47 vs. 10.03 months; 64.10 vs. 12.30 months). Additionally, PFS and OS were shorter in CPC-positive patients without autologous hematopoietic stem cell transplantation (ASCT) and those with response < partial remission to the first-line regimen. Furthermore, an association emerged between soft tissue-related extramedullary disease and inferior PFS, while Myc rearrangement correlated with abbreviated OS.
-    
-
-
-          Conclusion:
-        
-      
-      Biological characteristics displayed greater aggressiveness in patients with positive CPC, leading to significantly shorter PFS and OS. The presence of CPC, ASCT, and overall response rate were independent prognostic factors. While no new threshold for pPCL with CPCs is proposed, but Myc rearrangements and CPC positivity could serve as ultra-high-risk factors for multiple myeloma.","Xianghong Jin, Xianyong Jiang, Hui Li, Kaini Shen, Shuangjiao Liu, Miao Chen, Chen Yang, Bing Han, Junling Zhuang; Xianghong Jin, Xianyong Jiang, Hui Li, Kaini Shen, Shuangjiao Liu, Miao Chen, Chen Yang, Bing Han, Junling Zhuang",,,2024 Apr 16.
-leukemia,Chemo-free treatment of adult patients with Ph-positive acute lymphoblastic leukemia: latest updates from the 2023 ASH annual meeting.,https://pubmed.ncbi.nlm.nih.gov/38627786,"The chemo-free concept represents a new direction for managing adult patients with Ph-positive acute lymphoblastic leukemia (Ph + ALL). The tyrosine kinase inhibitors (TKIs), blinatumomab and venetoclax serve as the backbone of chemo-free regimens; several prospective studies involving these drugs have demonstrated high remission rates and promising, albeit short, survival outcomes. This review summarizes the latest updates on chemo-free regimens in the treatment of adult patients with Ph + ALL, presented at the 2023 ASH annual meeting.","Ting Shi 
-                1
-              , Hong-Hu Zhu 
-                2
-               
-                3; Ting Shi 
-                1
-              , Hong-Hu Zhu 
-                2
-               
-                3","Affiliations
-          
-
-1 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China.
-2 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China. zhuhhdoc@163.com.
-3 Chinese Institutes for Medical Research, Beijing, 100005, China. zhuhhdoc@163.com.; Affiliations
-          
-
-1 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China.
-2 Department of Hematology, Beijing Chao-Yang Hospital, Capital Medical University, No. 8 Gongren Tiyuchang Nanlu, Chaoyang District, Beijing, 100020, China. zhuhhdoc@163.com.
-3 Chinese Institutes for Medical Research, Beijing, 100005, China. zhuhhdoc@163.com.",,2024 Apr 16;17(1):18.
-leukemia,MNDA expression and its value in differential diagnosis of B-cell non-Hodgkin lymphomas: a comprehensive analysis of a large series of 1293 cases.,https://pubmed.ncbi.nlm.nih.gov/38627702,"Aims:
-        
-      
-      MNDA (myeloid nuclear differentiation antigen) has been considered as a potential diagnostic marker for marginal zone lymphoma (MZL), but its utility in distinguishing MZL from other B-cell non-Hodgkin lymphomas (B-NHLs) and its clinicopathologic relevance in diffuse large B-cell lymphoma (DLBCL) are ambiguous. We comprehensively investigated MNDA expression in a large series of B-NHLs and evaluated its diagnostic value.
-    
-
-
-          Methods:
-        
-      
-      MNDA expression in a cohort of 1293 cases of B-NHLs and 338 cases of reactive lymphoid hyperplasia (RLH) was determined using immunohistochemistry and compared among different types of B-NHL. The clinicopathologic relevance of MNDA in DLBCL was investigated.
-    
-
-
-          Results:
-        
-      
-      MNDA was highly expressed in MZLs (437/663, 65.9%), compared with the confined staining in marginal zone B-cells in RLH; whereas neoplastic cells with plasmacytic differentiation lost MNDA expression. MNDA expression was significantly higher in mantle cell lymphoma (MCL, 79.6%, p = 0.006), whereas lower in chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL, 44.8%, p = 0.001) and lymphoplasmacytic lymphoma (LPL, 25%, p = 0.016), and dramatically lower in follicular lymphoma (FL, 5.2%, p < 0.001), compared with MZL. 29.6% (63/213) of DLBCLs were positive for MNDA. The cases in non-GCB group exhibited a higher rate of MNDA positivity (39.8%) compared to those in GCB group (16.3%) (p < 0.001), and MNDA staining was more frequently observed in DLBCLs with BCL2/MYC double-expression (50%) than those without BCL2/MYC double-expression (24.8%) (p = 0.001). Furthermore, there was a significant correlation between MNDA and CD5 expression in DLBCL (p = 0.036).
+      Participant enrollment began in January 2022. Recruitment and data collection are expected to conclude by December 2024 and December 2026, respectively.
     
 
 
           Conclusions:
         
       
-      MNDA was highly expressed in MZL with a potential utility in differential diagnosis between MZL and RLH as well as FL, whereas its value in distinguishing MZL from MCL, CLL/SLL is limited. In addition, MNDA expression in DLBCL was more frequently seen in the non-GCB group and the BCL2/MYC double-expression group, and demonstrated a correlation with CD5, which deserves further investigation. The clinical relevance of MNDA and its correlation with the prognosis of these lymphomas also warrant to be fully elucidated.","Li-Fen Zhang 
-                1
-              , Yan Zhang 
-                1
-               
-                2
-              , Rou-Hong Shui 
-                1
-               
-                2
-              , Hong-Fen Lu 
-                1
-               
-                2
-              , Wen-Hua Jiang 
-                1
-              , Xu Cai 
-                1
-              , Xiao-Qiu Li 
-                1
-               
-                2
-              , Bao-Hua Yu 
-                3
-               
-                4; Li-Fen Zhang 
-                1
-              , Yan Zhang 
-                1
-               
-                2
-              , Rou-Hong Shui 
-                1
-               
-                2
-              , Hong-Fen Lu 
-                1
-               
-                2
-              , Wen-Hua Jiang 
-                1
-              , Xu Cai 
-                1
-              , Xiao-Qiu Li 
-                1
-               
-                2
-              , Bao-Hua Yu 
-                3
-               
-                4","Affiliations
-          
+      To the best of our knowledge, this will be the first study that determines the interdependence of health behaviors and QoL of young adult cancer survivors and their partners at both within- and between-person levels. This study is unique in its focus on the transition to cancer survivorship and its use of a measurement burst design. Results will guide the creation of a developmentally appropriate dyadic psychosocial or behavioral intervention that improves both young adult survivors' and their partners' health behaviors and QoL and potentially their physical health.
+    
 
-1 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China.
-2 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China.
-3 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China. yubh2014@163.com.
-4 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China. yubh2014@163.com.; Affiliations
-          
 
-1 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China.
-2 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China.
-3 Department of Pathology, Fudan University Shanghai Cancer Center, Dong-an Road 270, Xuhui District, Shanghai, CN, 200032, China. yubh2014@163.com.
-4 Shanghai Medical College, Department of Oncology, Fudan University, Shanghai, CN, 200032, China. yubh2014@163.com.",,2024 Apr 16;19(1):60.
-leukemia,A novel immunogenic cell death-related classification indicates the immune landscape and predicts clinical outcome and treatment response in acute myeloid leukemia.,https://pubmed.ncbi.nlm.nih.gov/38627685,"Background:
+          International registered report identifier (irrid):
         
       
-      Immunogenic cell death (ICD) is closely related to anti-tumor therapy and regulates the tumor microenvironment (TME). This study aims to explore the molecular characteristics of ICD in acute myeloid leukemia (AML) and to analyze the value of ICD-related biomarkers in TME indication, prognosis prediction, and treatment response evaluation in AML.
+      DERR1-10.2196/53307.","Affiliations
+          
+
+1 Department of Health Disparities Research, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+2 Department of Pediatrics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+3 Department of Behavioral Science, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+4 Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+5 The Center for Clinical Research and Evidence-Based Medicine, The University of Texas McGovern Medical School, Houston, TX, United States.
+6 Department of Neuro-Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+7 Department of Lymphoma-Myeloma, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+8 Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+9 Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+10 Department of Colon & Rectal Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.; Affiliations
+          
+
+1 Department of Health Disparities Research, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+2 Department of Pediatrics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+3 Department of Behavioral Science, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+4 Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+5 The Center for Clinical Research and Evidence-Based Medicine, The University of Texas McGovern Medical School, Houston, TX, United States.
+6 Department of Neuro-Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+7 Department of Lymphoma-Myeloma, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+8 Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+9 Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+10 Department of Colon & Rectal Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.",,2024 Apr 23:13:e53307.
+oncology,Is a low dose of dexamethasone sufficient to prevent paclitaxel-related hypersensitivity reactions? A retrospective study in patients with gynecologic malignancy.,https://pubmed.ncbi.nlm.nih.gov/38652518,"Background:
+        
+      
+      Paclitaxel hypersensitivity reactions (HSRs) are prevalent, especially in females. The common paclitaxel pretreatment, dexamethasone, may inhibit chemotherapy efficacy and accelerate tumor progression. We aimed to balance paclitaxel HSRs and the lowest dexamethasone dose for gynecologic malignancies.
     
 
 
           Methods:
         
       
-      Single-sample gene set enrichment analysis was used to calculate the ICD score. LASSO regression was used to construct a prognostic risk score model. We also analyzed differences in clinical characteristics, immune landscape, immunotherapy response, and chemotherapy sensitivity between high-risk and low-risk patients.
+      We retrospectively examined 1,074 cycles of 3-weekly paclitaxel-containing treatment for 231 gynecologic malignancies at Xiangya Hospital. HSR incidence with different dexamethasone regimens was the primary outcome. Risk factors were examined in all cycles using univariate and multivariate models with generalized estimating equations. A subgroup analysis of initial exposure to paclitaxel was also conducted.
     
 
 
           Results:
         
       
-      This study identified two ICD-related subtypes and found significant heterogeneity in clinical prognosis, TME, and immune landscape between different ICD subtypes. Subsequently, a novel ICD-related prognostic risk score model was developed, which accurately predicted the prognosis of AML patients and was validated in nine AML cohorts. Moreover, there were significant correlations between risk scores and clinicopathological factors, somatic mutations, TME characteristics, immune cell infiltration, immunotherapy response, and chemosensitivity. We further validated the model gene expression in a clinically real-world cohort.
+      HSR occurred in 33 patients (14.29%) and 49 cycles (4.56%), including 69.39% in cycles 1-2. There were no severe HSRs (grade ≥3). Different premedication regimens, including dexamethasone dosage and route, ranitidine presence or absence, didn't affect HSR incidence in univariate and multivariate analyzes (p > 0.05). Premenopausal women exerted fewer HSRs (ORadj 0.22, 95%CI 0.08-0.58; p = 0.002). At the first exposure to paclitaxel, more than 10 mg of dexamethasone didn't diminish HSRs (OR 0.83, 95%CI 0.27-2.59; p = 0.753).
     
 
 
           Conclusions:
         
       
-      The novel ICD-related signatures identified and validated by us can serve as promising biomarkers for predicting clinical outcomes, chemotherapy sensitivity, and immunotherapy response in AML patients, guiding the establishment of personalized and accurate treatment strategies for AML.","Fangmin Zhong 
-                1
-               
-                2
-              , Shuyang He 
-                3
-              , Ni Guo 
-                4
-              , Luyi Shi 
-                4
-              , Linlin Zhang 
-                4
-              , Hua Jin 
-                4
-              , Guangyao Kong 
-                5
-               
-                6
-               
-                7; Fangmin Zhong 
-                1
-               
-                2
-              , Shuyang He 
-                3
-              , Ni Guo 
-                4
-              , Luyi Shi 
-                4
-              , Linlin Zhang 
-                4
-              , Hua Jin 
-                4
-              , Guangyao Kong 
-                5
-               
-                6
-               
-                7","Affiliations
+      In gynecologic malignancies, 10 mg dexamethasone along with 20 mg diphenhydramine may be adequate to prevent paclitaxel HSRs without ranitidine. It is necessary to reevaluate paclitaxel premedication regimens.","Affiliations
           
 
-1 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
-2 Jiangxi Province Key Laboratory of Laboratory Medicine, Jiangxi Provincial Clinical Research Center for Laboratory Medicine, Department of Clinical Laboratory, The Second Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.
-3 Queen Mary School of Nanchang University, Nanchang, Jiangxi, People's Republic of China.
-4 Precision Medical Institute, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
-5 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
-6 National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
-7 Key Laboratory of Surgical Critical Care and Life Support, Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.; Affiliations
+1 Department of Pharmacy, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+2 National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+3 The Hunan Institute of Pharmacy Practice and Clinical Research, Changsha, Hunan, China.
+4 Department of Gynecology, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+5 Gynecological Oncology Research and Engineering Center of Hunan Province, Changsha, Hunan, China.; Affiliations
           
 
-1 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
-2 Jiangxi Province Key Laboratory of Laboratory Medicine, Jiangxi Provincial Clinical Research Center for Laboratory Medicine, Department of Clinical Laboratory, The Second Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, Jiangxi, China.
-3 Queen Mary School of Nanchang University, Nanchang, Jiangxi, People's Republic of China.
-4 Precision Medical Institute, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China.
-5 Department of Hematology, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
-6 National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy, The Second Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.
-7 Key Laboratory of Surgical Critical Care and Life Support, Xi'an Jiaotong University, Xi'an, Shaanxi, People's Republic of China. konggy@xjtu.edu.cn.",,2024 Apr 16;24(1):139.
-leukemia,Autophagy degrades immunogenic endogenous retroelements induced by 5-azacytidine in acute myeloid leukemia.,https://pubmed.ncbi.nlm.nih.gov/38627586,"The hypomethylating agent 5-azacytidine (AZA) is the first-line treatment for AML patients unfit for intensive chemotherapy. The effect of AZA results in part from T-cell cytotoxic responses against MHC-I-associated peptides (MAPs) deriving from hypermethylated genomic regions such as cancer-testis antigens (CTAs), or endogenous retroelements (EREs). However, evidence supporting higher ERE MAPs presentation after AZA treatment is lacking. Therefore, using proteogenomics, we examined the impact of AZA on the repertoire of MAPs and their source transcripts. AZA-treated AML upregulated both CTA and ERE transcripts, but only CTA MAPs were presented at greater levels. Upregulated ERE transcripts triggered innate immune responses against double-stranded RNAs but were degraded by autophagy, and not processed into MAPs. Autophagy resulted from the formation of protein aggregates caused by AZA-dependent inhibition of DNMT2. Autophagy inhibition had an additive effect with AZA on AML cell proliferation and survival, increased ERE levels, increased pro-inflammatory responses, and generated immunogenic tumor-specific ERE-derived MAPs. Finally, autophagy was associated with a lower abundance of CD8+ T-cell markers in AML patients expressing high levels of EREs. This work demonstrates that AZA-induced EREs are degraded by autophagy and shows that inhibiting autophagy can improve the immune recognition of AML blasts in treated patients.","Nandita Noronha 
-                1
-              , Chantal Durette 
-                1
-              , Maxime Cahuzac 
-                1
-              , Bianca E Silva 
-                2
-              , Justine Courtois 
-                2
-              , Juliette Humeau 
-                1
-              , Allan Sauvat 
-                3
-              , Marie-Pierre Hardy 
-                1
-              , Krystel Vincent 
-                1
-              , Jean-Philippe Laverdure 
-                1
-              , Joël Lanoix 
-                1
-              , Frédéric Baron 
-                2
-              , Pierre Thibault # 
-                1
-              , Claude Perreault # 
-                1
-              , Gregory Ehx # 
-                4
-               
-                5; Nandita Noronha 
-                1
-              , Chantal Durette 
-                1
-              , Maxime Cahuzac 
-                1
-              , Bianca E Silva 
-                2
-              , Justine Courtois 
-                2
-              , Juliette Humeau 
-                1
-              , Allan Sauvat 
-                3
-              , Marie-Pierre Hardy 
-                1
-              , Krystel Vincent 
-                1
-              , Jean-Philippe Laverdure 
-                1
-              , Joël Lanoix 
-                1
-              , Frédéric Baron 
-                2
-              , Pierre Thibault # 
-                1
-              , Claude Perreault # 
-                1
-              , Gregory Ehx # 
-                4
-               
-                5","Affiliations
+1 Department of Pharmacy, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+2 National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+3 The Hunan Institute of Pharmacy Practice and Clinical Research, Changsha, Hunan, China.
+4 Department of Gynecology, Xiangya Hospital, Central South University, Changsha, Hunan, China.
+5 Gynecological Oncology Research and Engineering Center of Hunan Province, Changsha, Hunan, China.",,2024 Apr 23:1-8.
+oncology,Navigating the complexity of post-NAT therapy in breast cancer: The role of ctDNA testing.,https://pubmed.ncbi.nlm.nih.gov/38652512,No abstract available,"Affiliations
           
 
-1 IRIC, Université de Montréal, Montreal, QC, Canada.
-2 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium.
-3 Equipe labellisée par la Ligue contre le Cancer, Université de Paris, Sorbonne Université, Inserm U1138, Institut Universitaire de France, Paris, France.
-4 IRIC, Université de Montréal, Montreal, QC, Canada. g.ehx@uliege.be.
-5 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium. g.ehx@uliege.be.; Affiliations
+1 Oncology and Medical Specialties Department, Valenciennes General Hospital, Valenciennes, France.
+2 Equipe de Recherche en Oncologie Transationelle (EROT), University Mohammed V in Rabat, Rabat, Rabat-Sale-Kenitra, Morocco.
+3 Centre d'Investigation Clinique, Centre Hospitalier Universitaire Ibn Sina, Rabat, Morocco.
+4 Surgical Oncology Department, National Institute of Oncology, University Mohammed V in Rabat, Rabat, Rabat-Sale-Kenitra, Morocco.; Affiliations
           
 
-1 IRIC, Université de Montréal, Montreal, QC, Canada.
-2 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium.
-3 Equipe labellisée par la Ligue contre le Cancer, Université de Paris, Sorbonne Université, Inserm U1138, Institut Universitaire de France, Paris, France.
-4 IRIC, Université de Montréal, Montreal, QC, Canada. g.ehx@uliege.be.
-5 GIGA Institute, Laboratory of Hematology, University of Liege, Liege, Belgium. g.ehx@uliege.be.",,2024 Apr 16.
-leukemia,Spirooxadiazoline-oxindoles derived from imatinib show antimyeloproliferative potential in K562 cells.,https://pubmed.ncbi.nlm.nih.gov/38627294,"Imatinib mesylate was the first representative BCR-ABL1 tyrosine kinase inhibitor (TKI) class for the treatment of chronic myeloid leukemia. Despite the revolution promoted by TKIs in the treatment of this pathology, a resistance mechanism occurs against all BCR-ABL1 inhibitors, necessitating a constant search for new therapeutic options. To develop new antimyeloproliferative substances, we applied a medicinal chemistry tool known as molecular hybridization to design 25 new substances. These compounds were synthesized and biologically evaluated against K562 cells, which express BCR-ABL1, a constitutively active tyrosine kinase enzyme, as well as in WSS-1 cells (healthy cells). The new compounds are conjugated hybrids that contain phenylamino-pyrimidine-pyridine (PAPP) and an isatin backbone, which are the main pharmacophoric fragments of imatinib and sunitinib, respectively. A spiro-oxindole nucleus was used as a linker because it occurs in many compounds with antimyeloproliferative activity. Compounds 2a, 2b, 3c, 4c, and 4e showed promise, as they inhibited cell viability by between 45% and 61% at a concentration of 10 µM. The CC50 of the most active substances was determined to be within 0.8-9.8 µM.","Liviane D de Azevedo 
-                1
-              , Debora I Leite 
-                1
-              , Andressa P de Oliveira 
-                1
-              , Floriano P S Junior 
-                2
-              , Rafael F Dantas 
-                2
-              , Monica M Bastos 
-                1
-              , Nubia Boechat 
-                1
-              , Luiz C F Pimentel 
-                1; Liviane D de Azevedo 
-                1
-              , Debora I Leite 
-                1
-              , Andressa P de Oliveira 
-                1
-              , Floriano P S Junior 
-                2
-              , Rafael F Dantas 
-                2
-              , Monica M Bastos 
-                1
-              , Nubia Boechat 
-                1
-              , Luiz C F Pimentel 
-                1","Affiliations
-          
-
-1 Departamento de Síntese Orgânica, Fundação Oswaldo Cruz, Farmanguinhos, Rio de Janeiro, Brasil.
-2 Fundação Oswaldo Cruz, Laboratório de Bioquímica Experimental e Computacional de Fármacos, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil.; Affiliations
-          
-
-1 Departamento de Síntese Orgânica, Fundação Oswaldo Cruz, Farmanguinhos, Rio de Janeiro, Brasil.
-2 Fundação Oswaldo Cruz, Laboratório de Bioquímica Experimental e Computacional de Fármacos, Instituto Oswaldo Cruz, Rio de Janeiro, Brasil.",,2024 Apr 16:e2400029.
-leukemia,Real-World Health Care Resource Use and Costs Among Patients With Chronic Lymphocytic Leukemia Treated With Venetoclax-Based and Bruton Tyrosine Kinase Inhibitor-Based Regimens in the Second-Line Setting.,https://pubmed.ncbi.nlm.nih.gov/38626366,"Purpose:
+1 Oncology and Medical Specialties Department, Valenciennes General Hospital, Valenciennes, France.
+2 Equipe de Recherche en Oncologie Transationelle (EROT), University Mohammed V in Rabat, Rabat, Rabat-Sale-Kenitra, Morocco.
+3 Centre d'Investigation Clinique, Centre Hospitalier Universitaire Ibn Sina, Rabat, Morocco.
+4 Surgical Oncology Department, National Institute of Oncology, University Mohammed V in Rabat, Rabat, Rabat-Sale-Kenitra, Morocco.",,2024 Apr 23.
+oncology,CDH1 Genotype Exploration in Women With Hereditary Lobular Breast Cancer Phenotype.,https://pubmed.ncbi.nlm.nih.gov/38652475,"Importance:
         
       
-      Real-world evidence comparing health care resource use (HRU) and costs between novel targeted therapies among patients with chronic lymphocytic leukemia (CLL) is lacking. We compared all-cause and CLL-specific HRU and costs between patients initiated on B-cell lymphoma 2 inhibitor (venetoclax)- or Bruton tyrosine kinase inhibitor (BTKi)-based regimens in the second-line (2L) setting.
+      Pathogenic or likely pathogenic (P/LP) germline CDH1 variants are associated with risk for diffuse gastric cancer and lobular breast cancer (LBC) in the so-called hereditary diffuse gastric cancer (HDGC) syndrome. However, in some circumstances, LBC can be the first manifestation of this syndrome in the absence of diffuse gastric cancer manifestation.
     
 
 
-          Methods:
+          Objectives:
         
       
-      This is a retrospective observational study using Optum Clinformatics Data Mart of adult patients with CLL/small lymphocytic lymphoma who received 2L venetoclax- or BTKi-based regimens (January 2018-December 2021) for the first time and had ≥one CLL diagnostic claim after 2L initiation and ≥two claims for venetoclax or BTKi. Baseline characteristics were balanced using stabilized inverse probability of treatment weights. Mean monthly cost difference (MMCD) between cohorts for all-cause and CLL-specific per patient per month (PPPM) costs was estimated. Rates of PPPM-HRU were compared between cohorts using rate ratios (RRs).
+      To evaluate the frequency of germline CDH1 variants in women with the hereditary LBC (HLBC) phenotype, somatic CDH1 gene inactivation in germline CDH1 variant carriers' tumor samples, and the association of genetic profiles with clinical-pathological data and survival.
+    
+
+
+          Design, setting, and participants:
+        
+      
+      This single-center, longitudinal, prospective cohort study was conducted from January 1, 1997, to December 31, 2021, with follow-up until January 31, 2023. Women with LBC seen at the European Institute of Oncology were included. Testing for germline CDH1, BRCA1, and BRCA2 genes was performed. Somatic profiling was assessed for germline CDH1 carriers.
+    
+
+
+          Main outcomes and measures:
+        
+      
+      Accurate estimates of prevalence of germline CDH1 variants among patients with HLBC and the association of somatic sequence alteration with HLBC syndrome. The Kaplan-Meier method and a multivariable Cox proportional hazards regression model were applied for overall and disease-free survival analysis.
     
 
 
           Results:
         
       
-      Of 280 patients, median age 75.5 years, 64.6% and 35.4% received BTKi- versus venetoclax-based regimens, respectively. Most BTKi-treated patients received monotherapy (88.4%), whereas 62.3% of venetoclax-treated patients received combination therapy with anti-CD20 agents. The median duration of 2L therapy was 11.6 and 11.0 months for BTKi versus venetoclax cohorts, respectively. All-cause total costs were lower for venetoclax versus BTKi (MMCD [SE], $-2,497.64 [$1,006.77] in US dollars (USD); P = .01), driven by lower medication costs offsetting medical costs; trends were similar for CLL-specific estimates. Outpatient HRU was higher for venetoclax versus BTKi (RR all-cause: 1.22 v CLL-specific: 1.64).
+      Of 5429 cases of primary LBC, familial LBC phenotype accounted for 1867 (34.4%). A total of 394 women with LBC were tested, among whom 15 germline CDH1 variants in 15 unrelated families were identified. Among these variants, 6 (40.0%) were P/LP, with an overall frequency of 1.5% (6 of 394). Of the 6 probands with P/LP CDH1 LBC, 5 (83.3%) had a positive family history of BC and only 1 (16.7%) had sporadic juvenile early-onset LBC. No germline BRCA1 and BRCA2 variants were identified in CDH1 carriers. An inactivating CDH1 mechanism (second hit) was identified in 4 of 6 explored matched tumor samples (66.7%) in P/LP germline carriers. The P/LP CDH1 LBC variant carriers had a significantly lower age at diagnosis compared with the group carrying CDH1 variants of unknown significance or likely benign (42.5 [IQR, 38.3-43.0] vs 51.0 [IQR, 45.0-53.0] years; P = .03).
+    
+
+
+          Conclusions and relevance:
+        
+      
+      In this cohort study, P/LP germline CDH1 variants were identified in individuals not fulfilling the classic clinical criteria for HDGC screening, suggesting that identification of these variants may provide a novel method to test women with LBC with early age at diagnosis and/or positive family history of BC.","Affiliations
+          
+
+1 Division of Breast Surgery, European Institute of Oncology (IEO), Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), Milan, Italy.
+2 Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+3 Clinic Unit of Oncogenomics, IEO, IRCCS, Milan, Italy.
+4 Division of Cancer Prevention and Genetics, IEO, IRCCS, Milan, Italy.
+5 Instituto de Investigação e Inovação em Saúde, University of Porto, Porto, Portugal.
+6 Faculty of Medicine, University of Porto, Porto, Portugal.
+7 Institute of Molecular Pathology and Immunology of the University of Porto, Porto, Portugal.
+8 Division of Pathology, IEO, IRCCS, Milan, Italy.
+9 Data Management, IEO, IRCCS, Milan, Italy.
+10 Department of Experimental Oncology, IEO, IRCCS, Milan, Italy.
+11 Division of Endoscopy, IEO, IRCCS, Milan, Italy.
+12 Division of Breast Imaging, IEO, IRCCS, Milan, Italy.
+13 Department of Clinical Sciences and Community Health, Branch of Medical Statistics, Biometry and Epidemiology ""G.A. Maccacaro,"" University of Milan, Milan, Italy.; Affiliations
+          
+
+1 Division of Breast Surgery, European Institute of Oncology (IEO), Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS), Milan, Italy.
+2 Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy.
+3 Clinic Unit of Oncogenomics, IEO, IRCCS, Milan, Italy.
+4 Division of Cancer Prevention and Genetics, IEO, IRCCS, Milan, Italy.
+5 Instituto de Investigação e Inovação em Saúde, University of Porto, Porto, Portugal.
+6 Faculty of Medicine, University of Porto, Porto, Portugal.
+7 Institute of Molecular Pathology and Immunology of the University of Porto, Porto, Portugal.
+8 Division of Pathology, IEO, IRCCS, Milan, Italy.
+9 Data Management, IEO, IRCCS, Milan, Italy.
+10 Department of Experimental Oncology, IEO, IRCCS, Milan, Italy.
+11 Division of Endoscopy, IEO, IRCCS, Milan, Italy.
+12 Division of Breast Imaging, IEO, IRCCS, Milan, Italy.
+13 Department of Clinical Sciences and Community Health, Branch of Medical Statistics, Biometry and Epidemiology ""G.A. Maccacaro,"" University of Milan, Milan, Italy.",,2024 Apr 1;7(4):e247862.
+oncology,Telemedicine in geriatric oncology - lessons learned from the COVID-19 experience.,https://pubmed.ncbi.nlm.nih.gov/38652459,"Purpose of review:
+        
+      
+      Telemedicine quickly became integrated into healthcare caused by the Coronavirus 19 (COVID-19) pandemic. Rapid use of telemedicine into healthcare systems was supported by the World Health Organization and other prominent national organizations to reduce transmission of the virus while continuing to provide access to care. In this review, we explored the effect of this swift change in care and its impact on older adults with cancer.
+    
+
+
+          Recent findings:
+        
+      
+      Older adults are susceptible to the COVID-19 virus caused by various risk factors, such as comorbidity, frailty, decreased immunity, and cancer increases vulnerability to infection, hospitalization, and mortality. We found three major themes emerged in the literature published in the past 18 months, including access to care, telemedicine modes of communication, and the use of technology by older adults with cancer. These findings have brought insight into issues regarding healthcare disparities.
+    
+
+
+          Summary:
+        
+      
+      The utilization of telemedicine by older adults with cancer has potential future benefits with the integration of technology preparation prior to the patient's initial visit and addressing known health disparities. The hybrid model of care provides in-person and or remote access to clinicians which may allow older adults with cancer the flexibility needed to obtain quality cancer care.","Affiliation
+          
+
+1 City of Hope Center for Cancer and Aging, Duarte, California, USA.; Affiliation
+          
+
+1 City of Hope Center for Cancer and Aging, Duarte, California, USA.",,2024 Apr 23.
+oncology,Role of mucositis in predicting gut microbiota composition in people with cancer.,https://pubmed.ncbi.nlm.nih.gov/38652454,"Purpose of review:
+        
+      
+      Disruption of the precious ecosystem of micro-organisms that reside in the gut - the gut microbiota - is rapidly emerging as a key driver of adverse side effects/toxicities caused by numerous anti-cancer agents. Although the contribution of the gut microbiota to these toxicities is understood with ever increasing precision, the cause of microbial disruption (dysbiosis) remains poorly understood. Here, we discuss current evidence on the cause(s) of dysbiosis after cancer therapy, positioning breakdown of the intestinal mucosa (mucositis) as a central cause.
+    
+
+
+          Recent findings:
+        
+      
+      Dysbiosis in people with cancer has historically been attributed to extensive antibiotic use. However, evidence now suggests that certain antibiotics have minimal impacts on the microbiota. Indeed, recent evidence shows that the type of cancer therapy used predicts microbiota composition independently of antibiotics. Given most anti-cancer drugs have modest effects on microbes directly, this suggests that their impact on the gut microenvironment, in particular the mucosa, which is highly vulnerable to cytotoxicity, is a likely cause of dysbiosis. Here, we outline evidence that support this hypothesis, and discuss the associated clinical implications/opportunities.
+    
+
+
+          Summary:
+        
+      
+      The concept that mucositis dictates microbiota compositions provides two important implications for clinical practice. Firstly, it reiterates the importance of prioritising the development of novel mucoprotectants that preserve mucosal integrity, and indirectly support microbial stability. Secondly, it provides an opportunity to identify dysbiotic events and associated consequences using readily accessible, minimally invasive biomarkers of mucositis such as plasma citrulline.","Affiliations
+          
+
+1 Faculty of Health and Medical Sciences, School of Biomedicine, The University of Adelaide.
+2 Supportive Oncology Research Group, Precision Cancer Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, Australia.; Affiliations
+          
+
+1 Faculty of Health and Medical Sciences, School of Biomedicine, The University of Adelaide.
+2 Supportive Oncology Research Group, Precision Cancer Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, Australia.",,2024 Apr 23.
+oncology,"Machine Translation for Multilingual Cancer Patient Education: Bridging Languages, Navigating Challenges.",https://pubmed.ncbi.nlm.nih.gov/38652432,"This commentary evaluates the use of machine translation for multilingual patienteducation in oncology. It critically examines the balance between technologicalbenefits in language accessibility and the potential for increasing healthcare disparities.The analysis emphasizes the need for a multidisciplinary approach to translation thatincorporates linguistic accuracy, medical clarity, and cultural relevance. Additionally, ithighlights the ethical considerations of digital literacy and access, underscoring theimportance of equitable patient education. This contribution seeks to advance thediscussion on the thoughtful integration of technology in healthcare communication,focusing on maintaining high standards of equity, quality, and patient care.","Affiliations
+          
+
+1 Department of Neurosurgery, Jena University Hospital - Friedrich Schiller University Jena, Jena, Germany. aaron.lawsonmclean@med.uni-jena.de.
+2 Comprehensive Cancer Center Central Germany, Jena, Germany. aaron.lawsonmclean@med.uni-jena.de.
+3 Department of Education, China Medical University Hospital, Taichung, Taiwan.
+4 School of Medicine, College of Medicine, China Medical University, Taichung, Taiwan.; Affiliations
+          
+
+1 Department of Neurosurgery, Jena University Hospital - Friedrich Schiller University Jena, Jena, Germany. aaron.lawsonmclean@med.uni-jena.de.
+2 Comprehensive Cancer Center Central Germany, Jena, Germany. aaron.lawsonmclean@med.uni-jena.de.
+3 Department of Education, China Medical University Hospital, Taichung, Taiwan.
+4 School of Medicine, College of Medicine, China Medical University, Taichung, Taiwan.",,2024 Apr 23.
+oncology,Antibody Drug Conjugates in Urological Cancers: A Review of the Current Landscape.,https://pubmed.ncbi.nlm.nih.gov/38652426,"Purpose of review:
+        
+      
+      Our review delves into the progress across urological malignancies and discusses ongoing challenges and future directions in antibody-drug conjugate (ADC) development, emphasising their transformative potential in cancer care.
+    
+
+
+          Recent findings:
+        
+      
+      ADCs have advanced from hematologic to solid tumours, notably in breast cancer, and are now pivotal in metastatic urological cancers as both monotherapies and in combination regimens, underscored by the FDA's approval of enfortumab vedotin and sacituzumab govitecan for metastatic urothelial cancer. Progress in metastatic prostate cancer, particularly with ADCs targeting PSMA and STEAP1, is noteworthy, although renal cell cancer presents ongoing challenges. There is a continual search for agents in the metastatic, relapsed testicular cancer landscape. ADCs have emerged as a pivotal innovation in oncology, blending targeted antibody therapy with potent cytotoxic drugs, significantly advancing treatment options for urological malignancies.","Affiliations
+          
+
+1 Department of Medical Oncology, Barts Cancer Centre, St Bartholomew's Hospital, Barts Health NHS Trust, London, UK.
+2 Department of Medical Oncology, Medway NHS Foundation Trust, Kent, UK.
+3 Department of Medical Oncology, Mount Vernon Cancer Centre, Mount Vernon and Watford NHS Trust, Watford, UK.
+4 Hertfordshire and Bedfordshire Urological Cancer Centre, Department of Urology, Lister Hospital, East and North Herts NHS Trust, Stevenage, UK.
+5 Immuno-Oncology Clinical Network, London, UK.
+6 The Meet-URO Group, Italian Network for Research in Uro-Oncology, Milan, Italy.
+7 British Oncology Network for Undergraduate Societies, London, UK.
+8 United Kingdom and Ireland Global Cancer Network, London, UK.
+9 School of Medical Sciences, University of Manchester, Manchester, UK.
+10 UCL Cancer Institute, University College London, London, UK.
+11 Division of Genetics and Epidemiology, Institute of Cancer Research, Surrey, UK.
+12 University College London Medical School, London, UK.
+13 University College London Oncology Society, London, UK.
+14 Worcestershire Oncology Centre, Worcestershire Acute Hospitals NHS Trust, Worcester, UK.
+15 British Oncology Pharmacy Association, London, UK.
+16 Cancer Academic Sciences Unit, University of Southampton, University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+17 School of Cancer and Pharmaceutical Sciences, Faculty of Life Sciences and Medicine, King's College London, London, UK.
+18 Faculty of Medicine, Health and Social Care, Canterbury Christ Church University, Canterbury, UK.
+19 Kent and Medway Medical School, University of Kent, Canterbury, UK.
+20 AELIA Organisation, 9Th Km Thessaloniki - Thermi, 57001, Thessaloniki, Greece.
+21 Department of Oncology, University Hospitals of Derby and Burton NHS Foundation Trust, Derby, UK.
+22 School of Medicine, University of Nottingham, Nottingham, UK.
+23 School of Life and Medical Sciences, University of Hertfordshire, Hatfield, UK.
+24 Apollo Hospitals Educational and Research Foundation (AHERF), Chennai, India.
+25 Medical Oncology Unit, Ospedale San Paolo, Savona, Italy.
+26 Department of Internal Medicine and Medical Specialties, University of Genoa, Genoa, Italy.
+27 Department of Medical Oncology, Ankara University School of Medicine, Ankara, Turkey.
+28 Ankara University Cancer Research Institute, Ankara, Turkey.
+29 Division of Medical Oncology, National Cancer Centre Singapore, Singapore, Singapore.
+30 Duke-NUS Medical School, SingHealth Duke-NUS Oncology Academic Clinical Programme, Singapore, Singapore.
+31 Department of Medical Oncology, Portsmouth Hospitals University NHS Trust, Portsmouth, UK. Akash.Maniam@porthosp.nhs.uk.
+32 Faculty of Science and Health, School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmouth, UK. Akash.Maniam@porthosp.nhs.uk.
+33 Caribbean Cancer Research Institute, Port of Spain, Trinidad and Tobago. Akash.Maniam@porthosp.nhs.uk.
+34 Department of Medical Oncology, Portsmouth Hospitals University NHS Trust, Portsmouth, UK.
+35 Faculty of Science and Health, School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmouth, UK.; Affiliations
+          
+
+1 Department of Medical Oncology, Barts Cancer Centre, St Bartholomew's Hospital, Barts Health NHS Trust, London, UK.
+2 Department of Medical Oncology, Medway NHS Foundation Trust, Kent, UK.
+3 Department of Medical Oncology, Mount Vernon Cancer Centre, Mount Vernon and Watford NHS Trust, Watford, UK.
+4 Hertfordshire and Bedfordshire Urological Cancer Centre, Department of Urology, Lister Hospital, East and North Herts NHS Trust, Stevenage, UK.
+5 Immuno-Oncology Clinical Network, London, UK.
+6 The Meet-URO Group, Italian Network for Research in Uro-Oncology, Milan, Italy.
+7 British Oncology Network for Undergraduate Societies, London, UK.
+8 United Kingdom and Ireland Global Cancer Network, London, UK.
+9 School of Medical Sciences, University of Manchester, Manchester, UK.
+10 UCL Cancer Institute, University College London, London, UK.
+11 Division of Genetics and Epidemiology, Institute of Cancer Research, Surrey, UK.
+12 University College London Medical School, London, UK.
+13 University College London Oncology Society, London, UK.
+14 Worcestershire Oncology Centre, Worcestershire Acute Hospitals NHS Trust, Worcester, UK.
+15 British Oncology Pharmacy Association, London, UK.
+16 Cancer Academic Sciences Unit, University of Southampton, University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+17 School of Cancer and Pharmaceutical Sciences, Faculty of Life Sciences and Medicine, King's College London, London, UK.
+18 Faculty of Medicine, Health and Social Care, Canterbury Christ Church University, Canterbury, UK.
+19 Kent and Medway Medical School, University of Kent, Canterbury, UK.
+20 AELIA Organisation, 9Th Km Thessaloniki - Thermi, 57001, Thessaloniki, Greece.
+21 Department of Oncology, University Hospitals of Derby and Burton NHS Foundation Trust, Derby, UK.
+22 School of Medicine, University of Nottingham, Nottingham, UK.
+23 School of Life and Medical Sciences, University of Hertfordshire, Hatfield, UK.
+24 Apollo Hospitals Educational and Research Foundation (AHERF), Chennai, India.
+25 Medical Oncology Unit, Ospedale San Paolo, Savona, Italy.
+26 Department of Internal Medicine and Medical Specialties, University of Genoa, Genoa, Italy.
+27 Department of Medical Oncology, Ankara University School of Medicine, Ankara, Turkey.
+28 Ankara University Cancer Research Institute, Ankara, Turkey.
+29 Division of Medical Oncology, National Cancer Centre Singapore, Singapore, Singapore.
+30 Duke-NUS Medical School, SingHealth Duke-NUS Oncology Academic Clinical Programme, Singapore, Singapore.
+31 Department of Medical Oncology, Portsmouth Hospitals University NHS Trust, Portsmouth, UK. Akash.Maniam@porthosp.nhs.uk.
+32 Faculty of Science and Health, School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmouth, UK. Akash.Maniam@porthosp.nhs.uk.
+33 Caribbean Cancer Research Institute, Port of Spain, Trinidad and Tobago. Akash.Maniam@porthosp.nhs.uk.
+34 Department of Medical Oncology, Portsmouth Hospitals University NHS Trust, Portsmouth, UK.
+35 Faculty of Science and Health, School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmouth, UK.",,2024 Apr 23.
+oncology,Navigating Breast Cancer Oligometastasis and Oligoprogression: Current Landscape and Future Directions.,https://pubmed.ncbi.nlm.nih.gov/38652425,"Purpose:
+        
+      
+      We examine the potential for curative approaches among metastatic breast cancer (MBC) patients by exploring the recent literature on local ablative therapies like surgery and stereotactic body radiation therapy (SBRT) in patients with oligometastatic (OM) breast cancer. We also cover therapies for MBC patients with oligoprogressive (OP) disease.
+    
+
+
+          Key findings:
+        
+      
+      Surgery and SBRT have been studied for OM and OP breast cancer, mainly in retrospective or non-randomized trials. While many studies demonstrated favorable results, a cooperative study and single-institution trial found no support for surgery/SBRT in OM and OP cases, respectively.
     
 
 
           Conclusion:
         
       
-      Venetoclax was associated with total monthly cost savings versus BTKis, illustrating the economic value of time-limited venetoclax-based regimens in the 2L setting.","Bita Fakhri 
-                1
-              , Nnadozie Emechebe 
-                2
-              , Beenish S Manzoor 
-                2
-              , Dureshahwar Jawaid 
-                2
-              , Hasan Alhasani 
-                2
-              , Melanie Edwards 
-                3
-              , Hande H Tuncer 
-                4; Bita Fakhri 
-                1
-              , Nnadozie Emechebe 
-                2
-              , Beenish S Manzoor 
-                2
-              , Dureshahwar Jawaid 
-                2
-              , Hasan Alhasani 
-                2
-              , Melanie Edwards 
-                3
-              , Hande H Tuncer 
-                4","Affiliations
+      While there is interest in applying local therapies to OM and OP breast cancer, the current randomized data does not back the routine use of surgery or SBRT, particularly when considering the potential for treatment-related toxicities. Future research should refine patient selection through advanced imaging and possibly explore these therapies specifically in patients with hormone receptor-positive or HER2-positive disease.","Affiliations
           
 
-1 Stanford University, Stanford, CA.
-2 AbbVie, Inc, North Chicago, IL.
-3 Lowell General Hospital, Lowell, MA.
-4 Dana Farber Cancer Institute, Boston, MA.; Affiliations
+1 Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, 1500 E. Duarte Road, Duarte, CA, 91010, USA.
+2 Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, 1500 E. Duarte Road, Duarte, CA, 91010, USA. jbazan@coh.org.; Affiliations
           
 
-1 Stanford University, Stanford, CA.
-2 AbbVie, Inc, North Chicago, IL.
-3 Lowell General Hospital, Lowell, MA.
-4 Dana Farber Cancer Institute, Boston, MA.",,2024 Apr 16:OP2300630.
-leukemia,Real-world status of treatment for lymphoid neoplasms developed during the course of myeloproliferative neoplasms in Japan.,https://pubmed.ncbi.nlm.nih.gov/38626148,"Objectives:
+1 Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, 1500 E. Duarte Road, Duarte, CA, 91010, USA.
+2 Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, 1500 E. Duarte Road, Duarte, CA, 91010, USA. jbazan@coh.org.",,2024 Apr 23.
+oncology,"The Growing Role of Digital Health Tools in the Care of Patients with Cancer: Current Use, Future Opportunities, and Barriers to Effective Implementation.",https://pubmed.ncbi.nlm.nih.gov/38652424,"Purpose of review:
         
       
-      Patients with myeloproliferative neoplasms (MPNs) are at higher risk of developing secondary malignancies. In this study, we focused on patients with MPNs that complicated lymphoid neoplasms. To analyze the real-world status of lymphoid neoplasm treatment in patients with pre-existing MPNs in Japan, we conducted a multicenter retrospective study.
+      This article aims to describe the ways in which digital health technologies are currently being used to improve the delivery of cancer care, highlight opportunities to expand their use, and discuss barriers to effective and equitable implementation.
+    
+
+
+          Recent findings:
+        
+      
+      The utilization of digital health tools and development of novel care delivery models that leverage such tools is expanding. Recent studies have shown feasibility and increased implementation in the setting of oncologic care. With technological advances and key policy changes, utilization of digital health tools has greatly increased over the past two decades and transformed how cancer care is delivered. As digital health tools are expanded and refined, there is potential for improved access to and quality and efficiency of cancer care. However, careful consideration should be given to key barriers of digital health tool adoption, such as infrastructural, patient-level, and health systems-level challenges, to ensure equitable access to care and improvement in health outcomes.","Affiliations
+          
+
+1 Department of Medicine, Mayo Clinic, Rochester, MN, USA.
+2 Division of Hematology, Mayo Clinic, Rochester, MN, USA.
+3 Department of Oncology, Mayo Clinic, Rochester, MN, USA.
+4 Center for Digital Health, Mayo Clinic, Rochester, USA.
+5 Division of Hematology, Mayo Clinic, Rochester, MN, USA. Pritchett.Joshua@mayo.edu.
+6 Department of Oncology, Mayo Clinic, Rochester, MN, USA. Pritchett.Joshua@mayo.edu.
+7 Kern Center for the Science of Health Care Delivery, Mayo Clinic, 200 First St. SW, Rochester, MN, 55905, USA. Pritchett.Joshua@mayo.edu.; Affiliations
+          
+
+1 Department of Medicine, Mayo Clinic, Rochester, MN, USA.
+2 Division of Hematology, Mayo Clinic, Rochester, MN, USA.
+3 Department of Oncology, Mayo Clinic, Rochester, MN, USA.
+4 Center for Digital Health, Mayo Clinic, Rochester, USA.
+5 Division of Hematology, Mayo Clinic, Rochester, MN, USA. Pritchett.Joshua@mayo.edu.
+6 Department of Oncology, Mayo Clinic, Rochester, MN, USA. Pritchett.Joshua@mayo.edu.
+7 Kern Center for the Science of Health Care Delivery, Mayo Clinic, 200 First St. SW, Rochester, MN, 55905, USA. Pritchett.Joshua@mayo.edu.",,2024 Apr 23.
+Keyword,Title,URL,Abstract,Affiliations,Keywords,Publication Date
+lymphoma,"Associations Between Stress, Health Behaviors, and Quality of Life in Young Couples During the Transition to Survivorship: Protocol for a Measurement Burst Study.",https://pubmed.ncbi.nlm.nih.gov/38652520,"Background:
+        
+      
+      Cancer is a life-threatening, stressful event, particularly for young adults due to delays and disruptions in their developmental transitions. Cancer treatment can also cause adverse long-term effects, chronic conditions, psychological issues, and decreased quality of life (QoL) among young adults. Despite numerous health benefits of health behaviors (eg, physical activity, healthy eating, no smoking, no alcohol use, and quality sleep), young adult cancer survivors report poor health behavior profiles. Determining the associations of stress (either cancer-specific or day-to-day stress), health behaviors, and QoL as young adult survivors transition to survivorship is key to understanding and enhancing these survivors' health. It is also crucial to note that the effects of stress on health behaviors and QoL may manifest on a shorter time scale (eg, daily within-person level). Moreover, given that stress spills over into romantic relationships, it is important to identify the role of spouses or partners (hereafter partners) in these survivors' health behaviors and QoL.
+    
+
+
+          Objective:
+        
+      
+      This study aims to investigate associations between stress, health behaviors, and QoL at both within- and between-person levels during the transition to survivorship in young adult cancer survivors and their partners, to identify the extent to which young adult survivors' and their partners' stress facilitates or hinders their own and each other's health behaviors and QoL.
     
 
 
           Methods:
         
       
-      Questionnaires were sent to collect the data on patients who were first diagnosed with either polycythemia vera, essential thrombocythemia or myelofibrosis and who later were complicated with lymphoid neoplasms defined as malignant lymphoma, multiple myeloma, or chronic lymphocytic leukemia/small cell lymphoma.
+      We aim to enroll 150 young adults (aged 25-39 years at the time of cancer diagnosis) who have recently completed cancer treatment, along with their partners. We will conduct a prospective longitudinal study using a measurement burst design. Participants (ie, survivors and their partners) will complete a daily web-based survey for 7 consecutive days (a ""burst"") 9 times over 2 years, with the bursts spaced 3 months apart. Participants will self-report their stress, health behaviors, and QoL. Additionally, participants will be asked to wear an accelerometer to assess their physical activity and sleep during the burst period. Finally, dietary intake (24-hour diet recalls) will be assessed during each burst via telephone by research staff.
     
 
 
           Results:
         
       
-      Twenty-four patients with MPNs complicated by lymphoid neoplasms were enrolled (polycythemia vera, n = 8; essential thrombocythemia, n = 14; and primary myelofibrosis, n = 2). Among these, diffuse large B-cell lymphoma (DLBCL) was the most frequently observed (n = 13, 54.1%). Twelve (92.3%) of the patients with DLBCL received conventional chemotherapy. Among these 12 patients, regarding cytoreductive therapy for MPNs, 8 patients stopped treatment, one continued treatment, and two received a reduced dose. Consequently, most patients were able to receive conventional chemotherapy for DLBCL with a slightly higher dose of granulocyte colony-stimulating factor support than usual without worse outcomes. All 3 patients with multiple myeloma received a standard dose of chemotherapy.
+      Participant enrollment began in January 2022. Recruitment and data collection are expected to conclude by December 2024 and December 2026, respectively.
+    
+
+
+          Conclusions:
+        
+      
+      To the best of our knowledge, this will be the first study that determines the interdependence of health behaviors and QoL of young adult cancer survivors and their partners at both within- and between-person levels. This study is unique in its focus on the transition to cancer survivorship and its use of a measurement burst design. Results will guide the creation of a developmentally appropriate dyadic psychosocial or behavioral intervention that improves both young adult survivors' and their partners' health behaviors and QoL and potentially their physical health.
+    
+
+
+          International registered report identifier (irrid):
+        
+      
+      DERR1-10.2196/53307.","Affiliations
+          
+
+1 Department of Health Disparities Research, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+2 Department of Pediatrics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+3 Department of Behavioral Science, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+4 Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+5 The Center for Clinical Research and Evidence-Based Medicine, The University of Texas McGovern Medical School, Houston, TX, United States.
+6 Department of Neuro-Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+7 Department of Lymphoma-Myeloma, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+8 Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+9 Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+10 Department of Colon & Rectal Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.; Affiliations
+          
+
+1 Department of Health Disparities Research, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+2 Department of Pediatrics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+3 Department of Behavioral Science, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+4 Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+5 The Center for Clinical Research and Evidence-Based Medicine, The University of Texas McGovern Medical School, Houston, TX, United States.
+6 Department of Neuro-Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+7 Department of Lymphoma-Myeloma, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+8 Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+9 Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+10 Department of Colon & Rectal Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX, United States.",,2024 Apr 23:13:e53307.
+lymphoma,Supportive care measures for bispecific T-cell engager therapies in haematological malignancies.,https://pubmed.ncbi.nlm.nih.gov/38652455,"Purpose of review:
+        
+      
+      Bispecific T-cell engager (TCE) therapies are revolutionizing the treatment of several haematological malignancies, including B-cell acute lymphoblastic leukaemia, various subtypes of B-cell non-Hodgkin lymphoma, and multiple myeloma. Due to their unique mode of action in activating endogenous T cells, they are associated with several important early side effects, including cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome, as well as target-specific toxicities and a significant risk of infection.
+    
+
+
+          Recent findings:
+        
+      
+      Currently, supportive care measures for TCEs have largely been inferred from other T-cell therapies, such as CAR-T (chimeric antigen receptor) therapy. Further research into TCE-specific supportive care measures is needed to improve the tolerability of these therapies for patients. A key question moving forward is understanding how to predict and minimize early toxicity (cytokine release syndrome and immune effector cell-associated neurotoxicity syndrome). Associated infection risk is a significant cause of patient morbidity, therefore a better understanding of how to optimize TCE-dosing and prophylactic measures, such as intravenous immunoglobulin and antimicrobials, will be crucial to achieving an improved balance of toxicity and efficacy. Enabling early outpatient delivery of these therapies to select patients at lower risk of toxicity may also help to improve patient experience and quality of life.
+    
+
+
+          Summary:
+        
+      
+      Here we review up-to-date guidance and literature on existing supportive care measures for bispecific TCE therapy-related toxicities. We highlight both unique and serious side effects of TCE therapies that require improved management strategies to enable more patients to benefit from these efficacious drugs.","Affiliations
+          
+
+1 Department of Haematology, MRC Weatherall Institute of Molecular Medicine, Oxford University, Oxford.
+2 Haematology Department, Oxford University Hospitals NHS Foundation Trust, Oxford, UK.; Affiliations
+          
+
+1 Department of Haematology, MRC Weatherall Institute of Molecular Medicine, Oxford University, Oxford.
+2 Haematology Department, Oxford University Hospitals NHS Foundation Trust, Oxford, UK.",,2024 Apr 23.
+lymphoma,"Correspondence to C-reactive protein levels, the prognostic nutritional index, and the lactate dehydrogenase-to-lymphocyte ratio are important prognostic factors in primary central nervous system lymphoma: a single-center study of 223 patients.",https://pubmed.ncbi.nlm.nih.gov/38652354,No abstract available,"Affiliations
+          
+
+1 Department of Medicine, Jinnah Sindh Medical University, Rafiqi H J Shaheed Road, Karachi, Pakistan. aadeshkumar605@gmail.com.
+2 Department of Medicine, Jinnah Sindh Medical University, Rafiqi H J Shaheed Road, Karachi, Pakistan.; Affiliations
+          
+
+1 Department of Medicine, Jinnah Sindh Medical University, Rafiqi H J Shaheed Road, Karachi, Pakistan. aadeshkumar605@gmail.com.
+2 Department of Medicine, Jinnah Sindh Medical University, Rafiqi H J Shaheed Road, Karachi, Pakistan.",,2024 Apr 23;47(1):184.
+lymphoma,Combination of Sjogren's syndrome and anti-Ku syndrome complicated by the development of mucosa-associated lymphoid tissue lymphoma: case review and systematic review of the literature.,https://pubmed.ncbi.nlm.nih.gov/38652335,"The frequency of antibodies to Ku varies in various autoimmune diseases. In 2019, Spielmann et al. identified two types of anti-Ku syndrome based on a hierarchical clustering analysis. Sjögren's syndrome occurs both in the first type of anti-Ku syndrome and in the second type. Despite the fact that increased tissue expression of Ku proteins was noted in lymphocytic cells with focal sialoadenitis of the minor salivary glands in patients with primary Sjogren's syndrome, only 49 cases of a combination of anti-Ku antibodies and manifestations of Sjogren's syndrome have been described in the literature. Some researchers examined patients for the presence of Sjogren's syndrome only if they had anti-Ro or anti-La antibodies, although in the literature, there are descriptions of Sjogren's syndrome in the presence of only isolated anti-Ku antibodies, as in our case. Literature data on glandular and extraglandular manifestations of Sjögren's syndrome in anti-Ku-positive patients are limited. Below, we present the first case of Sjögren's syndrome in combination with the first type of anti-Ku syndrome complicated by the development of mucosa-associated lymphoid tissue (MALT) lymphoma. The article also provides a systematic review of the literature on the association of Sjögren's syndrome with anti-Ku antibodies.","Affiliations
+          
+
+1 Rheumatology Department, Moscow City Hospital №52, Moscow, Russia. Ksan7ch@mail.ru.
+2 Department of Intensive Methods of Therapy, V.A. Nasonova Research Institute of Rheumatology, Moscow, Russia.
+3 Rheumatology Department №5, V. A. Nasonova Research Institute of Rheumatology, Moscow, Russia.; Affiliations
+          
+
+1 Rheumatology Department, Moscow City Hospital №52, Moscow, Russia. Ksan7ch@mail.ru.
+2 Department of Intensive Methods of Therapy, V.A. Nasonova Research Institute of Rheumatology, Moscow, Russia.
+3 Rheumatology Department №5, V. A. Nasonova Research Institute of Rheumatology, Moscow, Russia.",,2024 Apr 23.
+lymphoma,Long-term remission after upfront autologous hematopoietic stem cell transplant for CD5(+) diffuse large-B cell lymphoma.,https://pubmed.ncbi.nlm.nih.gov/38652119,"CD5+ diffuse large B-cell lymphoma (DLBCL) is a rare subtype characterized by an inferior outcome. While dose-dense therapy shows promising activity, the optimal management remains to be determined. To evaluate the benefit of consolidative autologous hematopoietic stem cell transplantation (ASCT), we retrospectively reviewed the medical records of 47 consecutive patients with newly diagnosed de novo CD5+ DLBCL. Of 19 patients ≤ 70 of age with age-adjusted International Prognostic Index 2-3, eight underwent upfront ASCT, and nine did not, despite preserved organ function and response after induction therapy. The remaining two, ineligible for ASCT due to early progression or comorbidities, had a dismal clinical course. Among younger 17 high-risk patients eligible for ASCT, ASCT was associated with better overall (p = 0.0327) and progression-free survival (p = 0.0184). Younger patients without ASCT demonstrated similar outcomes to older patients with similar risk profiles. ASCT could be considered for high-risk CD5+ DLBCL with a response after induction therapy.","Affiliations
+          
+
+1 Department of Hematology and Oncology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.
+2 Department of Cell Therapy and Transplantation, The University of Tokyo Hospital, Tokyo, Japan.
+3 Department of Pathology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.; Affiliations
+          
+
+1 Department of Hematology and Oncology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.
+2 Department of Cell Therapy and Transplantation, The University of Tokyo Hospital, Tokyo, Japan.
+3 Department of Pathology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.",,2024 Apr 23:1-9.
+lymphoma,Persistent Cytopenia After CD19 CAR T Therapy in Relapsed/Refractory DLBCL Patients Could Be a Predictor of Efficacy and Side Effects.,https://pubmed.ncbi.nlm.nih.gov/38651796,"Hematological toxicity is a severe adverse event (AE) in anti-CD19 chimeric antigen receptor (CAR) T cell therapy for relapsed/refractory (R/R) diffuse large B-cell lymphoma (DLBCL). However, the pathophysiological mechanism underlying prolonged cytopenia and the relationship between persistent cytopenia, efficacy, and AEs after anti-CD19 CAR T cell therapy are unknown. Therefore, this study explored whether persistent cytopenia after anti-CD19 CAR T cell therapy in patients with R/R DLBCL can predict therapeutic efficacy and AEs. Thirty-eight patients with R/R DLBCL were enrolled in an anti-CD19 CAR T cell therapy clinical trial. Patients received lymphodepleting chemotherapy with fludarabine and cyclophosphamide before CAR T cell therapy. The degree and duration of cytopenia, clinical response, proportion of CAR T cells, interleukin-6 (IL-6) levels, AEs, and follow-up were observed after therapy. Grades 3-4 persistent cytopenia occurred in 14 patients with R/R DLBCL, who recovered 8-18 weeks after CAR T cell infusion. These patients achieved an objective response rate (ORR) for anti-CD19 CAR T cell therapy. In patients who achieved ORR, the incidence of Grades 3-4 persistent cytopenia was higher in patients with a high tumor load than in those without a high tumor load. The mean peaks of IL-6 and anti-CD19 CAR T cells and the cytokine release syndrome grade in patients with Grades 3-4 persistent cytopenia were higher than those in patients without persistent cytopenia. Anti-CD19 CAR T cells were observed 21 and 28 days after infusion, and patients had Grades 3-4 persistent cytopenia. Progression-free and overall survival were higher in patients with Grades 3-4 persistent cytopenia than in those without cytopenia. Therefore, persistent cytopenia after anti-CD19 CAR T cell therapy in patients with R/R DLBCL can predict therapeutic efficacy and AEs, allowing clinicians to determine the efficiency of CD-19 CAR T cell therapy and the associated AEs.","Affiliation
+          
+
+1 Department of Hematology, Tianjin First Central Hospital, School of Medicine, Nankai University, Tianjin, China.; Affiliation
+          
+
+1 Department of Hematology, Tianjin First Central Hospital, School of Medicine, Nankai University, Tianjin, China.",,2024 Jan-Dec:33:9636897241247951.
+lymphoma,Ruptured Baker Cyst on 18F-FDG PET/CT.,https://pubmed.ncbi.nlm.nih.gov/38651792,"A 78-year-old woman with diffuse large B-cell lymphoma was referred for an 18F-FDG PET/CT to evaluate therapy response after 6 cycles of R-mini-CHOP. A new 18F-FDG accumulation was noticed medial in the upper part of the right lower leg, spreading along the medial head of the gastrocnemius muscle. The shaft-bow-looking curvature, arch sign, of 18F-FDG revealed a fluid collection on CT. This typical pattern and its specific location are indicative of a ruptured Baker's cyst. It can manifest in 1 or both legs.","Affiliations
+          
+
+1 From the Department of Radiology and Nuclear Medicine, Radboud University Medical Center, Nijmegen.
+2 Department of Radiology, Sint Maartenskliniek, Ubbergen.
+3 Departments of Hematology, and.; Affiliations
+          
+
+1 From the Department of Radiology and Nuclear Medicine, Radboud University Medical Center, Nijmegen.
+2 Department of Radiology, Sint Maartenskliniek, Ubbergen.
+3 Departments of Hematology, and.",,2024 Apr 19.
+lymphoma,Reclaiming Self-Balancing on a Tightrope Across Time a grounded theory of transition to survivorship in older adult blood cancer survivors.,https://pubmed.ncbi.nlm.nih.gov/38651679,"Aim:
+        
+      
+      To develop a theoretical understanding of the transition to survivorship in older adult blood cancer survivors.
+    
+
+
+          Design:
+        
+      
+      Qualitative research employing Classic Glaserian Grounded Theory methods.
+    
+
+
+          Methods:
+        
+      
+      Purposive and theoretical sampling recruited 17 participants via Leukaemia & Lymphoma Society© Community webpages (65-83 years) from across the US and Canada. Data from individual semi-structured interviews using HIPPA-compliant Zoom© were analysed from September 2020 to March 2021.
+    
+
+
+          Results:
+        
+      
+      Participants' main concern was losing their sense of self and reclaiming self was the core category. The substantive theory of Reclaiming Self-Balancing on a Tightrope Across Time is a six-phase transition process to survivorship: receiving a blood cancer diagnosis, finding bearings, reclaiming self, persevering through, realizing a transition and living in a new reality.
+    
+
+
+          Conclusions:
+        
+      
+      The transition to survivorship in older adult blood cancer survivors is a complex process because of age and disease type.
+    
+
+
+          Implications:
+        
+      
+      Age-related aspects of one's sense of self and its relation to health, well-being and quality of life, as older adult blood cancer survivors advance into older age need further research. Ageism and its impact on cancer survivorship care in older adults should also be explored.
+    
+
+
+          Impact:
+        
+      
+      What problem did the study address?: Existing theoretical frameworks do not explain the complex process of transition to survivorship for older adult blood cancer survivors. What were the main findings?: A substantive theory Reclaiming Self-Balancing on a Tightrope Across Time is a six-phase transition process from cancer diagnosis to survivorship characterized by an uncertain and liminal nature. Where and on whom will the research have an impact?: Understanding how older adults experience the transition to survivorship can inform age-appropriate person-centered nursing practices and healthcare policies specific to their needs.
+    
+
+
+          Reporting method:
+        
+      
+      COREQ.
+    
+
+
+          Patient or public contribution:
+        
+      
+      No patient or public contribution.","Affiliation
+          
+
+1 Adelphi University College of Nursing and Public Health, Garden City, New York, USA.; Affiliation
+          
+
+1 Adelphi University College of Nursing and Public Health, Garden City, New York, USA.",,2024 Apr 23.
+lymphoma,Ophthalmic Manifestations in Patients with Blood Malignancies.,https://pubmed.ncbi.nlm.nih.gov/38651449,"Ocular complications can occur in up to 90% of patients with blood malignancies. Such complications range from direct infiltration to local hemostatic imbalance and treatment-related toxicity. This narrative review is based on a systematic computerized search of the literature conducted until January 2024 and examines the common ocular complications associated with blood cancers. Ocular complications from primary disease include mass effects from ocular adnexal lymphomas and intraocular lymphomas, with B-cell lymphomas accounting for 95% of primary ocular presentations. Secondary disease involvement from systemic hematological malignancies can lead to a wide range of ocular manifestations, such as leukemic retinopathy. Furthermore, toxicity from antineoplastic therapies and ocular graft versus host disease (oGVHD) after hematopoietic stem cell transplantation present additional risks to ocular health. In conclusion, ocular complications in blood cancer patients are an integral part of patient management, requiring regular ophthalmic evaluations and close collaboration between oncologists and ophthalmologists. Advances in therapy and an increased focus on early symptom recognition are essential for preserving vision and enhancing patient quality of life.","Affiliations
+          
+
+1 Department of Ophthalmology, University Magna Graecia of Catanzaro, 88100 Catanzaro, Italy.
+2 Department of Biomedical Sciences, Humanitas University, via Rita Levi Montalcini 4, 20072 Milan, Italy.
+3 IRCCS Humanitas Research Hospital, via Manzoni 56, 20089 Milan, Italy.
+4 Eye Clinic, Department of Surgical Sciences, University of Cagliari, 09123 Cagliari, Italy.; Affiliations
+          
+
+1 Department of Ophthalmology, University Magna Graecia of Catanzaro, 88100 Catanzaro, Italy.
+2 Department of Biomedical Sciences, Humanitas University, via Rita Levi Montalcini 4, 20072 Milan, Italy.
+3 IRCCS Humanitas Research Hospital, via Manzoni 56, 20089 Milan, Italy.
+4 Eye Clinic, Department of Surgical Sciences, University of Cagliari, 09123 Cagliari, Italy.",,2024 Mar 28;16(2):193-203.
+lymphoma,Surgical Outcomes and Complications of Custom-Made Prostheses in Upper Limb Oncological Reconstruction: A Systematic Review.,https://pubmed.ncbi.nlm.nih.gov/38651430,"Bone tumors of the upper limb are a common cause of bone pain and pathological fractures in both old and young populations. Surgical reconstruction and limb salvage have become valid options for these patients despite this kind of surgery being challenging due to the need for wide bone resection and the involvement of surrounding soft tissues. Computer-assisted technology helps the surgeon in pre-operative planning and in designing customized implants. The aim of this study was to investigate the surgical outcomes and complications of custom-made prostheses in oncologic reconstruction of the upper limb and if they are reliable options for patients suffering from aggressive tumors. An electronic search on PubMed, Google Scholar, and Web of Knowledge was conducted to identify all available articles on the use of custom-made prostheses in oncological resections of the upper limb. Twenty-one studies were included in the review, comprising a total of 145 patients with a mean age of 33.68 years. The bone involved was the humerus in 93 patients, and the radius was involved in 36 patients. There were only six cases involving proximal ulna, three cases involving the scapula, and seven cases involving the elbow as well as soft tissues around it. The most frequent primary tumor was the giant cell tumor, with 36 cases, followed by osteosarcoma with 25 cases, Ewing Sarcoma with 17 cases, and Chondrosarcoma with 7 total cases. Forty patients were affected by bone metastases (such as renal cell cancer, breast cancer, melanoma, and rectal cancer) or hematologic diseases involving bone (lymphoma, myeloma, or non-Hodgkin disease). Custom-made prostheses are a viable option for patients who suffer from malignant tumors in their upper limbs. They are a reliable aid for surgeons in cases of extensive resections.","Affiliation
+          
+
+1 Hand Surgery and Orthopedics Unit, Department of Orthopaedics and Traumatology, Catholic University of Rome, Fondazione Policlinico Universitario A. Gemelli IRCCS, 00168 Rome, Italy.; Affiliation
+          
+
+1 Hand Surgery and Orthopedics Unit, Department of Orthopaedics and Traumatology, Catholic University of Rome, Fondazione Policlinico Universitario A. Gemelli IRCCS, 00168 Rome, Italy.",,2024 Apr 11;9(2):72.
+Keyword,Title,URL,Abstract,Affiliations,Keywords,Publication Date
+keytruda,Case report: Salivary duct carcinoma in a patient with a germline CDH1 pathogenic variant - expanding the spectrum of hereditary cancer predisposition syndromes.,https://pubmed.ncbi.nlm.nih.gov/38651154,"Introduction:
+        
+      
+      Recently, an entity known as salivary duct carcinoma with rhabdoid features (SDC-RF) has been associated with somatic CDH1 mutations. Here we present the first known case report of conventional SDC occurring in the setting of a germline CDH1 pathogenic variant accompanied by a somatic loss of heterozygosity at the CDH1 locus.
+    
+
+
+          Case discussion:
+        
+      
+      A 67-year-old man presented with chest and back pain and was found to have osteolytic lesions in the sternum and lumbar spine. Vertebral bone biopsies were positive for metastatic carcinoma of unknown primary. A molecular profiling assay consisting of both whole-exome next-generation sequencing (NGS) as well as immunohistochemistry (IHC) for select clinically-relevant proteins performed on the bone biopsy suggested a triple-negative (ER/PR/ERBB2 negative, by IHC), androgen receptor (AR IHC) positive tumor profile. Additionally, the assay uncovered a coding mutation in the CDH1 gene (c.1792C>T, p.R598*) with genomic loss of the second CDH1 allele. Germline testing returned positive for a heterozygous CDH1 pathogenic variant. PET-CT revealed a tumor in the neck suggestive of the primary malignancy consistent with that of salivary gland origin. The patient was initially treated with carboplatin and paclitaxel, then pembrolizumab, and finally with AR-directed therapy using leuprolide and enzalutamide. These treatments were not successful, and the patient eventually succumbed to his disease.
     
 
 
           Conclusion:
         
       
-      Our data indicate that if aggressive lymphoid neoplasms develop during the course of treatment in patients with MPNs, it is acceptable to prioritize chemotherapy for lymphoma.","Yoko Edahiro 
-                1
-               
-                2
-               
-                3
-              , Tomonori Ochiai 
-                1
-               
-                2
-               
-                3
-              , Yoshinori Hashimoto 
-                1
-               
-                4
-              , Michiko Ichii 
-                5
-              , Takeshi Okatani 
-                6
-              , Hiromi Omura 
-                4
-              , Kei Nakajima 
-                7
-              , Makoto Sasaki 
-                2
-              , Jun Ando 
-                2
-               
-                8
-              , Tomoiku Takaku 
-                2
-              , Michiaki Koike 
-                9
-              , Koh Izumiyama 
-                10
-              , Junji Hiraga 
-                11
-              , Tomofumi Yano 
-                12
-              , Kensuke Usuki 
-                13
-              , Eiichi Ohtsuka 
-                14
-              , Kenji Yokoyama 
-                15
-              , Tatsuo Oyake 
-                16
-              , Naoki Takahashi 
-                17
-              , Tetsuya Nishida 
-                18
-              , Takafumi Nakao 
-                19
-              , Yasutaka Fukuda 
-                20
-              , Takashi Akasaka 
-                21
-              , Atsuko Mugitani 
-                22
-              , Miki Ando 
-                2
-              , Norio Komatsu 
-                1
-               
-                2
-               
-                3
-               
-                23; Yoko Edahiro 
-                1
-               
-                2
-               
-                3
-              , Tomonori Ochiai 
-                1
-               
-                2
-               
-                3
-              , Yoshinori Hashimoto 
-                1
-               
-                4
-              , Michiko Ichii 
-                5
-              , Takeshi Okatani 
-                6
-              , Hiromi Omura 
-                4
-              , Kei Nakajima 
-                7
-              , Makoto Sasaki 
-                2
-              , Jun Ando 
-                2
-               
-                8
-              , Tomoiku Takaku 
-                2
-              , Michiaki Koike 
-                9
-              , Koh Izumiyama 
-                10
-              , Junji Hiraga 
-                11
-              , Tomofumi Yano 
-                12
-              , Kensuke Usuki 
-                13
-              , Eiichi Ohtsuka 
-                14
-              , Kenji Yokoyama 
-                15
-              , Tatsuo Oyake 
-                16
-              , Naoki Takahashi 
-                17
-              , Tetsuya Nishida 
-                18
-              , Takafumi Nakao 
-                19
-              , Yasutaka Fukuda 
-                20
-              , Takashi Akasaka 
-                21
-              , Atsuko Mugitani 
-                22
-              , Miki Ando 
-                2
-              , Norio Komatsu 
-                1
-               
-                2
-               
-                3
-               
-                23","Affiliations
+      Molecular testing revealed that our patient had bi-allelic inactivation of the CDH1 gene. We believe our patient developed a somatic mutation in addition to his preexisting germline CDH1 mutation that ultimately predisposed him to SDC. While previous studies have found somatic CDH1 pathogenic variants in SDC-RF, our patient was found to have a germline CDH1 pathogenic variant in the setting of conventional SDC, without rhabdoid features. This case provokes questions regarding tumor genetics and molecular profiling of SDC in patients with germline CDH1 pathogenic variants. Moreover, this case supports the notion that SDC may be the salivary counterpart of other malignancies associated with germline CDH1 pathogenic variants and may possibly expand the spectrum of tumors that arise in this familial cancer-predisposition syndrome.","Affiliations
           
 
-1 Department of Advanced Hematology, Juntendo University Graduate School of Medicine, Tokyo, Japan.
-2 Department of Hematology, Juntendo University School of Medicine, Tokyo, Japan.
-3 Laboratory for the Development of Therapies against MPN, Juntendo University Graduate School of Medicine, Tokyo, Japan.
-4 Department of Hematology, Tottori Prefectural Central Hospital, Tottori, Japan.
-5 Department of Hematology and Oncology, Osaka University Graduate School of Medicine, Osaka, Japan.
-6 Division of Hematology, Hiroshima Red Cross Hospital and Atomic-bomb Survivors Hospital, Hiroshima, Japan.
-7 Department of Hematology/Oncology, University of Yamanashi, Yamanashi, Japan.
-8 Division of Cell Therapy & Blood Transfusion Medicine, Juntendo University School of Medicine, Tokyo, Japan.
-9 Department of Hematology, Juntendo University Shizuoka Hospital, Shizuoka, Japan.
-10 Blood Disorders Center, Aiiku Hospital, Hokkaido, Japan.
-11 Department of Hematology, Toyota Kosei Hospital, Aichi, Japan.
-12 Internal Medicine Department, Okayama Rosai Hospital, Okayama, Japan.
-13 Department of Hematology, NTT Medical Center Tokyo, Tokyo, Japan.
-14 Department of Hematology, Oita Prefectural Hospital, Oita, Japan.
-15 Department of Hematology/Oncology, Tokai University Hachioji Hospital, Tokyo, Japan.
-16 Division of Hematology and Oncology, Department of Internal Medicine, Iwate Medical University School of Medicine, Iwate, Japan.
-17 Department of Hematopoietic Tumor, International Medical Center, Saitama Medical University, Saitama, Japan.
-18 Department of Hematology, Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital, Aichi, Japan.
-19 Department of Hematology, Osaka City General Hospital, Osaka, Japan.
-20 Department of Hematology, Juntendo University Nerima Hospital, Tokyo, Japan.
-21 Department of Hematology, Tenri Hospital, Nara, Japan.
-22 Department of Hematology, Seichokai Fuchu Hospital, Osaka, Japan.
-23 PharmaEssentia Japan KK, Tokyo, Japan.; Affiliations
+1 Division of Hematology, Oncology & Transplantation, University of Minnesota, Minneapolis, MN, United States.
+2 Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN, United States.; Affiliations
           
 
-1 Department of Advanced Hematology, Juntendo University Graduate School of Medicine, Tokyo, Japan.
-2 Department of Hematology, Juntendo University School of Medicine, Tokyo, Japan.
-3 Laboratory for the Development of Therapies against MPN, Juntendo University Graduate School of Medicine, Tokyo, Japan.
-4 Department of Hematology, Tottori Prefectural Central Hospital, Tottori, Japan.
-5 Department of Hematology and Oncology, Osaka University Graduate School of Medicine, Osaka, Japan.
-6 Division of Hematology, Hiroshima Red Cross Hospital and Atomic-bomb Survivors Hospital, Hiroshima, Japan.
-7 Department of Hematology/Oncology, University of Yamanashi, Yamanashi, Japan.
-8 Division of Cell Therapy & Blood Transfusion Medicine, Juntendo University School of Medicine, Tokyo, Japan.
-9 Department of Hematology, Juntendo University Shizuoka Hospital, Shizuoka, Japan.
-10 Blood Disorders Center, Aiiku Hospital, Hokkaido, Japan.
-11 Department of Hematology, Toyota Kosei Hospital, Aichi, Japan.
-12 Internal Medicine Department, Okayama Rosai Hospital, Okayama, Japan.
-13 Department of Hematology, NTT Medical Center Tokyo, Tokyo, Japan.
-14 Department of Hematology, Oita Prefectural Hospital, Oita, Japan.
-15 Department of Hematology/Oncology, Tokai University Hachioji Hospital, Tokyo, Japan.
-16 Division of Hematology and Oncology, Department of Internal Medicine, Iwate Medical University School of Medicine, Iwate, Japan.
-17 Department of Hematopoietic Tumor, International Medical Center, Saitama Medical University, Saitama, Japan.
-18 Department of Hematology, Japanese Red Cross Aichi Medical Center Nagoya Daiichi Hospital, Aichi, Japan.
-19 Department of Hematology, Osaka City General Hospital, Osaka, Japan.
-20 Department of Hematology, Juntendo University Nerima Hospital, Tokyo, Japan.
-21 Department of Hematology, Tenri Hospital, Nara, Japan.
-22 Department of Hematology, Seichokai Fuchu Hospital, Osaka, Japan.
-23 PharmaEssentia Japan KK, Tokyo, Japan.",,2024 Dec;29(1):2340149.
+1 Division of Hematology, Oncology & Transplantation, University of Minnesota, Minneapolis, MN, United States.
+2 Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN, United States.",,2024 Apr 8:14:1372382.
+keytruda,Advanced Merkel cell carcinoma in setting of pembrolizumab therapy for squamous cell carcinoma.,https://pubmed.ncbi.nlm.nih.gov/38650591,No abstract available,"Affiliations
+          
+
+1 Midwestern University Arizona College of Osteopathic Medicine, Glendale, Arizona.
+2 Mackenzie Dermatology, Prescott, Arizona.; Affiliations
+          
+
+1 Midwestern University Arizona College of Osteopathic Medicine, Glendale, Arizona.
+2 Mackenzie Dermatology, Prescott, Arizona.",,2024 Mar 11:47:57-60.
+keytruda,Significant response to pembrolizumab plus lenvatinib in Epstein-Barr-virus-associated intrahepatic cholangiocarcinoma: a case report.,https://pubmed.ncbi.nlm.nih.gov/38650446,"Background:
+        
+      
+      The prognosis for advanced intrahepatic cholangiocarcinoma (iCCA) is poor, and there remains an urgent need to develop efficient systemic therapy. The efficacy of Pembrolizumab immunotherapy combined with lenvatinibin in iCCA is still unclear. The role of Epstein-Barr-virus (EBV) as a biomarker in iCCA for response to immunotherapy needs further exploration.
+    
+
+
+          Case presentation:
+        
+      
+      We report a case of a 60-year-old female with EBV-associated advanced iCCA (EBVaiCCA) who progressed after first-line therapy. She accomplished an available response to the combination therapy of pembrolizumab with lenvatinib, with overall survival of 20 months.
+    
+
+
+          Conclusions:
+        
+      
+      As far as we know, this is the first case report about the application of Pembrolizumab with lenvatinib for EBVaiCCA patients. This case indicates that the combination of immunotherapy and antiangiogenic therapy provides a glimmer of hope for advanced EBVaiCCA patients.","Affiliation
+          
+
+1 Cancer Center, Institute of Radiation Oncology, Hubei Key Laboratory of Precision Radiation Oncology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.; Affiliation
+          
+
+1 Cancer Center, Institute of Radiation Oncology, Hubei Key Laboratory of Precision Radiation Oncology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",,2024 Dec 31;25(1):2338644.
+keytruda,Cardiac and Intramuscular Metastases Following Nephroureterectomy for Metachronous Urothelial Carcinoma.,https://pubmed.ncbi.nlm.nih.gov/38650318,"BACKGROUND We present a case of metachronous cardiac and intramuscular metastases in a patient with a known history of radical nephroureterectomy for upper-tract urothelial carcinoma (UTUC). CASE REPORT A 58-year-old man had a history of metachronous renal pelvis urothelial carcinoma with prior left radical nephroureterectomy. He was also diagnosed with malignancy-associated deep vein thrombosis (DVT) and was on rivaroxaban. He presented at an oncology follow-up consult with shortness of breath and right scapular lump. CT scan revealed a soft-tissue mass at the surgical bed suspicious for local recurrence, as well as intracardiac hypodensities and intramuscular nodules in the right latissimus dorsi and right adductor muscles. The intracardiac hypodensities were located in the left atrial appendage and inter-atrial septum. Given that the patient had a history of DVT and in a pro-thrombotic state, differentials for the intracardiac densities included intracardiac thrombi or metastases. The intramuscular hypodensities were rim-enhancing. Given that the patient was on rivaroxaban, differentials included hematomas or metastases. As there was no overlying bruising and the lesions remained unchanged in size clinically, they were treated as metastases. The patient was treated with clexane but re-presented with worsening of shortness of breath and palpitations. CT scan showed increased size of intracardiac lesions, suggesting no response to anticoagulation, and therefore were likely metastatic in nature. He completed a 2-year course of IV pembrolizumab and was in complete remission. CONCLUSIONS Our case highlights the importance of this clinically challenging scenario when patients with known malignancy and on anticoagulation present with cardiac or musculoskeletal symptoms. Though these patients are at risk of thrombus and haematoma, cardiac and intramuscular metastasis should be considered, as the prognosis is guarded.","Affiliation
+          
+
+1 Department of Oncologic Imaging, National Cancer Centre, Singapore City, Singapore.; Affiliation
+          
+
+1 Department of Oncologic Imaging, National Cancer Centre, Singapore City, Singapore.",,2024 Apr 23:25:e942864.
+keytruda,"Merkel Cell Carcinoma: Integrating Epidemiology, Immunology, and Therapeutic Updates.",https://pubmed.ncbi.nlm.nih.gov/38649621,"Merkel cell carcinoma (MCC) is a rare skin cancer characterized by neuroendocrine differentiation. Its carcinogenesis is based either on the integration of the Merkel cell polyomavirus or on ultraviolet (UV) mutagenesis, both of which lead to high immunogenicity either through the expression of viral proteins or neoantigens. Despite this immunogenicity resulting from viral or UV-associated carcinogenesis, it exhibits highly aggressive behavior. However, owing to the rarity of MCC and the lack of epidemiologic registries with detailed clinical data, there is some uncertainty regarding the spontaneous course of the disease. Historically, advanced MCC patients were treated with conventional cytotoxic chemotherapy yielding a median response duration of only 3 months. Starting in 2017, four programmed cell death protein 1 (PD-1)/programmed cell death-ligand 1 (PD-L1) immune checkpoint inhibitors-avelumab, pembrolizumab, nivolumab (utilized in both neoadjuvant and adjuvant settings), and retifanlimab-have demonstrated efficacy in treating patients with disseminated MCC on the basis of prospective clinical trials. However, generating clinical evidence for rare cancers, such as MCC, is challenging owing to difficulties in conducting large-scale trials, resulting in small sample sizes and therefore lacking statistical power. Thus, to comprehensively understand the available clinical evidence on various immunotherapy approaches for MCC, we also delve into the epidemiology and immune biology of this cancer. Nevertheless, while randomized studies directly comparing immune checkpoint inhibitors and chemotherapy in MCC are lacking, immunotherapy shows response rates comparable to those previously reported with chemotherapy but with more enduring responses. Notably, adjuvant nivolumab has proven superiority to the standard-of-care therapy (observation) in the adjuvant setting.","Affiliations
+          
+
+1 Department of Translational Skin Cancer Research (TSCR), German Cancer Consortium (DKTK), partner site Essen, University Duisburg-Essen, Universitätsstrasse 1, 45141, Essen, Germany. j.becker@dkfz.de.
+2 Department of Dermatology, University Medicine Essen, Essen, Germany. j.becker@dkfz.de.
+3 German Cancer Research Center (DKFZ), Heidelberg, Germany. j.becker@dkfz.de.
+4 Institute of Medical Informatics, Biometry and Epidemiology, University Hospital Essen, Essen, Germany.
+5 Cancer Registry of North Rhine-Westphalia, Bochum, Germany.
+6 Department of Dermatology, University Hospital Würzburg, Würzburg, Germany.
+7 Department of Dermatology, University Medicine Essen, Essen, Germany.; Affiliations
+          
+
+1 Department of Translational Skin Cancer Research (TSCR), German Cancer Consortium (DKTK), partner site Essen, University Duisburg-Essen, Universitätsstrasse 1, 45141, Essen, Germany. j.becker@dkfz.de.
+2 Department of Dermatology, University Medicine Essen, Essen, Germany. j.becker@dkfz.de.
+3 German Cancer Research Center (DKFZ), Heidelberg, Germany. j.becker@dkfz.de.
+4 Institute of Medical Informatics, Biometry and Epidemiology, University Hospital Essen, Essen, Germany.
+5 Cancer Registry of North Rhine-Westphalia, Bochum, Germany.
+6 Department of Dermatology, University Hospital Würzburg, Würzburg, Germany.
+7 Department of Dermatology, University Medicine Essen, Essen, Germany.",,2024 Apr 22.
+keytruda,"Mucinous Adenocarcinoma of the Prostate With Normal Prostate-Specific Antigen Levels, Pulmonary Metastasis, and the Absence of Nodal Disease: A Case Report.",https://pubmed.ncbi.nlm.nih.gov/38646307,"A 74-year-old man was suffering from nine months of perineal pain and progressive worsening of urinary symptoms including nocturia and urgency. His prostate-specific antigen (PSA) levels were 1.48 ng/mL at the time of referral. Initially, a differential diagnosis of prostatitis or seminal vesicle inflammation was made, and four weeks of antibiotics were prescribed, which were later extended to six weeks due to failure of symptoms to resolve. Magnetic resonance imaging (MRI) of the prostate was then conducted. The impression was that there was ejaculatory duct obstruction caused by enlarged seminal vesicles with no evidence of significant prostate cancer. The prostate-specific antigen density (PSAd) was 0.04, and the prostate imaging reporting and data system (PIRADS) score was I-II. A CT chest with contrast was conducted for further investigation of pulmonary nodules found on the CT urogram. It revealed multiple calcified pulmonary nodules which were suspicious of malignancy. A CT-guided biopsy of one of the pulmonary nodules was taken, and histopathological analysis revealed a mucinous adenocarcinoma. A transurethral resection of the prostate (TURP) was then performed. Histopathological analysis of the prostatic surgical specimen revealed invasive mucinous adenocarcinoma. Based on the findings, a diagnosis of mucinous adenocarcinoma of the prostate with atypical lung metastasis without osseous or regional lymph node involvement was made, stage T4 N0 M1a. The patient is currently on a treatment regimen consisting of carboplatin, pemetrexed, and pembrolizumab.","Affiliations
+          
+
+1 Urology Department, Churchill Hospital, Oxford University Hospitals NHS Trust, Oxford, GBR.
+2 Surgery Department, Benazir Bhutto Hospital, Rawalpindi, PAK.
+3 Medicine Department, Isfandyar Bukhari District Hospital, Attock, PAK.; Affiliations
+          
+
+1 Urology Department, Churchill Hospital, Oxford University Hospitals NHS Trust, Oxford, GBR.
+2 Surgery Department, Benazir Bhutto Hospital, Rawalpindi, PAK.
+3 Medicine Department, Isfandyar Bukhari District Hospital, Attock, PAK.",,2024 Mar 20;16(3):e56563.
+keytruda,Pembrolizumab in Vaginal Carcinoma: A Case Report and Review of the Literature.,https://pubmed.ncbi.nlm.nih.gov/38645572,"Introduction:
+        
+      
+      Vaginal cancer is a rare gynecologic malignancy. While in a localized disease, concurrent chemoradiation grants local control and better overall survival, in a metastatic setting, the management options are very limited. Furthermore, recurrent cervical, vulvar, and vaginal carcinomas notoriously develop resistance to treatment, and consequently, their prognosis is still poor.
+    
+
+
+          Case presentation:
+        
+      
+      We herein present the case of a woman with a nodal relapse of vaginal carcinoma, effectively treated with third-line immunotherapy. We will also provide a review of the literature on the new therapeutic strategies for advanced vaginal carcinoma, with a focus on pembrolizumab immunotherapy.
+    
+
+
+          Conclusion:
+        
+      
+      Pembrolizumab might represent a promising option for the management of vaginal and vulvar cancer, but data to support its use in this setting are still lacking. This case highlights the need for further investigation and trial designs for this rare disease.","Affiliations
+          
+
+1 Division of Oncology, Department of Oncology and Hematology, University Hospital of Modena, Modena, Italy.
+2 Division of Oncology, S. Corona Hospital, Pietra Ligure, Italy.
+3 Division of Oncology, Department of Medical and Surgical Sciences for Children & Adults, Laboratory of Cellular Therapy, University of Modena and Reggio Emilia, Modena, Italy.
+4 Department of Laboratory Medicine and Anatomy Pathology, Institute of Anatomy and Histology Pathology, University Hospital of Modena, Modena, Italy.; Affiliations
+          
+
+1 Division of Oncology, Department of Oncology and Hematology, University Hospital of Modena, Modena, Italy.
+2 Division of Oncology, S. Corona Hospital, Pietra Ligure, Italy.
+3 Division of Oncology, Department of Medical and Surgical Sciences for Children & Adults, Laboratory of Cellular Therapy, University of Modena and Reggio Emilia, Modena, Italy.
+4 Department of Laboratory Medicine and Anatomy Pathology, Institute of Anatomy and Histology Pathology, University Hospital of Modena, Modena, Italy.",,2024 Apr 20;17(1):564-572.
+keytruda,The emerging therapies are reshaping the first-line treatment for advanced hepatocellular carcinoma: a systematic review and network meta-analysis.,https://pubmed.ncbi.nlm.nih.gov/38645513,"Background:
+        
+      
+      Given the superior performance of various therapies over sorafenib in advanced hepatocellular carcinoma (HCC) and the absence of direct comparisons, it is crucial to explore the efficacy of these treatments in phase III randomized clinical trials.
+    
+
+
+          Objectives:
+        
+      
+      The goal is to identify which patients are most likely to benefit significantly from these emerging therapies, contributing to more personalized and informed clinical decision-making.
+    
+
+
+          Design:
+        
+      
+      Systematic review and network meta-analysis.
+    
+
+
+          Data sources and methods:
+        
+      
+      PubMed, Embase, ClinicalTrials.gov, and international conference databases have been searched from 1 January 2010 to 1 December 2023.
+    
+
+
+          Results:
+        
+      
+      After screening, 17 phase III trials encompassing 18 treatments were included. In the whole-population network meta-analysis, the newly first-line tremelimumab plus durvalumab (Tre + Du) was found to be comparable with atezolizumab plus bevacizumab (Atezo + Beva) in providing the best overall survival (OS) benefit [hazard ratio (HR) 1.35, 95% confidence interval (CI): 0.93-1.92]. Concerning OS benefits, sintilimab plus bevacizumab biosimilar (Sint + Beva), camrelizumab plus rivoceranib (Camre + Rivo), and lenvatinib plus pembrolizumab (Lenva + Pemb) appear to exhibit similar effects to Tre + Du and Atezo + Beva. In the context of progression-free survival, Atezo + Beva seemed to outperform Tre + Du (HR: 0.66 CI: 0.49-0.87), while the effects are comparable to Sint + Beva, Camre + Rivo, and Lenva + Pemb. Upon comparison between Asia-Pacific and non-Asia-Pacific cohorts, as well as between hepatitis B virus (HBV)-infected and non-HBV-infected populations, immune checkpoint inhibitor (ICI)-based treatments seemed to exhibit heightened efficacy in the Asia-Pacific group and among individuals with HBV infection. However, combined ICI-based therapies did not show more effectiveness than molecular-targeted drugs in patients without macrovascular invasion and/or extrahepatic spread. As for grades 3-5 adverse events, combined therapies showed comparable safety to sorafenib and lenvatinib.
+    
+
+
+          Conclusion:
+        
+      
+      Compared with sorafenib and lenvatinib, combination therapies based on ICIs significantly improved the prognosis of advanced HCC and demonstrated similar safety. At the same time, the optimal treatment approach should be tailored to individual patient characteristics, such as etiology, tumor staging, and serum alpha-fetoprotein levels. With lower incidence rates of treatment-related adverse events and non-inferior efficacy compared to sorafenib, ICI monotherapies should be prioritized as a first-line treatment approach for patients who are not suitable candidates for ICI-combined therapies.
+    
+
+
+          Trial registration:
+        
+      
+      PROSPERO, CRD42022288172.","Affiliations
+          
+
+1 State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+2 Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+3 Department of Anesthesiology, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+4 Department of Nutrition, School of Public Health, Sun Yat-sen University, 651 Dongfeng Road East, Guangzhou, Guangdong 510060, P. R. China.
+5 Department of Liver Surgery, Sun Yat-sen University Cancer Center, 651 Dongfeng Road East, Guangzhou, Guangdong 510060, P. R. China.; Affiliations
+          
+
+1 State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+2 Department of Liver Surgery, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+3 Department of Anesthesiology, Sun Yat-sen University Cancer Center, Guangzhou, Guangdong, P. R. China.
+4 Department of Nutrition, School of Public Health, Sun Yat-sen University, 651 Dongfeng Road East, Guangzhou, Guangdong 510060, P. R. China.
+5 Department of Liver Surgery, Sun Yat-sen University Cancer Center, 651 Dongfeng Road East, Guangzhou, Guangdong 510060, P. R. China.",,2024 Apr 20:17:17562848241237631.
+keytruda,[Current Status and Issues of Companion Diagnostics in Cancer Genomic Medicine].,https://pubmed.ncbi.nlm.nih.gov/38644302,"As of December 2023, there are 5 types of cancer gene panel tests covered by public insurance in Japan. Four of them partly feature companion diagnostics. When cancer gene panel test is used for the purpose of comprehensive gene profiling (CGP), a total of 56,000 points(44,000 points for the test administration fee and 12,000 points for the expert panel fee) can be claimed, whereas if the cancer gene panel test is used for the purpose of companion diagnostics, hospitals can claim only the reimbursement as a companion diagnostics, which fee is much cheaper than that of CGP. Therefore, cancer gene panel tests are rarely used as a companion diagnosis in daily clinical practice. Even when the test is performed as a CGP test, since its indication is limited to patients who have completed or are expected to complete standard chemotherapy, most biomarkers associated with approved drugs are already evaluated with stand-alone companion diagnostics at the time of CGP test application. On the other hand, there are some approved drugs, such as pembrolizumab for TMB-H or entrectinib or larotrectinib for NTRK fusion gene, for which there is no stand-alone companion diagnostics and the eligibility for these drugs cannot be judged without the results of CGP test. This paper discusses the current status and issues of companion diagnostics in cancer genomic medicine.","Affiliation
+          
+
+1 Dept. of Therapeutic Oncology, Graduate School of Medicine, Kyoto University.; Affiliation
+          
+
+1 Dept. of Therapeutic Oncology, Graduate School of Medicine, Kyoto University.",,2024 Apr;51(4):388-391.
+keytruda,[Enhancing survival outcomes in stage Ⅲ gastric/esophagogastric junction cancer: a retrospective study of immune checkpoint inhibitors and adjuvant chemotherapy based on real-world data].,https://pubmed.ncbi.nlm.nih.gov/38644245,"Objective: To explore the efficacy of immune checkpoint inhibitors combined with adjuvant chemotherapy in patients with phase III gastric cancer and esophagogastric junction cancer. Methods: This study used a retrospective cohort study method based on real-world data. Clinical data of 403 patients with stage III gastric/esophagogastric junction cancer who underwent gastrectomy followed by adjuvant therapy in the Department of Gastric Surgery at Sun Yat-sen University Cancer Center from January 2020 to December 2023 were retrospectively collected. The study cohort comprised 147 (36.5%) patients with stage IIIA, 130 (32.3%) with stage IIIB, and 126 (31.3%) with stage IIIC gastric/esophagogastric junction cancer. Of them, 15 (3.7%) were HER-2 positive, 25 (6.2%) dMMR, and 22 (5.5%) patients Epstein-Barr virus encoding RNA (EBER) positive. Based on treatment plans, the patients were divided into immune checkpoint inhibitor combined with chemotherapy group (immune therapy group, n=110, 71 males and 39 females, median age 59 years old) and chemotherapy alone group (chemotherapy group, n=293, 186 males and 107 females, median age 60 years old). All patients in the immunotherapy group received immune checkpoint inhibitors targeting the programmed cell death protein-1 (PD-1) and its ligand (PD-L1). Of them, 85 received pembrolizumab, 10 received sintilimab, 8 received tislelizumab, 4 received camrelizumab, 2 received toripalimab, and 1 received pabocizumab. The adjuvant chemotherapy regimens used among the chemotherapy alone group includes SOX regimen (132 cases), XELOX (102 cases), S-1 monotherapy (44 cases), and other regimens (15 cases). The 3-year DFS rate of the two groups was compared, and subgroup analysis was conducted based on different ages, molecular phenotypes, pTNM staging, extranodal infiltration, and tumor length. Results: The median follow-up was 20.5 months (range 3.1~46.3), with a 3-year overall DFS rate of 61.4% for the entire 403 patients. The 3-year DFS rate for the immunotherapy group was 82.7%, higher than the chemotherapy alone group (58.8%), with a statistically significant difference (P=0.021). Multivariate analysis showed that postoperative immunotherapy was a protective factor for DFS (HR=0.352, 95%CI: 0.180~0.685). Subgroup analysis showed that stage IIIC (HR=0.416, 95%CI: 0.184~0.940), aged ≥60 years (HR=0.336, 95%CI: 0.121~0.934) and extranodal invasion (HR=0.378, 95%CI: 0.170~0.839) were associated with benefit from the combined immune adjuvant chemotherapy, while no association was observed for MMR, HER-2 or EBER status. Conclusion: Stage III gastric/esophagogastric junction cancer patients may benefite from postoperative immune checkpoint inhibitor combined with adjuvant chemotherapy in real-world settings.","Affiliation
+          
+
+1 Department of Gastric Surgery, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.; Affiliation
+          
+
+1 Department of Gastric Surgery, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou 510060, China.",,2024 Apr 25;27(4):395-402.

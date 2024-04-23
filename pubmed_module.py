@@ -20,7 +20,7 @@ class PubMedScraper:
     def scrape_pipeline(self):
         year = 2024 # Hardcoded for now
         for i, keyword in enumerate(self.config['keywords']):
-            print(f"Scraping articles for keyword: {keyword}")
+            print(f"Scraping articles for keyword: {keyword} from PubMed")
             search_url = f"{self.base_url}?term={keyword}+{year}%5Bdp%5D&sort=date"
             articles_data = self.scrape_pubmed(keyword, search_url)
             if i == 0:
@@ -31,6 +31,7 @@ class PubMedScraper:
 
     def scrape_pubmed(self, keyword, search_url):
         response = requests.get(search_url)
+        time.sleep(0.5)  # Respectful delay between requests
         articles_data = []
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
@@ -56,9 +57,9 @@ class PubMedScraper:
                         abstract_text = abstract_tag.text.strip()
                     
                     # Extract authors, affiliations, keywords, and publication date
-                    authors_tags = abstract_soup.find_all('div', class_='authors-list')
-                    if authors_tags:
-                        authors_list = [author.text.strip() for author in authors_tags]
+                    # authors_tags = abstract_soup.find_all('div', class_='authors-list')
+                    # if authors_tags:
+                    #     authors_list = [author.text.strip() for author in authors_tags]
                     
                     affiliations_tags = abstract_soup.find_all('div', class_='affiliations')
                     if affiliations_tags:
@@ -77,7 +78,7 @@ class PubMedScraper:
                     "title": title,
                     "link": link,
                     "abstract": abstract_text,
-                    "authors": authors_list,
+                    # "authors": authors_list,
                     "affiliations": affiliations_list,
                     "keywords": keywords_list,
                     "publication_date": publication_date
@@ -90,14 +91,14 @@ class PubMedScraper:
     def write_to_csv(self, data, filename='pubmed_articles.csv', mode = 'a'):
         with open(filename, mode=mode, newline='', encoding='utf-8-sig') as file:
             writer = csv.writer(file)
-            writer.writerow(["Keyword", "Title", "URL", "Abstract", "Authors", "Affiliations", "Keywords", "Publication Date"])
+            writer.writerow(["Keyword", "Title", "URL", "Abstract", "Affiliations", "Keywords", "Publication Date"])
             for article in data:
                 # Convert lists to strings
-                authors = '; '.join(article['authors'])
+                # authors = '; '.join(article['authors'])
                 affiliations = '; '.join(article['affiliations'])
                 keywords = '; '.join(article['keywords'])
                 # Write as a row
-                writer.writerow([article["keyword"], article["title"], article["link"], article["abstract"], authors, affiliations, keywords, article["publication_date"]])
+                writer.writerow([article["keyword"], article["title"], article["link"], article["abstract"], affiliations, keywords, article["publication_date"]])
 
 def read_config(filename):
     with open(filename, 'r') as file:
