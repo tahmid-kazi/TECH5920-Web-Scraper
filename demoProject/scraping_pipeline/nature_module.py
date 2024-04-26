@@ -5,9 +5,10 @@ import re
 from typing import List, Dict
 import time
 import csv
+from pathlib import Path
 
 class NatureScraper:
-    def __init__(self, config):
+    def __init__(self, config: Dict):
         self.base_url = 'https://www.nature.com'
         self.config = config
 
@@ -27,7 +28,7 @@ class NatureScraper:
         self.save_to_csv(all_articles, 'nature_articles.csv')
         return all_articles
 
-    def extract_nature_articles(self, start_date, end_date, title_keyword: str) -> List[Dict]:
+    def extract_nature_articles(self, start_date: str, end_date: str, title_keyword: str) -> List[Dict]:
         start_dt = datetime.strptime(start_date, '%Y-%m-%d')
         end_dt = datetime.strptime(end_date, '%Y-%m-%d')
         search_url = f'{self.base_url}/search?q={title_keyword}&order=date_asc&date_range={start_dt.year}-{end_dt.year}&article_type=research'
@@ -45,7 +46,7 @@ class NatureScraper:
             article_url = self.base_url + atag['href']
             article_soup = self.retrieve_url(article_url)
             if article_soup:
-                article_data = self.parse_page(article_soup)
+                article_data = self.parse_page(article_soup, article_url, title_keyword)
                 if article_data['Published Date']:
                     pub_date = datetime.strptime(article_data['Published Date'], '%Y-%m-%d')
                     if start_dt <= pub_date <= end_dt:
@@ -66,7 +67,7 @@ class NatureScraper:
             print(f"Error retrieving URL {url}: {e}")
             return None
 
-    def parse_page(self, soup: BeautifulSoup) -> Dict:
+    def parse_page(self, soup: BeautifulSoup, article_url: str, keyword: str) -> Dict:
         time_element = soup.find('ul', {'data-test': 'article-identifier'}).find('time')
         if time_element:
             dt = datetime.strptime(time_element['datetime'], '%Y-%m-%d')
@@ -95,16 +96,22 @@ class NatureScraper:
         # content_texts = [tag.get_text().strip() for tag in article_div.find_all('p') if tag.get_text().strip()]
 
         return {
+            'Keyword': keyword,
             'Title': title,
             #'Author': ', '.join(authors),
             'Published Date': date_str,
-            'Url': soup.base_url,
+            'Url': article_url,
             'Abstract': abstract
         }
 
-    def save_to_csv(self, articles, filename):
-        with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['Title', 'Published Date', 'Url', 'Abstract']
+    def save_to_csv(self, articles: Dict, filename: str):
+        script_dir = Path(__file__).parent.resolve()
+
+    # Step out of the script directory and into the 'databases' directory
+        database_dir = script_dir.parent / 'databases'
+        filepath = database_dir / filename
+        with open(filepath, 'w', newline='', encoding='utf-8') as csvfile:
+            fieldnames = ['Keyword', 'Title', 'Published Date', 'Url', 'Abstract']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()

@@ -4,11 +4,12 @@ import csv
 import json
 import time
 import argparse
-
+from typing import List, Dict
+from pathlib import Path
 
 class PubMedScraper:
 
-    def __init__(self, config):
+    def __init__(self, config: Dict):
         self.config = config
         self.base_url = "https://pubmed.ncbi.nlm.nih.gov/"
 
@@ -19,17 +20,16 @@ class PubMedScraper:
 
     def scrape_pipeline(self):
         year = 2024 # Hardcoded for now
-        for i, keyword in enumerate(self.config['keywords']):
+        articles_data = [] # List to store all articles
+        for keyword in self.config['keywords']:
             print(f"Scraping articles for keyword: {keyword} from PubMed")
             search_url = f"{self.base_url}?term={keyword}+{year}%5Bdp%5D&sort=date"
             articles_data = self.scrape_pubmed(keyword, search_url)
-            if i == 0:
-                mode = 'w'
-            else:
-                mode = 'a'
-            self.write_to_csv(articles_data, mode=mode)
+            articles_data.extend(articles_data)
+        self.write_to_csv(articles_data, mode='w')  
 
-    def scrape_pubmed(self, keyword, search_url):
+
+    def scrape_pubmed(self, keyword: str, search_url: str):
         response = requests.get(search_url)
         time.sleep(0.5)  # Respectful delay between requests
         articles_data = []
@@ -88,12 +88,15 @@ class PubMedScraper:
             print(f"Failed to retrieve data for keyword '{keyword}'. HTTP Status Code: {response.status_code}")
         return articles_data
 
-    def write_to_csv(self, data, filename='pubmed_articles.csv', mode = 'a'):
-        with open(filename, mode=mode, newline='', encoding='utf-8-sig') as file:
+    def write_to_csv(self, data: List, filename='pubmed_articles.csv', mode='w'):
+        script_dir = Path(__file__).parent.resolve()
+    # Step out of the script directory and into the 'databases' directory
+        database_dir = script_dir.parent / 'databases'
+        filepath = database_dir / filename
+        with open(filepath, mode=mode, newline='', encoding='utf-8-sig') as file:
             writer = csv.writer(file)
             writer.writerow(["Keyword", "Title", "URL", "Abstract", "Affiliations", "Keywords", "Publication Date"])
             for article in data:
-                # Convert lists to strings
                 # authors = '; '.join(article['authors'])
                 affiliations = '; '.join(article['affiliations'])
                 keywords = '; '.join(article['keywords'])
