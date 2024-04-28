@@ -186,7 +186,8 @@ class InsightGenerator:
 
 
 insight = InsightGenerator()
-# insight.setProject("../testProject")
+insight.setProject("../demoProject")
+insight.setTeamProfile("../TeamBigData_test")
 response = insight.getReport()
 
 print("Summary -----------------------------")
