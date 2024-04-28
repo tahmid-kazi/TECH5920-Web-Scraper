@@ -50,7 +50,7 @@ $ python3 -m pip install -U openai
 ```
 In addition to langchain libraries, an API key needs to be requested from the OpenAI website (you need to create an account in order to do this) There are free credits available for new users. 
 
-Once the API key is generated, save it to the local environment by executing the following commane:
+Once the API key is generated, save it to the local environment by executing the following command:
 ```
 $ export OPENAI_API_KEY="YOUR_OPENAI_API_KEY_HERE"
 ```
